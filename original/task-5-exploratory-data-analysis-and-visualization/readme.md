@@ -1,0 +1,16 @@
+### Exploratory Data Analysis
+
+## List of Datasets and respective Analaysis Reports
+
+| Dataset                                                                                                                       | Notebook                                                                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [50startup Kaggle](./data/kaggle-50Startup)                                  | [EDA](./notebook/EDA_50StartupsData.ipynb)                                                                                                              |
+| [Angellist Kaggle](./data/kaggle-AngelList)                                  | [EDA](./notebook/AngelList_Data_AI_Startups_EDA_v2.ipynb)                                                                                               |
+| [Indian Startups Kaggle](./data/kaggle-IndianStartup)                        | [EDA](./notebook/IndianStartupFunding.ipynb)                                                                                                            |
+| [Pakistan Startups Kaggle](./data/kaggle-PakistanStartups)                   | [EDA](./notebook/EDA_PakistanStartups.ipynb)                                                                                                            |
+| [Startup Founder Valuation Kaggle](./data/kaggle-startup-founders-valuation) | [EDA](./notebook/EDA-kaggle-startup-founders-valuation.ipynb)                                                                                           |
+| [Indian Startup Funding Kaggle](./data/kaggle-Indian%20Unicorns)               | [EDA](./notebook/IndianStartupFunding.ipynb)                                                                                                            |
+| [Seed Star](./data/Seedstar_cleaned_data)                                    | [EDA-1](./notebook/seedstars_feature_engineering.ipynb) [EDA-2](.notebook/SeedStars_AlumniData.ipynb) |
+|                                                                                                                               |                                                                                                                                                                                                          |
+|                                                                                                                               |                                                                                                                                                                                                          |
+|                                                                                                                               |                                                                                                                                                                                                          |
