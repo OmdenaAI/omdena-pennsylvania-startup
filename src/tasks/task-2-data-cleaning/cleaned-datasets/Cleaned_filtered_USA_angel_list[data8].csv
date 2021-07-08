@@ -1,0 +1,471 @@
+,name,desc,angel_url,location,employees,raised,website,angel_id
+0,Cleargraph,Zero-friction identity verification,https://angel.co/cleargraphinc,San Francisco,1-10,9900000.0,https://cleargraph.com/careers.html,3405248
+1,Kylie.ai,Kylie Leverages AI to Clone Enterprise Support Agents to Automate Conversations,https://angel.co/kylieai,San Francisco,1-10,9900000.0,http://www.kylie.ai,3399236
+2,IFTTT,Do more with the services you love,https://angel.co/ifttt,San Francisco,11-50,37000000.0,https://ifttt.com,26564
+3,CrowdFlower,The essential human-in-the-loop platform for data science teams,https://angel.co/crowdflower,San Francisco,51-200,38000000.0,http://www.crowdflower.com,32119
+4,Ripple,"Instant, certain, low-cost cross-border payments.",https://angel.co/ripple-labs,San Francisco,51-200,86500000.0,http://www.ripple.com,197974
+5,Pinterest,"Discover recipes, home ideas, style inspiration and other ideas to try.",https://angel.co/pinterest,San Francisco,501-1000,1448500000.0,http://www.pinterest.com,281
+6,Pomello,Data-Driven HR Platform,https://angel.co/pomello,San Francisco,1-10,28000.0,http://www.pomello.com,646148
+7,Revfluence,Scalable Content Powered by Influencers,https://angel.co/revfluence,San Francisco,11-50,2400000.0,http://www.revfluence.com/?utm_source=angellist,517211
+8,Binti,Helping children join loving families,https://angel.co/binti,San Francisco,1-10,9900000.0,https://binti.com,355421
+9,Mux,Build better video: Stream and measure video on any device,https://angel.co/mux,San Francisco,11-50,11800000.0,https://mux.com,2084485
+10,Rocksbox,Transforming the way women discover and buy jewelry.,https://angel.co/rocksbox,San Francisco,11-50,10200000.0,http://www.rocksbox.com,81947
+11,AnyRoad,Experience Relationship Management.,https://angel.co/anyroad,San Francisco,11-50,9900000.0,http://anyroad.com,111266
+12,Orion,Orion is a platform for real-time voice communication everywhere. ,https://angel.co/orion-labs,San Francisco,11-50,33500000.0,https://www.orionlabs.io,183029
+13,Taulia,"Connecting businesses to boost worldwide economic growth, one invoice at a time",https://angel.co/taulia,San Francisco,201-500,142800000.0,http://www.taulia.com,639
+14,PlushCare,"Get diagnosed, treated, and prescribed medication by top doctors via smartphone now. ",https://angel.co/plushcare,San Francisco,11-50,8880000.0,http://www.plushcare.com,402108
+15,Polymorph,Machine learning driven revenue intelligence platform,https://angel.co/polymorphlabs,San Francisco,11-50,10500000.0,http://www.getpolymorph.com,125045
+16,Enki,Personalized continuous learning for tech skills,https://angel.co/enki,San Francisco,11-50,700000.0,http://enki.com,667561
+17,Particle,The full-stack Internet of Things platform. Connect your devices to the web.,https://angel.co/particle,San Francisco,11-50,30400000.0,https://www.particle.io,88813
+18,Buffer,"Intuitive, streamlined social media management",https://angel.co/buffer,San Francisco,51-200,3900000.0,http://buffer.com,21604
+19,Lob,Print and Mail API (YC S13),https://angel.co/lob,San Francisco,11-50,29400000.0,https://www.lob.com,167051
+20,IfOnly,"IfOnly delivers extraordinary experiences with top talent in sports, music, entertainment, food, wine, golf, tennis and more, all while benefiting deserving non-profits.",https://angel.co/ifonly,San Francisco,51-200,25300000.0,http://www.ifonly.com,285639
+21,Plaid,Infrastructure and API's to power FinTech,https://angel.co/plaid,San Francisco,51-200,59300000.0,https://plaid.com,61714
+22,Pocket Gems,Pioneering mobile games and entertainment,https://angel.co/pocket-gems,San Francisco,201-500,65000000.0,http://www.pocketgems.com,41212
+23,Expa,Expa builds companies,https://angel.co/expa,San Francisco,11-50,150000000.0,http://www.expa.com,202539
+24,Maker,Content engagement platform for commerce,https://angel.co/maker,San Francisco,1-10,9900000.0,http://maker.me/,79594
+25,Yogome,Learning Games Platform for Kids,https://angel.co/yogome,San Francisco,1-10,36500000.0,http://yogome.com,58611
+26,Zendrive,Making roads safer with data and analytics.,https://angel.co/zendrive,San Francisco,11-50,16500000.0,http://www.zendrive.com,161392
+27,MixRank,Competitive Sales Intelligence,https://angel.co/mixrank,San Francisco,11-50,1500000.0,http://mixrank.com,26190
+28,LendUp,We build products for the underbanked that improve financial health. ,https://angel.co/lendup,San Francisco,201-500,261500000.0,http://www.lendup.com,79622
+29,Zinc,An Ecommerce Plumbing Company (YC W14),https://angel.co/zinc-technologies,San Francisco,11-50,9900000.0,https://zinc.io,496729
+30,Hipcamp,Discover and book original camping experiences,https://angel.co/hipcamp,San Francisco,11-50,2000000.0,http://www.hipcamp.com/,215222
+31,Looklive,Community and Marketplace for Men's fashion.,https://angel.co/looklive,San Francisco,1-10,9900000.0,https://www.looklive.com,1872365
+32,Naytev,(YC S14) A/B testing for how content appears on social media,https://angel.co/naytev,San Francisco,1-10,1300000.0,http://www.naytev.com,359410
+33,Clutter,Making the world more convenient.,https://angel.co/clutter,San Francisco,201-500,96300000.0,http://clutter.com,251943
+34,Calm,Making the world happier and healthier through the superpower of Calm.,https://angel.co/calm,San Francisco,11-50,993000.0,http://www.calm.com,89425
+35,Bloc,Structured online training programs in software development and design.,https://angel.co/bloc,San Francisco,51-200,8000000.0,https://www.bloc.io,28772
+36,BetterUp,Personalized leadership development for everyone,https://angel.co/betterup,San Francisco,51-200,12900000.0,http://www.betterup.co,416859
+37,Unity Technologies,"Unity is the world’s leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life",https://angel.co/unity-technologies,San Francisco,1001-5000,17500000.0,http://unity3d.com,38445
+38,Chewse,Chewse delivers family-style office meals from the best local restaurants.,https://angel.co/chewse,San Francisco,11-50,16000000.0,https://www.chewse.com/,30557
+39,NexTravel,Business Travel Made Simple,https://angel.co/nextravel,San Francisco,11-50,9900000.0,http://www.nextravel.com,665683
+40,Mode,Collaborative Analytics Platform,https://angel.co/mode,San Francisco,51-200,10425000.0,http://modeanalytics.com,282640
+41,Wefunder,"""Kickstarter for investing"".  Saving the American Dream for the next generation.",https://angel.co/wefunder,San Francisco,11-50,6067000.0,http://www.wefunder.com,75239
+42,Gigster,Software development on-demand,https://angel.co/gigster,San Francisco,51-200,10000000.0,https://gigster.com,244177
+43,Loom.ai,"Personalized expressive 3D avatars from photographs for chat, mobile AR, VR, e-commerce",https://angel.co/loomai,San Francisco,11-50,9900000.0,http://loom.ai,1111456
+44,Republic,Invest in startups via Republic equity crowdfunding platform,https://angel.co/republic,San Francisco,11-50,9900000.0,https://republic.co,1105543
+45,Scale API,API for human intelligence,https://angel.co/scaleapi,San Francisco,11-50,4500000.0,http://scaleapi.com,1160092
+46,Bright,SolarCity for the developing world,https://angel.co/bright-3,San Francisco,1-10,4240000.0,http://thinkbright.mx,400547
+47,Fitbit,"we are a company dedicated to providing clients with life-changing health and fitness products. We offer a large assortment of smartwatches, scales, apparel, apps, fitness trackers, how-to videos, accessories, and a wide assortment of other tools to help people attain their wellness goals.",https://angel.co/fitbit,San Francisco,1001-5000,66000000.0,http://www.fitbit.com,32178
+48,Seed,Online Business Banking,https://angel.co/seed-8,San Francisco,11-50,5000000.0,https://seed.co,462906
+49,Grove Collaborative,"Helping families create a healthy, beautiful environment in their homes",https://angel.co/grovecollab,San Francisco,11-50,44700000.0,http://www.grove.co,166017
+50,Mystery Science,Open-and-go lessons that inspire kids to love science.,https://angel.co/mystery-science,San Francisco,11-50,9900000.0,http://mysteryscience.com,135064
+51,Xola,Booking & Distribution Platform for Experience Providers. (Sabre for Activities).,https://angel.co/xola,San Francisco,11-50,6800000.0,http://www.xola.com,19935
+52,Opencare,Your personal healthcare expert,https://angel.co/opencare,San Francisco,1-10,9900000.0,https://www.opencare.com,175143
+53,8tracks,Internet radio curated by people | 5m MAU,https://angel.co/8tracks,San Francisco,11-50,5100000.0,http://8tracks.com,4741
+54,Lenda,"We make home loans honest, fast, and completely online.",https://angel.co/lenda,San Francisco,11-50,9000000.0,https://www.lenda.com,214025
+55,Triplebyte,Intelligent technical recruiting,https://angel.co/triplebyte,San Francisco,11-50,3000000.0,https://triplebyte.com,696603
+56,UrbanSitter,Your community's most trusted babysitters and nannies. On-demand.,https://angel.co/urbansitter,San Francisco,11-50,22400000.0,https://www.urbansitter.com,21275
+57,Standard Cyborg,The API for the Physical World,https://angel.co/standard-cyborg,San Francisco,1-10,9900000.0,http://standardcyborg.com,431970
+58,Instaread,Enrich human lives through voice,https://angel.co/instaread,San Francisco,11-50,1675000.0,http://instaread.co,581757
+59,Kelvin,Intelligent Control for Natural Resource Operations,https://angel.co/kelvin-6,San Francisco,11-50,9900000.0,http://kelvininc.com,183382
+60,Zipline,Real-time Operations for Retail,https://angel.co/retailzipline,San Francisco,11-50,9900000.0,http://www.retailzipline.com,584082
+61,Siftery,"Share products you use at work, explore what others are using",https://angel.co/siftery,San Francisco,11-50,4000000.0,https://siftery.com,867984
+62,TrendMD,Knowledge discovery for doctors,https://angel.co/trendmd,San Francisco,11-50,9900000.0,https://www.trendmd.com/,112410
+63,PlanGrid,Bridging the gap between good software and the construction industry,https://angel.co/plangrid,San Francisco,201-500,59100000.0,http://www.plangrid.com,85839
+64,MURAL,Visual workspace that helps you design together,https://angel.co/mural,San Francisco,11-50,2075000.0,http://www.mural.co,23166
+65,Instawork,Local jobs marketplace (YC S15),https://angel.co/instawork,San Francisco,51-200,9900000.0,http://www.instawork.com,837595
+66,Equidate,The stock market for private companies.,https://angel.co/equidate,San Francisco,11-50,3500000.0,https://equidateinc.com/,330569
+67,Stripe,The new standard in online payments.,https://angel.co/stripe,San Francisco,1001-5000,343000000.0,https://stripe.com/,37232
+68,Memebox,Beauty Full Stack E-Commerce,https://angel.co/memebox,San Francisco,51-200,156200000.0,http://us.memebox.com,431924
+69,Gridspace,Software that understands and automates real-time conversation,https://angel.co/gridspace,San Francisco,11-50,9900000.0,http://www.gridspace.com/,523636
+70,Fleksy,"Touch typing, re-invented",https://angel.co/fleksy,San Francisco,11-50,5900000.0,http://fleksy.com/,103541
+71,App.io,Interactive streaming like never before.,https://angel.co/app-io,San Francisco,1-10,1180000.0,http://app.io,102051
+72,Close.io,Inside Sales Communication Platform. Helps sales people close more deals. Y Combinator.,https://angel.co/close-io,San Francisco,11-50,9900000.0,http://close.io/,103032
+73,Joist,Estimating & Invoicing Tool for Contractors,https://angel.co/joist,San Francisco,11-50,9900000.0,http://www.joist.com,103703
+74,Dealflicks,Priceline for movie tickets,https://angel.co/dealflicks,San Francisco,11-50,4600000.0,http://www.dealflicks.com,104489
+75,Discoverly,Put Social to Work,https://angel.co/discoverly,San Francisco,1-10,750000.0,http://Discover.ly,104133
+76,BeRecruited,LinkedIn/Match.com for College Athletic Recruiting,https://angel.co/berecruited,San Francisco,11-50,1200000.0,http://berecruited.com,103791
+77,Sense,Enterprise Data Science Platform,https://angel.co/sense,San Francisco,1-10,11260000.0,https://sense.io,105875
+78,Meldium,Account & password manager for teams (YC W13),https://angel.co/meldium,San Francisco,11-50,16000000.0,https://www.meldium.com,106374
+79,OLSET,OLSET - Personalized Travel Booking,https://angel.co/olset,San Francisco,1-10,2815000.0,http://www.olset.com,106081
+80,Plympton,Digital Publisher and Distributor,https://angel.co/plympton,San Francisco,1-10,80000.0,http://plympton.com,108489
+81,Partnered,The company-to-company business development network connecting startups and brands,https://angel.co/partnered,San Francisco,1-10,1098400.0,http://partnered.com,108524
+82,Mango Health,Mobile health company inspiring patients with chronic conditions to lead healthier lives.,https://angel.co/mango-health,San Francisco,11-50,8300000.0,http://www.mangohealth.com,112863
+83,Xockets,Acceleration appliances for Big Data analytics,https://angel.co/xockets,San Francisco,1-10,9900000.0,http://xockets.com,114527
+84,Celery,Accept Pre-Orders Easily,https://angel.co/celery-5,San Francisco,11-50,2300000.0,https://www.trycelery.com,114450
+85,Kamcord,(YC S12),https://angel.co/kamcord,San Francisco,11-50,37250000.0,http://kamcord.com,115146
+86,NoRedink,Adaptive learning tool that helps students improve their grammar/writing skills.,https://angel.co/noredink,San Francisco,11-50,8000000.0,http://www.noredink.com,115616
+87,FlightCar,Travel made convienent,https://angel.co/flightcar,San Francisco,51-200,40410000.0,https://www.flightcar.com,117187
+88,Grow Mobile,A single mobile ad buying solution across networks with ROI analytics and optimization.  ,https://angel.co/grow-mobile,San Francisco,51-200,43000000.0,http://www.growmobile.com,117240
+89,Foundersuite,Productivity tools for the world's 400M entrepreneurs.,https://angel.co/foundersuite,San Francisco,1-10,9900000.0,http://www.foundersuite.com,117816
+90,Bitnami,"Easy to use cloud images, containers, and VMs that work on any platform.",https://angel.co/bitnami,San Francisco,51-200,9900000.0,https://bitnami.com,108348
+91,Famous.AF / Stolen,Be the biggest fan of your favorite people on Twitter!,https://angel.co/famousaf,San Francisco,11-50,5500000.0,http://famous.af,108911
+92,Cloudflare,Cloudflare's mission is to help build a better Internet.,https://angel.co/cloudflare,San Francisco,201-500,182050000.0,http://www.cloudflare.com,112288
+93,Meetings.io,Effortless Video Meetings,https://angel.co/meetings-io,San Francisco,0,9900000.0,http://meetings.io,111423
+94,RentMetrics,The Pricing Source For The Rental Market,https://angel.co/rentmetrics,San Francisco,1-10,9900000.0,http://www.rentmetrics.com,149576
+95,doxIQ,document analytics startup. acquired by Nitro in 2015,https://angel.co/doxiq,San Francisco,1-10,9900000.0,http://www.gonitro.com,153114
+96,LawPal,Conversational search AI for Law ,https://angel.co/lawpal,San Francisco,1-10,9900000.0,https://lawpal.com/,149072
+97,byUs,Exclusive recommendations for hard-to-find service providers.,https://angel.co/byus,San Francisco,1-10,1500000.0,http://byUs.com,152954
+98,Graph Ventures,Early stage investing,https://angel.co/graph,San Francisco,1-10,9900000.0,http://graphventures.com,181901
+99,Unwind Me,"Massage Made Simple: The best therapists, straight to you, at an affordable price (YC S14)",https://angel.co/unwind-me,San Francisco,1-10,9900000.0,http://unwind.me,182792
+100,Judicata,Mapping the legal genome to help you better understand the law.,https://angel.co/judicata,San Francisco,11-50,7825000.0,https://www.judicata.com,183868
+101,Rock Health,Full-service seed funding for digital health startups,https://angel.co/rockhealth,San Francisco,1-10,9900000.0,http://rockhealth.com,181176
+102,Spire,Platform for continuous respiratory health data. Products sold in Apple Stores globally.,https://angel.co/spire,San Francisco,11-50,9500000.0,https://spire.io,182252
+103,Jackson Square Ventures,VC firm investing in SaaS and marketplaces. ,https://angel.co/jsv,San Francisco,1-10,9900000.0,http://jsv.com,183093
+104,Startcaps Ventures,VC firm,https://angel.co/startcaps-ventures,San Francisco,1-10,9900000.0,http://www.startcaps.com,183416
+105,Streem,Unlimited Cloud Storage For Your Media (YC S12),https://angel.co/streem,San Francisco,1-10,875000.0,https://www.streem.com,175020
+106,BloomThat,Send a little something! Fresh Stems + Sweet Surprises,https://angel.co/bloomthat,San Francisco,11-50,7600000.0,http://www.bloomthat.com,175330
+107,Lantern,Mental health on demand,https://angel.co/lantern-2,San Francisco,11-50,20800000.0,http://www.golantern.com,176117
+108,Mulu,Deep Learning for Intelligent Commerce,https://angel.co/mulu,San Francisco,1-10,3641507.0,http://www.mulu.me,126070
+109,Trifacta,People • Transforming • Data,https://angel.co/trifacta,San Francisco,11-50,76300000.0,http://trifacta.com,127585
+110,Sumazi,"Sumazi was a social media and social intelligence platform for enterprises, brands and celebrities. Its technology performs social data analysis across social networking services",https://angel.co/sumazi,San Francisco,1-10,9900000.0,http://www.Sumazi.com,125092
+111,Walletkit,Powering the future of Mobile Wallets.,https://angel.co/walletkit,San Francisco,1-10,9900000.0,http://www.walletkit.com,124939
+112,Chronos Mobile Technologies,Turning passively collected data into actionable insights,https://angel.co/waldo-2,San Francisco,1-10,9900000.0,http://www.chronosmobiletechnologies.com,125407
+113,Zesty,Healthy office catering (YC W14),https://angel.co/zesty-1,San Francisco,51-200,20700000.0,http://zesty.com,126085
+114,Floqq,Online Education ,https://angel.co/floqq,San Francisco,11-50,925000.0,http://www.floqq.com,126514
+115,KidAdmit,Giving your kids every opportunity,https://angel.co/kidadmit,San Francisco,1-10,500000.0,http://www.kidadmit.com,127242
+116,AuditFile,Cloud based audit software for CPA firms,https://angel.co/auditfile,San Francisco,1-10,6000000.0,http://www.auditfile.com,127822
+117,Stayful,Transforms a traveler’s entire hotel experience from booking to checkout.,https://angel.co/stayful,San Francisco,1-10,2400000.0,https://itunes.apple.com/us/app/stayful-boutique-hotel-bookings/id895110067?mt=8,184846
+118,Vacatia,Resort Marketplace for Vacationing Families & Friends,https://angel.co/vacatia,San Francisco,11-50,13800000.0,https://vacatia.com,185252
+119,CloudPeeps,The #1 all-in-one platform for running a freelance business,https://angel.co/cloudpeeps,San Francisco,1-10,9900000.0,http://cloudpeeps.com,97247
+120,True & Co,"Reinventing bra shopping. No fitting rooms, no measuring tape.",https://angel.co/true-co,San Francisco,11-50,9900000.0,http://trueandco.com,99087
+121,LearnUp - Acquired by Manpower Group,Empowering job seekers to achieve their career goals,https://angel.co/learnup,San Francisco,11-50,9900000.0,http://www.learnup.com,99125
+122,Degreed,Jailbreaking the Degree,https://angel.co/degreed,San Francisco,1-10,40800000.0,http://degreed.com/,100410
+123,Hired,The Marketplace for Talent,https://angel.co/hired-1,San Francisco,51-200,102700000.0,http://www.Hired.com,100580
+124,Airseed,Customer & Loyalty Intelligence,https://angel.co/airseed,San Francisco,1-10,9900000.0,http://www.airseed.com,100795
+125,Formation | 8,VC ,https://angel.co/formation-8,San Francisco,11-50,9900000.0,http://www.formation8.com/,179221
+126,uBiome,Big Data from Bacteria,https://angel.co/ubiome,San Francisco,201-500,21500000.0,http://www.ubiome.com,175531
+127,SoundFocus,Supercharge Your Hearing (YC S13),https://angel.co/soundfocus,San Francisco,1-10,1850000.0,http://www.soundfocus.com,175062
+128,bop.fm,Intelligent permalinks for songs,https://angel.co/bop-fm,San Francisco,1-10,2000000.0,http://bop.fm,176814
+129,SocialSign.in,Connecting people at and with great venues,https://angel.co/socialsign-in,San Francisco,1-10,9900000.0,http://socialsign.in,176940
+130,MyCrowd QA - A QASource Company,Software crowdtesting,https://angel.co/mycrowd-qa,San Francisco Bay Area,501-1000,9900000.0,https://www.mycrowd.com,163781
+131,AirPair,Micro Consulting Marketplace,https://angel.co/airpair,San Francisco,1-10,1000000.0,http://www.airpair.com,166232
+132,Misfit,Inventing and manufacturing wearable and smart home products,https://angel.co/misfit,San Francisco,51-200,324396675.0,http://www.misfit.com,167266
+133,Plastiq,"Make payments for tuition, cars, and more on credit card",https://angel.co/plastiq,San Francisco,11-50,29300000.0,https://www.plastiq.com/,167892
+134,URX,"The Deeplink Search Engine, For Developers (YC S13)",https://angel.co/urx,San Francisco,11-50,15100000.0,http://www.urx.com,164278
+135,Heavybit,Take your developer product to market,https://angel.co/heavybit-industries,San Francisco,1-10,9900000.0,http://heavybit.com,153310
+136,Genies,Launching soon on the app store,https://angel.co/genies,San Francisco,11-50,16500000.0,https://genies.la,164891
+137,Massdrop,A social space and marketplace curated by you.,https://angel.co/massdrop,San Francisco,51-200,47900000.0,http://massdrop.com,165149
+140,SafeGraph,we predict the past,https://angel.co/safegraph,San Francisco,11-50,16000000.0,http://www.safegraph.com,1145472
+142,Practice Fusion,"Practice Fusion is a web-based electronic health record (EHR) company based in San Francisco, CA. The company was founded in 2005 by Ryan Howard and acquired by Allscripts in 2018.",https://angel.co/practice-fusion,San Francisco,201-500,240019998.0,http://www.practicefusion.com/,33091
+143,Fieldwire,The construction app for the field,https://angel.co/fieldwire,San Francisco,11-50,6600000.0,http://www.fieldwire.com,27490
+144,Drive Motors,Online checkout for car dealerships (Y Combinator W2016),https://angel.co/drive-motors,San Francisco,1-10,9900000.0,http://www.drivemotors.com,578126
+145,StackShare,"See the best SaaS tools and infrastructure, and who’s using them.",https://angel.co/stackshare,San Francisco,1-10,7000000.0,https://stackshare.io,210266
+146,Yoshi,Never go to the gas station again,https://angel.co/startyoshi,San Francisco,11-50,2100000.0,http://www.startyoshi.com,2198156
+147,Zumper,Bringing magic to your apartment search,https://angel.co/zumper,San Francisco,51-200,32150000.0,https://www.zumper.com,103929
+148,Sonar,Helping companies drive revenue with mobile messaging,https://angel.co/sonar-5,San Francisco,1-10,9900000.0,https://www.sendsonar.com,447759
+149,Blend,"Blend makes the process of getting a loan simple, fast, and safe! With its digital lending platform, Blend helps financial institutions including Wells Fargo and U.S. Bank increase productivity and deliver exceptional customer experiences.",https://angel.co/blend,San Francisco,51-200,160000000.0,http://blend.com,91411
+150,CloudApp,Work at the speed of sight.,https://angel.co/cloudapp,San Francisco,11-50,2000000.0,http://getcloudapp.com,827864
+151,AdRoll Group,Power connections that drive growth,https://angel.co/adroll,San Francisco,501-1000,89000000.0,http://adroll.com,40424
+152,Talkable,Referral Marketing Platform (YC W11),https://angel.co/talkable,San Francisco,11-50,1200000.0,http://www.talkable.com,21048
+153,Localize,Localization as a Service,https://angel.co/localize,San Francisco,11-50,1200000.0,https://localizejs.com,376679
+154,Sharethrough,Native monetization tech for modern publishers and media companies. ,https://angel.co/sharethrough,San Francisco,51-200,28000000.0,http://www.sharethrough.com,32416
+155,Demandbase,"At Demandbase, we are the leader in Account-Based Marketing (ABM) offering the only comprehensive AI-enabled ABM platform. We are passionately dedicated to helping B2B marketers achieve greater business impact.",https://angel.co/demandbase,San Francisco,201-500,78000000.0,http://www.demandbase.com,32132
+156,Leap Motion,Reach into virtual reality with your bare hands,https://angel.co/leap-motion,San Francisco,51-200,124050000.0,http://www.leapmotion.com,6343
+157,Wonolo,Fast. Flexible. Staffing Reinvented.,https://angel.co/wonolo,San Francisco,11-50,7900000.0,http://wonolo.com,377879
+158,Iterable,"Growth Marketing Platform by Ex-Twitter, Google team. $23M Series B led by Index Ventures.",https://angel.co/iterable,San Francisco,51-200,32200000.0,http://iterable.com,184903
+159,Truly,Make Calling Your Competitive Advantage,https://angel.co/trulywireless,San Francisco,11-50,9900000.0,https://truly.co,204827
+160,Techmate,Your Technology Concierge (YC S16),https://angel.co/techmate,San Francisco,11-50,9900000.0,https://jointechmate.com,1380611
+161,Survata,The Brand Intelligence Platform ,https://angel.co/survata,San Francisco,11-50,7667000.0,http://www.survata.com,182277
+162,Plate IQ,Redefining restaurant operations (YC S15),https://angel.co/plateiq,San Francisco,11-50,5300000.0,http://plateiq.com/,571588
+163,LawTrades,Creating an open legal system,https://angel.co/lawtrades,San Francisco,1-10,1875000.0,http://www.lawtrades.com,227291
+164,Affirm,Bringing transparency to consumer credit.,https://angel.co/affirm,San Francisco,201-500,420000000.0,https://www.affirm.com/,178430
+165,Apptimize,Accelerate mobile innovation,https://angel.co/apptimize,San Francisco,11-50,18400000.0,http://apptimize.com,172493
+166,AngelList,A platform for startups,https://angel.co/angellist,San Francisco,51-200,24000000.0,http://angel.co,6702
+167,NanoNets,Machine Learning as a Service for Developers,https://angel.co/nanonets,San Francisco,11-50,1620000.0,https://nanonets.com,3188382
+168,SFOX,Advanced Bitcoin Trading Platform,https://angel.co/sfox,San Francisco,1-10,9900000.0,https://www.sfox.com,470868
+171,MUBI,Curated Film Streaming Service ,https://angel.co/mubi,San Francisco,51-200,27050000.0,http://mubi.com,780
+172,Yup.com,Making personalized learning more accessible for students globally.,https://angel.co/yuptechnologies,San Francisco,11-50,11500000.0,https://www.yup.com,845834
+173,Minted,Design marketplace that connects people with the world’s best artists.,https://angel.co/minted,San Francisco,201-500,87000000.0,http://www.minted.com,32625
+174,Truebill,Effortless Subscription Management,https://angel.co/truebill,San Francisco,1-10,1900000.0,http://www.truebill.com,969483
+175,Outschool,Community marketplace of live online classes for K-12,https://angel.co/outschool,San Francisco,1-10,9900000.0,https://outschool.com,805012
+176,mLab,Fully managed Database-as-a-Service for MongoDB,https://angel.co/mlab,San Francisco,11-50,8000000.0,https://mlab.com,53398
+177,KITE,Unlocking enterprise growth through startup innovation,https://angel.co/kite-2,San Francisco,11-50,9900000.0,http://www.GetKITE.Co,177695
+178,Constructor.io,Autocomplete and Search Enhancement as a Service,https://angel.co/constructor-io,San Francisco,11-50,9900000.0,https://Constructor.io,690214
+179,Layer,"Imagine, Design, and Engage in the Perfect Customer Conversation",https://angel.co/layer,San Francisco,11-50,22000000.0,https://layer.com/,262548
+180,Twitch,Social Video for Gamers,https://angel.co/twitch,San Francisco,501-1000,1005000000.0,http://www.twitch.tv/,114142
+181,Counsyl,an innovative tech company providing people w/ vital information about their bodies ,https://angel.co/counsyl,South San Francisco,201-500,32900000.0,https://www.counsyl.com/,35667
+182,Kinsa,The world's smartest thermometer,https://angel.co/kinsa,San Francisco,11-50,28600000.0,http://www.kinsahealth.com,196730
+183,AdStage,Connecting the Paid Marketer to the Data That They Need,https://angel.co/adstage,San Francisco,11-50,10800000.0,https://www.adstage.io,88378
+184,Qordoba,The Qordoba Strings Intelligence Platform: Manage all the words in your products,https://angel.co/qordoba,San Francisco,11-50,10000000.0,http://Qordoba.com,191603
+185,Chariot,"Your Commute, Solved",https://angel.co/chariot,San Francisco,51-200,3000000.0,http://www.chariot.com,369431
+186,Bugsnag,Automatic crash detection for web and mobile apps,https://angel.co/bugsnag,San Francisco,11-50,8600000.0,https://bugsnag.com,122266
+187,Envoy,Challenging the status quo of workplace technology.,https://angel.co/envoy,San Francisco,51-200,15000000.0,https://envoy.com,305102
+188,TapFwd,Private data sharing between companies,https://angel.co/tapfwd,San Francisco,11-50,3000000.0,http://www.tapfwd.com,326510
+189,Mixmax,Email reimagined.,https://angel.co/mixmax,San Francisco,11-50,1500000.0,http://mixmax.com,477880
+190,ThirdLove,We believe fit should come first,https://angel.co/thirdlove-1,San Francisco,51-200,13600000.0,http://www.thirdlove.com,179848
+191,Onfleet,Delightful Delivery Management,https://angel.co/onfleet,San Francisco,11-50,4920000.0,https://onfleet.com,97349
+192,Scoot Networks,Electric Vehicles for Everyone,https://angel.co/scoot-networks,San Francisco,51-200,9900000.0,http://www.scoot.com,26336
+193,Euclid,Illuminating identity and behavior for the physical world.,https://angel.co/euclid,San Francisco,11-50,43600000.0,https://geteuclid.com/,37902
+194,UpCounsel,Making the legal experience remarkable,https://angel.co/upcounsel,San Francisco,11-50,13900000.0,http://www.upcounsel.com,75920
+195,Luxe,On-demand valet parking and car services,https://angel.co/luxe-1,San Francisco,51-200,75500000.0,http://www.luxe.com/,378495
+196,Fysical Labs,High Accuracy Location Data,https://angel.co/fysical,San Francisco,1-10,1515000.0,https://fysical.com/,622041
+197,VoiceOps,AI for enterprise voice data,https://angel.co/voiceops,San Francisco,11-50,9900000.0,https://voiceops.com,1204390
+198,WorkStep,Job network for hourly workers,https://angel.co/workstep,San Francisco,1-10,9900000.0,https://www.workstep.com,4277247
+199,Shippo,Helping businesses succeed through shipping,https://angel.co/shippo,San Francisco,51-200,31025000.0,https://goshippo.com,237002
+200,Xendit,Payments infrastructure for South East Asia,https://angel.co/xendit,San Francisco,51-200,9900000.0,http://xendit.co,603597
+201,HOOKED,Machine learning for storytelling,https://angel.co/hookedapp,San Francisco,11-50,15150000.0,http://hooked.co,540696
+202,Swift Navigation,Centimeter-accurate real-time kinematics (RTK) GPS positioning technology ,https://angel.co/swift-navigation,San Francisco,11-50,47600000.0,http://swiftnav.com/,294858
+203,CircleUp,online marketplace for direct private equity investments,https://angel.co/circleup,San Francisco,51-200,53000000.0,http://circleup.com,58191
+204,Notion,LEGO for Work,https://angel.co/notion-software,San Francisco,1-10,9900000.0,https://notion.so/product,160083
+205,Superhuman,The fastest email experience ever made. Sign up now for VIP access.,https://angel.co/superhuman,San Francisco,11-50,9900000.0,https://superhuman.com,545598
+206,True Link,Financial services for seniors,https://angel.co/true-link,San Francisco,11-50,7000000.0,https://www.truelinkfinancial.com/,241523
+207,Rainforest,QA as a service - YC S12,https://angel.co/rainforest,San Francisco,51-200,41000000.0,https://www.rainforestqa.com/,100284
+208,Tetra (YC W17),AI notetaker for meetings,https://angel.co/tetra,San Francisco,1-10,9900000.0,https://asktetra.com,3062473
+209,Leapfin,Your Single Revenue Source of Truth,https://angel.co/leapfin,San Francisco,1-10,9900000.0,https://leapfin.com,736488
+210,Huckleberry Insurance,"At Huckleberry, we are on a mission to make insurance work for small businesses. Over the past decade, technology has changed the way we run companies—from accounting and tax prep to customer management and payment processing. But small business owners are still forced to buy workers comp, general liability, and property insurance via an offline process that can take weeks to complete.",https://angel.co/huckleberry-insurance,San Francisco,1-10,9900000.0,https://www.huckleberry.co,4140151
+211,CircleCI,Continuous Integration and Deployment,https://angel.co/circleci,San Francisco,51-200,25500000.0,https://circleci.com,29008
+212,brightwheel,The first mobile platform for early education,https://angel.co/brightwheel,San Francisco,11-50,12800000.0,http://www.mybrightwheel.com,469402
+213,Front,The easiest way to work with shared team inboxes,https://angel.co/front,San Francisco,51-200,79100000.0,http://www.frontapp.com,326222
+214,OhmConnect,Replacing power plants with software,https://angel.co/ohmconnect,San Francisco,11-50,9900000.0,https://www.ohmconnect.com,300404
+215,Her,"Social app for lesbian, bisexual and queer women",https://angel.co/her-1,San Francisco,1-10,2360000.0,http://www.weareher.com,77848
+216,beaconhome,startup in stealth mode,https://angel.co/beaconhome,San Francisco,11-50,9900000.0,http://beaconhome.io,938959
+217,Nima,trust your food ,https://angel.co/nimalabs,San Francisco,11-50,17200000.0,http://www.nimasensor.com,251158
+218,Gravity Group (previously Dil Mil),Fastest growing high-affinity dating platform,https://angel.co/gravitygroup,San Francisco,1-10,3700000.0,http://dilmil.co,378595
+219,Castle Global,Rethinking products with machine learning. ,https://angel.co/castleglobal,San Francisco,11-50,18100000.0,http://castleglobal.com,150892
+307,Princeton Ventures,Princeton Ventures leads growth equity investments of $10 million to over $100 million.,https://angel.co/princeton-ventures,Princeton,1-10,9900000.0,http://www.princetonventures.com,3365754
+309,SoundBetter,Music Services Marketplace,https://angel.co/soundbetter,New York City,1-10,9900000.0,https://soundbetter.com,250019
+310,RevCascade,Marketplace automation for brands and retailers,https://angel.co/revcascade,New York City,1-10,9900000.0,http://www.revcascade.com,669329
+311,Paintzen,Online Marketplace For Home and Office Painting,https://angel.co/paintzen,New York City,11-50,9220000.0,http://www.paintzen.com,208839
+312,StockTwits,Social network for investors and stock traders,https://angel.co/stocktwits,New York City,11-50,10600000.0,http://stocktwits.com/,32462
+313,CareDox,Care coordination platform for parents and schools,https://angel.co/caredox,New York City,11-50,6050000.0,http://caredox.com/,5084
+314,Enchanted Diamonds,The modern luxury jeweler,https://angel.co/enchanted-diamonds,New York City,1-10,9900000.0,http://www.enchanteddiamonds.com,134149
+315,Abacus,Real time expense reporting. Making expense reports ancient history. ,https://angel.co/abacus,New York City,11-50,3500000.0,http://abacus.com,187453
+316,Goldbely,Marketplace for Artisan & Specialty Food ,https://angel.co/goldbely,New York City,11-50,13000000.0,https://www.goldbely.com,127378
+317,Feather (YC S17),Modern-day furniture rentals for people on the move,https://angel.co/feather,New York City,11-50,3500000.0,http://rentfeather.com,3996376
+318,FaithStreet,Outreach and giving platform for congregations,https://angel.co/faithstreet,New York City,11-50,1100000.0,http://www.faithstreet.com,25024
+319,Spring,Creating the world's best mobile shopping experience.,https://angel.co/spring-3,New York City,51-200,32500000.0,https://www.shopspring.com/,274588
+320,Triplemint,The refreshingly simple way to find your home,https://angel.co/triplemint,New York City,11-50,6500000.0,http://www.triplemint.com,68512
+321,WayBetter,Bet on yourself!,https://angel.co/waybetter,New York City,11-50,4750000.0,http://www.waybetter.com,87270
+322,Toymail,The mobile phone re-imagined for kids,https://angel.co/toymail-co,New York City,1-10,9900000.0,http://www.toymail.co,324450
+323,CardFlight,Accept EMV chip card payments in any mobile app,https://angel.co/cardflight,New York City,11-50,5800000.0,https://CardFlight.com,187767
+324,Pathgather,Next-generation learning for enterprise (Techstars '14),https://angel.co/pathgather,New York City,11-50,3618000.0,http://www.pathgather.com,171573
+325,Latch,Smart access.,https://angel.co/latch-2,New York City,51-200,26000000.0,http://www.Latch.com,698264
+326,B12,Human-assisted AI for web design,https://angel.co/b12,New York City,11-50,12400000.0,https://b12.io/,806019
+327,x.ai,x.ai  is a personal assistant who schedules meetings for you.,https://angel.co/x-ai,New York City,51-200,34300000.0,http://x.ai,396021
+328,Codecademy,The Easiest Way to Learn to Code,https://angel.co/codecademy,New York City,11-50,42500000.0,http://www.codecademy.com/,57028
+329,Jukely,Get into a different concert every week from $25/mo,https://angel.co/jukely,New York City,11-50,11300000.0,http://jukely.com,111636
+330,boldstart ventures,first check. enterprise founders. seed vc,https://angel.co/boldstart-ventures,New York City,1-10,47000000.0,http://www.boldstart.vc,104708
+331,Hornet Networks,Gay Social Network,https://angel.co/hornet,New York City,51-200,8000000.0,http://www.gethornet.com,103002
+332,StrikeAd,"StrikeAd Fusion, a proprietary technology platform for agencies and advertisers to plan, execute, and evaluate their mobile advertisements.",https://angel.co/strikead,New York City,51-200,7003898.0,http://www.strikead.com,103776
+333,Aereo,Aereo was a technology company based in New York City that allowed subscribers to view live and time-shifted streams of over-the-air television on Internet-connected devices.,https://angel.co/aereo,New York City,11-50,97000000.0,http://aereo.com/home,104495
+334,Clothes Horse,Clothes Horse solves the problem of buying clothes online that fit.,https://angel.co/clothes-horse,New York City,1-10,9900000.0,https://www.clotheshor.se,116874
+335,Tiger Global,International private equity investor,https://angel.co/tiger-global,New York City,1-10,9900000.0,http://www.tiger-global.co.uk/,109357
+336,Plated,Cook More. Live Better.,https://angel.co/plated,New York City,501-1000,56400000.0,https://www.plated.com/,152115
+337,Cover,Dine without waiting for the check.,https://angel.co/cover,New York City,11-50,5500000.0,http://www.paywithcover.com/,151433
+338,SevenFifty,Web platform for wholesale wine/spirits/beer industry,https://angel.co/sevenfifty,New York City,11-50,8500000.0,http://www.sevenfifty.com,148174
+339,Citia,Revolutionary Content Operating System,https://angel.co/citia,New York City,11-50,2800000.0,http://www.citia.com,182776
+340,BoxC,Cross-Border Shipping. Simply.,https://angel.co/boxc,New York City,1-10,1700000.0,https://www.boxc.com,175496
+341,White Star Capital,White Star Capital invests in early-stage companies to help them scale internationally. ,https://angel.co/white-star-capital,New York City,1-10,9900000.0,http://www.whitestarvc.com,177466
+342,Apprenda,Private PaaS Enablement,https://angel.co/apprenda-1,New York City,11-50,39000000.0,http://www.apprenda.com,179540
+343,Blue Apron,We make cooking fun & easy.  We deliver recipes and all the ingredients you need.,https://angel.co/blue-apron,New York City,1001-5000,293000000.0,http://www.blueapron.com,125515
+344,OKpanda,Helping the World Learn English,https://angel.co/okpanda,New York City,1-10,3000000.0,http://okpanda.com,125912
+345,Nomi,Helping retailers bridge the gap between online and offline,https://angel.co/nomi,New York City,11-50,41000000.0,http://www.nomi.com,125432
+346,Vocap Ventures,Early & Growth-stage VC,https://angel.co/vocap-ventures,New York City,1-10,9900000.0,http://www.vocapventures.com,124979
+347,Artivest,A Higher Standard,https://angel.co/artivest,New York City,11-50,15000000.0,http://artivest.co,132880
+348,meta,Most advanced computer glasses in the cosmos,https://angel.co/meta-1,New York City,1-10,23000000.0,http://www.meta-view.com,184657
+349,Rearden Capital Management,Rearden Capital Management LLC is a trading and investment firm.,https://angel.co/rearden-capital-management-1,New York City,1-10,9900000.0,http://reardencapital.com/,159119
+350,Voyat,guest retention platform for hotels,https://angel.co/voyat,New York City,11-50,1800000.0,http://voyat.com,175664
+351,New York Angels,"New York Angels is an organization of seed capital angel investors that provides equity capital for early stage companies, primarily in the field of technology and new media",https://angel.co/new-york-angels,New York City,1-10,9900000.0,http://newyorkangels.com,167393
+352,EVELO Electric Bicycles,Smart Electric Bicycles Delivered to Your Door,https://angel.co/evelo,New York City,11-50,750000.0,http://www.evelo.com,113751
+353,Pilotworks,We help people start and scale quality food brands.,https://angel.co/pilotworks,New York City,11-50,15100000.0,https://www.thepilotworks.com,841426
+354,Morty,Your smart home mortgage. We're hiring!,https://angel.co/morty,New York City,1-10,3000000.0,http://www.himorty.com,1450851
+355,MakeSpace,Your Closet in the Cloud,https://angel.co/makespace,New York City,1-10,56800000.0,https://makespace.com,260840
+356,Common,City living made better.,https://angel.co/common-living,New York City,51-200,63350000.0,https://www.common.com,906665
+357,Bstow,Bstow is revolutionizing fundraising software for nonprofits and churches.,https://angel.co/bstow,New York City,11-50,285000.0,https://www.bstow.com,730774
+358,Perch Interactive,Revolutionary Interactive Technology for Retail,https://angel.co/perch-interactive,New York City,11-50,1550000.0,http://www.perchinteractive.com,155959
+359,Pilot,We’re rewriting the ABCs of ISPs.  ,https://angel.co/pilot-5,New York City,51-200,33075000.0,http://pilotfiber.com,398608
+360,AdHawk,Your Digital Advertising Assistant (Techstars 2015),https://angel.co/adhawk,New York City,11-50,1400000.0,https://www.tryadhawk.com,629574
+361,Managed by Q,The Platform for Office Management,https://angel.co/managed-by-q,New York City,51-200,72925000.0,http://www.managedbyq.com,348469
+362,Teachable,Create and Sell Beautiful Online Courses,https://angel.co/teachable,New York City,51-200,8500000.0,https://teachable.com,353230
+363,Zeel,Massage On Demand,https://angel.co/zeel,New York City,51-200,13200000.0,http://www.zeel.com,13071
+364,Newsela,Daily news at 5 reading levels,https://angel.co/newsela,New York City,51-200,20300000.0,http://newsela.com/,238628
+365,Oscar Insurance,"Leveraging technology and data to make insurance simple, intuitive, and human. ",https://angel.co/oscar-insurance,New York City,201-500,727500000.0,http://www.hioscar.com,399838
+366,Stay Wanderful,Instant Gratification - Revolutionizing rewards programs (no more points fatigue) ,https://angel.co/staywanderful,New York City,11-50,9900000.0,http://www.staywanderful.com,668990
+367,Fullstack Academy,Modern CS education,https://angel.co/fullstack-academy,New York City,11-50,9900000.0,http://www.fullstackacademy.com,238387
+368,Enigma,Connecting the dots in the world of big data,https://angel.co/enigma-data,New York City,51-200,33800000.0,http://www.enigma.com,129914
+397,Airtime,All Together Now,https://angel.co/airtime,Brooklyn,11-50,41750000.0,https://airtime.com/,71915
+398,Paribus,"Get money when prices drop, effortlessly",https://angel.co/paribusco,Brooklyn,11-50,9900000.0,https://paribus.co/,681264
+401,HackerRank,Match every developer to the right job!,https://angel.co/hackerrank,Palo Alto,51-200,19900000.0,https://hackerrank.com,411231
+402,RealCrowd,Platform For Accredited Crowd Investing in Commercial Real Estate ,https://angel.co/realcrowd,Palo Alto,11-50,1600000.0,http://realcrowd.com,163519
+403,HealthTap,"HealthTap is the first global virtual health practice, powered by more than 100,000 U.S. doctors, delivering fast, affordable, and quality care through our innovative H.O.P.E.S (Health Operating System).",https://angel.co/healthtap,Palo Alto,51-200,38250000.0,http://www.healthtap.com,34401
+404,StartX,The @Stanford Startup Accelerator ,https://angel.co/startx,Palo Alto,11-50,9900000.0,http://startx.stanford.edu,42984
+405,Base CRM,The next generation of CRM software. Made for people,https://angel.co/base-crm,Palo Alto,51-200,52900000.0,http://www.getbase.com,154
+406,Arthena,Invest in Art Online (YC W17),https://angel.co/arthena,Palo Alto,1-10,9900000.0,https://arthena.com,377089
+407,Konsus,On-Demand Business Support,https://angel.co/konsushq,Palo Alto,51-200,1500000.0,http://www.konsus.com,478147
+408,Carta,Modern Equity Management,https://angel.co/eshares,Palo Alto,201-500,67550000.0,http://www.carta.com,115777
+409,Alminder,"Mobile, smart, contextual Calendaring",https://angel.co/alminder,Palo Alto,1-10,1525000.0,http://mynd.me,104021
+410,Arc,YCombinator robotics startup,https://angel.co/arc-1,Palo Alto,1-10,9900000.0,http://www.arccameras.com,106017
+411,Version One Ventures,version one ventures is a seed fund investing in companies leveraging network effects,https://angel.co/version-one-ventures,Palo Alto,1-10,35000000.0,http://www.versionone.vc,106386
+412,MicroEval,Modern Performance Reviews,https://angel.co/microeval,Palo Alto,1-10,9900000.0,http://microeval.com,114442
+413,Meritech Capital,The brand name in late stage venture.,https://angel.co/meritech-capital,Palo Alto,1-10,9900000.0,http://www.meritechcapital.com/,112644
+414,Cyphort,Cyber Security,https://angel.co/cyphort,Palo Alto,51-200,53700000.0,http://www.cyphort.com,152556
+415,MixerBox,Universal music player,https://angel.co/mixerbox,Palo Alto,1-10,9900000.0,http://mixerbox.com,125553
+416,Assembled,Connecting Professionals Around the World,https://angel.co/hx,Palo Alto,1-10,9900000.0,http://www.assembled.com,126579
+417,Maven Ventures,The leading Seed venture fund for emerging consumer software startups,https://angel.co/maven-ventures,Palo Alto,1-10,9900000.0,http://mavenventures.com,167163
+418,Palantir Technologies,Making products for human-driven analysis of real-world data,https://angel.co/palantir-technologies,Palo Alto,1-10,2505200000.0,http://www.palantir.com,33645
+419,wikiHow,Teaching every person on the planet how to do anything,https://angel.co/wikihow,Palo Alto,11-50,9900000.0,http://www.wikihow.com,33313
+420,HDS,Defining the next generation of ecommerce,https://angel.co/home-delivery-service,Palo Alto,1-10,9900000.0,http://www.hdsglobal.com/,66236
+421,Qventus,Optimizing hospital operations,https://angel.co/qventus,Palo Alto,11-50,13000000.0,http://www.qventus.com,359662
+422,Piazza,An online platform where students and instructors come together to learn and teach. ,https://angel.co/piazza,Palo Alto,11-50,15500000.0,http://www.piazza.com,43975
+423,Spry Health,Continuous vital monitoring for improved chronic disease management,https://angel.co/spryhealth,Palo Alto,11-50,9900000.0,http://www.spryhealth.com,272247
+424,Robinhood,Democratizing America’s financial system,https://angel.co/robinhood,Palo Alto,51-200,176000000.0,http://www.robinhood.com,227792
+437,Freebird,Travel empowered,https://angel.co/getfreebird,Cambridge,11-50,8500000.0,http://www.getfreebird.com,881502
+438,Formlabs,High resolution 3D printing. Designed for your desktop.,https://angel.co/formlabs,Cambridge,201-500,58600000.0,http://formlabs.com,25991
+439,Bluetrain.io,Cloud CMS for Developers,https://angel.co/bluetrain-io,Cambridge,1-10,1530000.0,http://www.bluetrain.io,113802
+440,Squadle,Automating operations workflow for the $4.5T mult-unit retail industry,https://angel.co/squadle,Cambridge,1-10,1000000.0,http://squadle.com,184201
+441,Summer@Highland,Student entrepreneur program,https://angel.co/summer-highland,Cambridge,1-10,9900000.0,http://summer.hcp.com/,176305
+445,Thunder,"Enable digital marketing creative agility, personalization, and optimization.",https://angel.co/thunder,Bellevue,51-200,9700000.0,http://makethunder.com/,32865
+446,OfferUp,buy. sell. simple.  ,https://angel.co/offerup,Bellevue,51-200,119000000.0,http://www.offerupnow.com,31963
+449,TRED,Where trusted car buyers and sellers connect,https://angel.co/tred,Seattle,11-50,9900000.0,https://www.tred.com,96232
+450,Apptentive,We help companies communicate better with their mobile customers.,https://angel.co/apptentive,Seattle,11-50,10115000.0,http://www.apptentive.com,21073
+451,Blue Box,Cloud Hosting and Managed Services For The Internet's Critical Apps,https://angel.co/blue-box,Seattle,51-200,31700000.0,http://blueboxcloud.com,106445
+452,Shift Labs,Well-designed medical devices for fast-growing healthcare sectors,https://angel.co/shift-labs,Seattle,1-10,9900000.0,http://www.shiftlabs.com,115991
+453,SpaceCurve,"SpaceCurve offers a parallel data platform for the Internet of Things that ingests, processes, and analyzes IoT data in real-time.",https://angel.co/spacecurve,Seattle,1-10,12300000.0,http://www.spacecurve.com,150512
+454,SkyKick,Cloud Management for Partners,https://angel.co/skykick,Seattle,51-200,21700000.0,http://www.skykick.com,148325
+455,Moment,"Photography gear, travel, and inspiration",https://angel.co/moment-2,Seattle,11-50,4700000.0,https://www.shopmoment.com/,372632
+460,Ambassador,End-to-end platform for Relationship Marketing,https://angel.co/ambassador,Detroit,11-50,2350000.0,http://getambassador.com,12106
+461,Lunar Wireless,Mobile without a monthly bill.,https://angel.co/lunar-labs,Detroit,1-10,4400000.0,https://lunarwireless.com/,497293
+462,Mason,"Build, deploy, and scale connected mobile products. ",https://angel.co/masonamerica,Detroit,1-10,9900000.0,http://www.bymason.com,632912
+463,Quikly,A digital marketing platform that motivates consumers to react...Quikly.,https://angel.co/quikly,Detroit,11-50,5613396.0,http://www.quikly.com,105593
+464,LevelEleven,Enterprise gamification software,https://angel.co/leveleleven,Detroit,1-10,3500000.0,http://leveleleven.com,173614
+469,Aella Credit,Instant Credit Solutions for Africans,https://angel.co/aella-credit,Mountain View,11-50,9900000.0,http://www.aellacredit.com,1816586
+470,Pure Storage,Pure Storage was founded with the ambitious goal of revolutionizing the computing infrastructure industry. Today we are building the data platform for the cloud era and we’ve accomplished the first step towards that goal by bringing to market the simplest and most reliable all-flash storage array in history.,https://angel.co/pure-storage,Mountain View,1001-5000,534856500.0,http://www.purestorage.com/,68615
+471,Kiwi Crate,Delivering hands-on creative fun & learning to young makers,https://angel.co/kiwi-crate,Mountain View,11-50,7000000.0,http://www.kiwicrate.com,46361
+472,HighlightCam,Automatically edits videos and images on your phone,https://angel.co/highlightcam,Mountain View,11-50,3000000.0,http://highlightcam.com,103843
+473,Tubular Labs,The Standard for Video Intelligence,https://angel.co/tubular-labs,Mountain View,11-50,20750000.0,http://www.tubularlabs.com,105740
+474,dakwak,Effortless website translation and localization technology,https://angel.co/dakwak,Mountain View,1-10,600000.0,http://www.dakwak.com,116466
+475,Swipp,Swipp Turns Social Media Into Leads and Sales.,https://angel.co/swipp,Mountain View,11-50,5500000.0,http://www.swipp.com,109504
+476,Tindie,A community marketplace for hardware creators and enthusiasts,https://angel.co/tindie,Mountain View,1-10,500000.0,https://www.tindie.com/,127715
+477,H/F Next Fund,One investment. Top 17 startups.,https://angel.co/h-f-next-fund,Mountain View,11-50,575000.0,http://hf.cx/invest,159466
+478,Rockmelt,re-imagine the browser,https://angel.co/rockmelt,Mountain View,11-50,39875000.0,http://www.rockmelt.com,100623
+479,CollegeFeed,The world's most efficient college recruiting platform,https://angel.co/collegefeed,Mountain View,11-50,1800000.0,http://www.collegefeed.com,165462
+480,Hydrazine Capital,Early stage investments,https://angel.co/hydrazine-capital,Mountain View,1-10,9900000.0,-,166597
+481,LogDNA,Easy beautiful logging in the cloud (YC W15),https://angel.co/logdna,Mountain View,1-10,8300000.0,https://www.logdna.com,242134
+482,Datatron,Enterprise AI Platform,https://angel.co/datatron,Mountain View,11-50,9900000.0,http://datatron.com,944260
+483,Diffbot,We structure the world's knowledge,https://angel.co/diffbot,Mountain View,1-10,10000000.0,http://www.diffbot.com,29586
+484,Mashgin,Reinventing the checkout experience,https://angel.co/mashgin,Mountain View,11-50,9900000.0,http://www.mashgin.com,604691
+485,Bitaccess,We make Bitcoin Simple,https://angel.co/bitaccess,Mountain View,11-50,9900000.0,http://www.bitaccess.ca,348401
+486,500 Startups,500 Startups is a seed fund & a network of startup programs in Silicon Valley,https://angel.co/500startups,Mountain View,51-200,73900000.0,http://500.co,1124
+494,Chegg,"Chegg is a website and mobile app for students – “The Student Hub.” Students on more than 7,000 campuses nationwide use Chegg for textbooks & eTextbooks, Chegg Study (Q&A and Texbook Solutions), tutoring, internships, student deals, scholarships and more.",https://angel.co/chegg,Santa Clara,201-500,221300002.0,http://www.chegg.com,32100
+495,Chai,Democratizing Biotechnology,https://angel.co/chai,Santa Clara,11-50,2800000.0,https://www.chaibio.com,553044
+497,Neoteny 3,"Neoteny Co., Ltd is a venture capital firm which specializes in growth capital and incubation investments. The firm considers investments in all stages with a preference for early stage. It seeks to invest in the information technology sector",https://angel.co/neoteny-3,Boston,1-10,9900000.0,https://www.neoteny.com/,1900230
+498,Mendix,"The app platform company for the enterprise: build, integrate and deploy fast.",https://angel.co/mendix,Boston,51-200,38000000.0,http://www.mendix.com,45656
+499,Sample6,Sample6′s mission is to improve the health and safety of global consumers by building integrated systems that quickly and easily detect harmful and unwanted bacteria.,https://angel.co/sample6,Boston,11-50,29450000.0,http://www.sample6.com,273565
+500,Klaviyo,Changing how businesses send email.,https://angel.co/klaviyo,Boston,51-200,1500000.0,http://www.klaviyo.com,98145
+501,BISON,Changing how you see private equity,https://angel.co/bison,Boston,11-50,1235000.0,http://www.bison.co,27212
+502,Panorama Education,Helping schools improve through data analytics,https://angel.co/panorama-education,Boston,51-200,16000000.0,http://panoramaed.com,256206
+503,Renoviso,Ecommerce for home renovation projects,https://angel.co/renoviso,Boston,11-50,11900000.0,https://renoviso.com,685058
+504,Airfox,Access to financial services for the unbanked in emerging markets,https://angel.co/airfox,Boston,11-50,9900000.0,http://www.airfox.com,1026636
+505,Raptor Ventures,"Raptor Ventures is the venture capital arm of Raptor Capital Management LP. We partner with and deploy capital to early-stage, market disrupting technology and media companies to build the next generation of market leaders.",https://angel.co/raptor-ventures,Boston,51-200,9900000.0,http://www.raptorventures.com,102596
+506,Saverr Mobile,Consumers saving together,https://angel.co/saverr-mobile,Boston,1-10,795000.0,http://www.cartcrunch.com,117448
+507,Bridge Boys,Building great companies with our friends,https://angel.co/bridge-boys,Boston,1-10,9900000.0,None,150517
+508,CloudHealth Technologies,Policy Driven Cloud Management,https://angel.co/cloudhealth-technologies,Boston,11-50,85700000.0,http://www.cloudhealthtech.com,179614
+509,BuysideFX,"FX Trading so Powerful, it's Simple.",https://angel.co/buysidefx,Boston,11-50,3500000.0,http://www.buysidefx.com,182541
+510,Blank Label,When Custom Disrupts Off-the-Rack,https://angel.co/blank-label,Boston,11-50,500000.0,http://www.BlankLabel.com,125563
+511,MachineShop,APIs for the Internet of Everything,https://angel.co/machineshop,Boston,1-10,9900000.0,http://www.machineshop.io,128151
+512,Dragon Innovation,We make hardware look easy,https://angel.co/dragon-innovation,Boston,11-50,2600000.0,http://www.dragoninnovation.com/,174687
+513,Slow Ventures,Never climb alone.,https://angel.co/slow-ventures,Boston,11-50,9900000.0,http://slow.co,167897
+514,Vaxess Technologies,Using Silk To Create Heat Stable Vaccines,https://angel.co/vaxess-technologies,Boston,1-10,4750000.0,http://www.vaxess.com,98276
+515,Care.com,The leading marketplace for caregivers,https://angel.co/care,Boston,501-1000,155650000.0,http://www.care.com/,33330
+516,Lovepop,Unexpected. Every time.,https://angel.co/lovepop,Boston,11-50,21100000.0,https://lovepop.com,726119
+517,Privy,"Capture more emails, improve site conversion, and grow online sales",https://angel.co/privy,Boston,11-50,1714775.0,https://www.privy.com,2787
+518,Wellframe,Connecting people. Amplifying care.,https://angel.co/wellframe,Boston,11-50,25000000.0,http://www.wellframe.com/,30868
+519,Crayon,"Track, analyze, and act on everything happening outside your company's four walls.",https://angel.co/crayon,Boston,11-50,4850000.0,https://www.crayon.co,543154
+529,Silversheet,"Silversheet is revolutionizing how healthcare facilities manage their workforce, and how healthcare professionals manage their own careers.  We have started by tackling a complex and critical part of daily workflow – physician credentialing.",https://angel.co/silversheet,United States,11-50,5200000.0,http://www.silversheet.com,556857
+531,WePay,Driving the future of ecommerce via integrated payments,https://angel.co/wepay,Redwood City,201-500,74150000.0,http://www.wepay.com,32771
+532,Alation,Connecting people with the data they need,https://angel.co/alation,Redwood City,11-50,9000000.0,http://alation.com,266966
+533,Synack,Crowd Security Intelligence,https://angel.co/synack,Redwood City,51-200,34000000.0,http://www.synack.com,177433
+534,OpenGov,OpenGov is the leading provider of government performance solutions software,https://angel.co/opengov,Redwood City,51-200,47000000.0,https://opengov.com/,899732
+535,Highfive,Video & web conferencing you can actually love,https://angel.co/highfive-1,Redwood City,51-200,49500000.0,http://highfive.com,108386
+536,Kidaptive,"Kidaptive creates educational software and services. Our signature offering is our Adaptive Learning Platform, which we call ALP. (We are scientists, not marketers.) ALP combines the best of Silicon Valleys big-data expertise with world-class learning science to give meaning to learning-relevant data",https://angel.co/kidaptive,Redwood City,11-50,24650000.0,http://www.kidaptive.com,149285
+537,Citrine Informatics,AI-powered data platform for faster materials development,https://angel.co/citrine-informatics,Redwood City,11-50,9900000.0,http://citrine.io,423320
+538,Caspar.AI,Home automation as a service,https://angel.co/caspar-ai,Redwood City,11-50,9900000.0,http://caspar.ai,1062276
+543,Jetlore,"Turn consumer behavior into structured, actionable data about your customers.",https://angel.co/jetlore,San Mateo,11-50,9900000.0,http://www.jetlore.com,15088
+544,Freedom Financial Network,"Freedom Financial Network is a family of companies that takes a people-first approach to financial services, using technology to empower consumers to overcome debt and create a brighter financial future.",https://angel.co/freedom-financial-network,San Mateo,501-1000,100500000.0,http://www.freedomfinancialnetwork.com/,38359
+545,Mode,Data collection from physical world,https://angel.co/mode-inc,San Mateo,1-10,2075000.0,http://www.tinkermode.com/,512277
+546,Roam Analytics,Machine Intelligence for Human Health,https://angel.co/roam-analytics,San Mateo,11-50,11345000.0,http://roamanalytics.com,686236
+547,Human API,Real-Time Health Data Network,https://angel.co/humanapi,San Mateo,11-50,9900000.0,http://humanapi.co,152635
+548,Piqora,Make Your Photos Generate Business Results,https://angel.co/piqora-1,San Mateo,11-50,11200000.0,http://www.piqora.com,125529
+549,Tylr Mobile,"Connected Mobile Work For the Enterprise, Starting with a Salesperson's Mobile Inbox",https://angel.co/tylr-mobile,San Mateo,1-10,1500000.0,http://www.tylrmobile.com,158596
+550,Subdream Studios,Social VR Game,https://angel.co/subdream-studios,San Mateo,1-10,9900000.0,https://www.subdreamstudios.com/,3188097
+551,Second Measure,See inside companies,https://angel.co/second-measure,San Mateo,11-50,2000000.0,http://www.secondmeasure.com,849594
+556,Kairos,#1 Facial Rec company on AngelList. We love Enterprise. We love SaaS. We love Mobile. ,https://angel.co/kairos,Miami,11-50,2900000.0,https://www.kairos.com,81358
+558,FullContact,Stay fully connected. Master your contacts. Be awesome with people.,https://angel.co/fullcontact,Denver,201-500,50868000.0,https://www.fullcontact.com,1748
+559,Pana,Modern corporate travel platform,https://angel.co/pana,Denver,11-50,1550000.0,http://pana.com,503139
+560,Galvanize Ventures,Investment Fund,https://angel.co/galvanize-ventures,Denver,1-10,9900000.0,http://www.galvanize.com/venture,126710
+563,PowerReviews,"PowerReviews works with more than 1,000 global brands and retailers to increase conversion and improve products and the customer experience with ratings and reviews and Q&A software.",https://angel.co/powerreviews,Chicago,51-200,71180000.0,http://www.powerreviews.com/,47309
+564,ParkWhiz,Helping build the future of mobility by making parking easy for all,https://angel.co/parkwhiz,Chicago,51-200,36000000.0,https://www.parkwhiz.com,25241
+565,Procured Health,Making the medical device market efficient,https://angel.co/procured-health-1,Chicago,51-200,16375000.0,http://www.procuredhealth.com,104504
+566,Kenna Security,Business Intelligence for Security,https://angel.co/risk-i-o,Chicago,51-200,10750000.0,https://www.kennasecurity.com,116823
+567,SpotHero,On-Demand Parking  App,https://angel.co/spothero,Chicago,51-200,86960000.0,http://spothero.com,117264
+568,Promus Ventures,Investing in early stage software companies that are changing the world.,https://angel.co/promus-ventures,Chicago,1-10,9900000.0,http://www.promusventures.com,112652
+574,Bitfusion.io,Supercomputing for the masses,https://angel.co/bitfusion-io,Austin,1-10,9900000.0,http://bitfusion.io,659503
+575,SubtleData,"API for all POS systems, enabling local commerce",https://angel.co/subtledata,Austin,11-50,500000.0,http://www.subtledata.com,113838
+576,TrendKite,Media Dashboards and On-Demand Media Analysis Reporting,https://angel.co/trendkite,Austin,1-10,36400000.0,http://www.trendkite.com,124619
+577,Postmaster,Stripe for Shipping,https://angel.co/postmaster,Austin,1-10,718000.0,https://www.postmaster.io,125519
+578,Embrace,Authentic Customer Relationships,https://angel.co/embrace-1,Austin,1-10,250000.0,http://www.embracecustomers.com,126464
+579,TrustRadius,Changing the way enterprise software is bought and sold through in-depth user reviews,https://angel.co/trustradius,Austin,1-10,5000000.0,http://www.trustradius.com,133091
+580,Written,Proven content. Proven engagement,https://angel.co/written,Austin,1-10,1350000.0,http://written.com,174812
+583,Occipital,Bringing spatial computing to everyday life,https://angel.co/occipital,Boulder,51-200,21515000.0,http://www.occipital.com/,49455
+584,weeSpring,Trusted consumer reviews,https://angel.co/weespring,Boulder,1-10,9900000.0,http://www.weespring.com,156064
+585,Conspire,Find the best path to any person or company without ever sending a connection request,https://angel.co/conspire,Boulder,1-10,3518000.0,http://goconspire.com,117515
+586,STOWER,Mobile-Enabled Energy,https://angel.co/flamestower,Boulder,1-10,9900000.0,http://www.stowerenergy.com,149591
+587,Seamless Toy Company,We enable kids to be makers.,https://angel.co/seamless-toy-company,Boulder,11-50,9900000.0,http://www.myATOMS.com/,178456
+588,Pagedip (formerly Beneath the Ink),"Engaging, interactive, measurable digital documentation",https://angel.co/pagedip,Boulder,1-10,640000.0,http://www.Pagedip.com,125855
+589,Stedi,Platform to automate billions of dollars in transactions between retailers and suppliers.,https://angel.co/stedi,Boulder,1-10,3700000.0,http://www.stedi.com,3244326
+593,Trace,Video highlights and player performance automatically.,https://angel.co/traceup,Los Angeles,11-50,2600000.0,http://www.traceup.com/,235924
+594,GOAT - Sneaker Marketplace,The safest way to buy and sell sneakers on mobile.,https://angel.co/goatapp,Los Angeles,201-500,97600000.0,http://www.goat.com,45495
+595,CapLinked,Information Security Without Limits,https://angel.co/caplinked,Los Angeles,11-50,2970000.0,https://www.caplinked.com/,12650
+596,FIGS,100% Awesome Medical Apparel,https://angel.co/figs,Los Angeles,1-10,10000000.0,http://www.wearfigs.com,103036
+597,Karlin Ventures,Early-stage venture capital fund based in Los Angeles,https://angel.co/karlin-ventures,Los Angeles,1-10,9900000.0,http://www.karlinvc.com,117793
+598,Realty Mogul,"Online, crowdfunding, capital markets platform for real estate investing.",https://angel.co/realty-mogul,Los Angeles,51-200,45020000.0,http://www.realtymogul.com,150420
+599,Be Great Partners,Be Great Partners is a leading startup incubator in Los Angeles,https://angel.co/be-great-partners,Los Angeles,51-200,6000000.0,http://www.begreat.co,176302
+600,Baroda Ventures,LA based seed fund,https://angel.co/baroda-ventures,Los Angeles,1-10,9900000.0,http://www.barodaventures.com,131834
+601,Prevoty,Web Application Security on Your Terms,https://angel.co/prevoty,Los Angeles,1-10,11127000.0,https://www.prevoty.com,185695
+602,Pixalate,Leader in fraud protection and data intelligence.,https://angel.co/pixalate,Los Angeles,11-50,4750000.0,http://www.pixalate.com,167420
+603,Lumi,Packaging for online brands,https://angel.co/lumi,Los Angeles,11-50,9000000.0,https://www.lumi.com,73779
+604,Replicated,"Private SaaS, as a service",https://angel.co/replicated,Los Angeles,1-10,6500000.0,http://www.replicated.com,549720
+605,Hush,We're creating the best beauty experience on mobile,https://angel.co/hush-10,Los Angeles,11-50,2000000.0,http://shophush.com,3152832
+606,Winc,Direct-Distribution Wine Company,https://angel.co/winc,Los Angeles,51-200,30600000.0,http://www.winc.com,26411
+612,NanoRacks,Commercial and affordable use of outer space,https://angel.co/nanoracks,Houston,11-50,3095000.0,http://www.nanoracks.com,193660
+613,MicroTransponder,Device Based Tinnitus and Stroke Therapy,https://angel.co/microtransponder-1,Dallas,11-50,8100000.0,http://www.microtransponder.com,126188
+614,DropShip Commerce - Dsco,LinkedIn for Distributed/eCommerce Supply Chain,https://angel.co/dropship,Salt Lake City,1-10,4300000.0,http://www.dropship.com,98360
+615,Peterson Ventures,"Peterson Ventures is an early-stage venture capital firm focused on SaaS, digital commerce, and healthcare",https://angel.co/peterson-ventures,Salt Lake City,1-10,9900000.0,http://www.petersonventures.com,164862
+616,Plumzi,"Plumzi partners with world-renowned animation studios to turn their existing TV episodes into appisodes, a new form of entertainment on tablets and smartphones that enables kids to interact with characters and help drive the story via touch, voice, and tilt.",https://angel.co/plumzi,Silicon Valley,11-50,9900000.0,http://www.plumzi.com,105699
+617,Fenox Venture Capital,Fenox Venture Capital is a Silicon Valley-based global venture capital firm.,https://angel.co/fenox-venture-capital,Silicon Valley,11-50,9900000.0,http://fenoxvc.com,160409
+620,Sprint.ly,Development Resource Planning,https://angel.co/sprint-ly,Portland,1-10,500000.0,https://sprint.ly,105017
+621,CrowdStreet,Connecting Investors with Investment Real Estate,https://angel.co/crowdstreet,Portland,1-10,4850000.0,http://crowdstreet.com,175707
+622,Glider (Acquired by FPX),Business intelligence and shorter sales cycles for the contract process.,https://angel.co/glider-acquired-by-fpx,Portland,1-10,1350000.0,http://www.glider.com,98861
+625,CrowdHall,Crowdsourced conversations with your favorite people,https://angel.co/crowdhall,Las Vegas,1-10,665000.0,http://CrowdHall.com,106395
+627,Altos Ventures,A different approach to venture capital,https://angel.co/altos-ventures-2,Menlo Park,1-10,9900000.0,http://www.altos.vc,2587601
+628,Qubell,Adaptive Platform-as-a-Service for the enterprises,https://angel.co/qubell,Menlo Park,11-50,2800000.0,http://qubell.com,114143
+631,Women.com,Publisher/Community striving to speak to the core identity of women.,https://angel.co/women-com-1,Manhattan Beach,1-10,1765000.0,https://www.women.com,265929
+633,Urban Remedy,Organic foods and fresh pressed juices,https://angel.co/urban-remedy,Richmond,11-50,6000000.0,http://www.urbanremedy.com,104563
+635,AgSquared,Enterprise platform for global agriculture,https://angel.co/agsquared,Washington DC,1-10,1200000.0,http://www.agsquared.com,106508
+636,Disruption,"Research, Investment & Advice For The Private Market.",https://angel.co/disruption-corporation,Washington DC,11-50,9900000.0,http://disruption.vc,150765
+638,Health Gorilla,First Clinical Network solving Healthcare Interopreability,https://angel.co/health-gorilla,Sunnyvale,11-50,4325000.0,https://www.healthgorilla.com,102399
+639,Voicegem,Asynchronous voice communication,https://angel.co/voicegem,Sunnyvale,1-10,9900000.0,http://www.voicegem.com,113221
+642,Securly,Security for schools & families,https://angel.co/securly,Charlotte,11-50,4000000.0,http://www.securly.com,102724
+644,Double Robotics,Telepresence Robots,https://angel.co/double-robotics,Burlingame,11-50,250000.0,http://www.doublerobotics.com,117469
+645,Clerky,Helping startups get legal stuff done right (and fast).,https://angel.co/clerky-1,Burlingame,1-10,9900000.0,https://www.clerky.com,178766
+647,Vine Street Ventures,Vine Street Ventures is a fund dedicated to investing in internet and mobile businesses.,https://angel.co/vine-street-ventures,Cincinnati,1-10,9900000.0,http://www.vinestventures.com,116493
+648,Ahalogy,Optimized Content Marketing at Scale,https://angel.co/ahalogy,Cincinnati,51-200,13370000.0,http://ahalogy.com,164736
+650,Tugboat Yards,"Tools to help grow, manage, monetize and retain audiences",https://angel.co/tugboat-yards,Half Moon Bay,1-10,9900000.0,https://tugboatyards.com,113598
+652,Email Copilot,(previously Embarke) - We get emails to the inbox,https://angel.co/email-copilot,San Diego,1-10,1250000.0,http://www.emailcopilot.com,149892
+653,DataGravity,We will change the way enterprises extract value from data.,https://angel.co/datagravity,Nashua,51-200,92000000.0,http://datagravity.com/,152129
+654,clypd,"Changing TV advertising, one person at a time",https://angel.co/clypd,Somerville,11-50,29800000.0,http://www.clypd.com/,152548
+655,Promoter.io,Predictive customer intelligence & insights driven by NPS (Net Promoter),https://angel.co/promoter-io,San Antonio,1-10,1437000.0,http://www.promoter.io,180386
+656,yozio,Organic Mobile Growth Platform,https://angel.co/yozio,Oakland,1-10,7000000.0,http://www.yozio.com,126698
+657,BriteHub,Cloud tools to streamline your supply chain.,https://angel.co/britehub-2,Oakland,1-10,1030000.0,https://britehub.com,184377
+658,Kato,Vanguard professional messaging system,https://angel.co/kato,Oakland,11-50,1800000.0,http://kato.im,164277
+659,Babylist,Loved and trusted by expecting parents. Baby registry + store + content & tools.,https://angel.co/babylist,Oakland,11-50,670000.0,http://babylist.com,107217
+660,hiku,"Puts a retail store in the house, and makes shopping frictionless",https://angel.co/hiku,San Jose,1-10,750000.0,http://www.hiku.us,132175
+661,Campaign,A vertically integrated online furniture brand.,https://angel.co/campaign,Emeryville,1-10,3000000.0,http://Angel.co/campaign,176920
+662,MD Insider,Machine Learning Enabled Provider Performance Transparency,https://angel.co/md-insider,Santa Monica,51-200,23000000.0,https://mdinsider.com,178029
+663,FocusMotion,"FocusMotion is the data-driven, deep learning solution for orthopedic recovery.",https://angel.co/focusmotion,Santa Monica,1-10,9900000.0,http://www.focusmotion.io,164630
+664,Earny,Getting your money back,https://angel.co/earny,Santa Monica,11-50,11500000.0,http://www.earny.co,948959
+665,DataHero,The fastest easiest way to understand your data,https://angel.co/datahero,Santa Monica,1-10,10250000.0,https://datahero.com,28509
+666,BitPay,"The world's leader in bitcoin payments. Spend, accept payments, and build with bitcoin.",https://angel.co/bitpay,Atlanta,11-50,32700000.0,https://bitpay.com,177479
+667,Drummond Road Capital,Drummond Road Capital operates as a venture capital firm. The Company serves customers in the United States.,https://angel.co/drummond-road-capital,Cleveland,1-10,9900000.0,http://about.me/drummondroad,164737
+668,K5 Ventures,Seed investment fund focused on investments in the US and mostly California,https://angel.co/k5vp,Orange County,11-50,9900000.0,http://www.k5ventures.com,167510
+669,Zocdoc,"Zocdoc is the tech company at the beginning of a better healthcare experience. Each month, millions of patients use Zocdoc to find in-network neighborhood doctors, instantly book appointments online, see what other real patients have to say, get reminders for upcoming appointments and preventive check-ups, fill out their paperwork online, and more. With a mission to give power to the patient, Zocdoc’s online marketplace delivers the accessible, seamless, and simple experience patients expect and deserve.",https://angel.co/zocdoc,Scottsdale,501-1000,377000000.0,http://www.zocdoc.com,32840
+670,Weave,Communication Platform for SMBs,https://angel.co/weave,Utah,51-200,20500000.0,http://www.getweave.com,87594
+671,BrandYourself,"The first platform for individuals to clean up, protect and improve your online reputation",https://angel.co/brandyourself,Lancaster,51-200,6800000.0,http://www.brandyourself.com/,52176
+672,MeUndies,Softer-than-soft basics for everybody.,https://angel.co/meundies,Culver City,51-200,1400000.0,https://www.meundies.com,23453
+673,Bolt,Let's change payments together,https://angel.co/bolt,Stanford,11-50,9900000.0,http://bolt.com/,513101
+674,The Kive Company,Using technology to make parent's lives easier.  Our 1st app is ARTKIVE to store kids' art,https://angel.co/the-kive-company,Encino,1-10,775000.0,http://www.artkiveapp.com,117384
+676,RiskIQ,RiskIQ is the leader in digital threat management,https://angel.co/riskiq,Shawnee,51-200,65500000.0,http://www.riskiq.com/,32396
+678,Variable,Professional IoT Platform,https://angel.co/variable,Chattanooga,11-50,3250000.0,http://www.variableinc.com,102830
+679,SupplyHog,Amazon of Building Supplies. : Buy Hardware & Building Supplies Online,https://angel.co/supplyhog,Chattanooga,1-10,2500000.0,http://www.supplyhog.com,125280
