@@ -1,0 +1,969 @@
+,Name,Class,Status,Description
+0,Awesound,F2,-1,AdWords for podcasts
+1,BillionToOne,F2,-1,Fetal genetic testing in India
+2,Bulletin,F2,-1,Airbnb for retail
+3,Cerplus,F2,-1,B2B marketplace for surplus produce
+4,ConnectHealth,F2,-1,Telemedicine and prescription delivery in Africa
+5,Ctzen,F2,-1,311 for the developing world
+6,GTRACK Technologies,F2,-1,Nanoparticle tracers for fracking
+7,HDP Health,F2,-1,Helping clinical trials find patients using AI
+8,Ilium VR,F2,-1,Rifle controller for virtual reality
+9,Instrumentl,F2,-1,Concierge service for research
+10,Mentat,F2,-1,Concierge service for jobseekers
+11,Mvr Labs,F2,-1,Fitbit for your knees
+12,OMG Digital,F2,-1,Buzzfeed for Africa
+13,Palaround,F2,-1,Tinder for private networks
+14,Pramp,F2,-1,A free peer-to-peer technical mock interviewing platform for engineers
+15,Queen B Robotics,F2,-1,Drones for virtual reality content
+16,Rent Scene,F2,-1,Apartment hunters for busy people
+17,Sage,F2,-1,Uber for eldercare workers
+18,SmartSite,F2,-1,Automated health monitoring for construction sites
+19,Spotbot,F2,-1,Track website changes in Slack
+20,Squire,F2,-1,OpenTable for barbershops
+21,Suto,F2,-1,Personalized product recommendations on demand
+22,Sway,F2,-1,Chatbot for company finances
+23,The Flex Company,F2,-1,Menstrual product for mess-free period sex
+24,Zube,F2,-1,Project management for Github issues
+25,Ambercycle,F1,-1,Converts waste textiles into higher value chemicals
+26,Apifier,F1,-1,Web crawler that works on every website
+27,Canvas Medical,F1,-1,Canvas is a predictive charting interface designed and built exclusively for primary care
+28,Clearbanc,F1,-1,"Financial services for self-employed, freelancers, independent contractors, and entrepreneurs"
+29,Convrge,F1,Dead,Hang out with friends in virtual reality
+30,Cover,F1,-1,Get insurance by taking a photo
+31,DNAsimple,F1,-1,Donate and find DNA samples online
+32,EnsoData,F1,-1,Sleep scoring made easy
+33,FlightMate,F1,Dead,Flexible flight querying with automated booking
+34,HoneyInsured,F1,-1,Health insurance recommendation engine
+35,Jetty Financial,F1,Dead,Virtual assistant to manage finances
+36,Legion Analytics,F1,-1,End-to-end sales platform
+37,NullSpace VR,F1,-1,A haptic feedback suit for VR
+38,Pavlov,F1,-1,Connect customers with the right products & services
+39,Pawprint,F1,-1,All your pet's data in one place
+40,Restocks,F1,-1,Push notifications when sold out products restock
+41,Shypmate,F1,-1,Affordable and fast international peer to peer delivery
+42,Staffjoy,F1,-1,Better work schedules in less time
+43,StrongIntro,F1,-1,Recruiting tool and service that 10xÕs your employee referrals
+44,Structik,F1,-1,Cheaper and faster industrial 3D printing
+45,VQL,F1,-1,The simplest way to see what's in your data
+46,finbox.io,F1,-1,Easy to use fundamental investing tools
+47,Able Health,W16,-1,Able Health gets doctors paid more for higher quality care
+48,Acre Designs,W16,-1,"We offer a complete package that makes it simple to build beautiful, zero energy homes."
+49,AlphaFlow,W16,-1,AlphaFlow makes investing in real estate as easy as adding stocks to your portfolio. 100% passive with unparalleled diversification
+50,AmberBox,W16,-1,Active shooter detection and self monitoring fire alarm systems - the ultimate protection for your business
+51,Birdly,W16,-1,"We let you access your software data (from Salesforce, Zendesk, Intercom, etc) through Slack"
+52,Bonsai,W16,-1,Global operating system for freelance labor
+53,Boom,W16,-1,Supersonic passenger airplanes you can afford to fly. Our subscale prototype will fly in late 2017
+54,CareSkore,W16,-1,"Predictive patient relation management for hospitals, health systems, IDNs and health plans"
+55,Castle,W16,-1,Castle manages rental homes for landlords using automation and on-demand labor
+56,Castle.io,W16,-1,Castle analyzes user behavior to stop hackers
+57,Chatfuel,W16,-1,Platform to easily create chatbots to engage with audiences on messengers
+58,Chillabit,W16,-1,Chillabit is a live feed of funny and relatable student stories that capture student life
+59,Compgun,W16,-1,Sales commission software that grows revenue
+60,ConstructVR,W16,-1,"The simplest way to test, manage, and deploy VR/AR apps at scale"
+61,Copia,W16,-1,COPIA easily connects businesses with surplus food to local nonprofits in need
+62,Deako,W16,-1,We make beautiful connected light switches that allow you to control any light in your home from any switch or your mobile phone
+63,Deepgram,W16,-1,Speech search engine and recorded call analytics for business
+64,DevColor,W16,-1,We give Black software engineers the support they need to enter and advance in the tech industry
+65,DoseDr,W16,-1,"Helping diabetes patients use the correct amount of insulin, preventing diabetes complications and hospitalizations"
+66,Drive Motors,W16,-1,Online checkout for car dealerships
+67,Elucify,W16,-1,Elucify is a data service that provides free sales leads for startups/professionals
+68,Emburse,W16,-1,Emburse allows businesses to issue virtual or physical debit cards to employees or contractors
+69,Enflux,W16,-1,Motion capture clothing that provides full immersion for VR/AR
+70,Focal Systems,W16,-1,A deep learning company building the OS for Brick & Mortar Retail
+71,Function of Beauty,W16,-1,Customized formulations of shampoo and conditioners tailored to individual hair goals and needs
+72,Gecko Robotics,W16,-1,We develop robots for industrial inspections
+73,Georgette Packaging,W16,-1,Georgette Packaging powers the relationship between small businesses and packaging manufacturers
+74,GetAccept,W16,-1,GetAccept - Reinventing the sales proposal and eSigning workflow to help salespeople close more deals
+75,Gigwell,W16,-1,"Gigwell streamlines the booking process between entertainers (performers, DJs and public speakers) and entertainment venues"
+76,GitPrime,W16,-1,Productivity analytics for software teams
+77,GoLorry,W16,-1,New age of logistics
+78,Goodybag,W16,-1,An online tool for companies to order food from restaurants and caterers
+79,Hingeto,W16,-1,We build crowdfunding sites that lets clothing brands create and sell products without the risk of inventory
+80,HistoWiz,W16,-1,Accelerating Histopathology for Cancer Research
+81,Hykso,W16,-1,Hykso builds wrist sensors for Boxing and Martial Arts that recognize which type of punches are thrown and calculate their speed
+82,Index,W16,-1,Index gets you warm introductions from your colleagues. It marries public information on people with email data on relationships
+83,InnoVein,W16,-1,We cure intractable leg wounds with a prosthetic valve for veins
+84,Instabug,W16,-1,In-app conversations and bug reporting for mobile apps. We help squash bugs in beta apps and engage users in production apps
+85,Iron Ox,W16,-1,"Robotic greenhouses for cheaper, sustainable farming"
+86,Kip Health,W16,-1,Therapy the way it should be - high quality in-person therapy sessions paired with digital support
+87,Kisan Network,W16,-1,Online marketplace for Indian agriculture
+88,Konsus,W16,-1,"On-demand freelancers for business. Email us office tasks, and we assign pre-vetted freelancers based on skill and availability"
+89,Landed,W16,-1,Landed makes buying a home more affordable and less risky by investing alongside you when you make a down payment
+90,Lattice,W16,-1,"Modern performance management software. Goal management, weekly check-ins, and 360 performance reviews"
+91,LendEDU,W16,-1,LendEDU is a marketplace for student loans and student loan refinancing
+92,Luminist,W16,-1,Data-driven diagnostic platform for early-stage cancer screening
+93,Lygos,W16,-1,Lygos engineers yeast to convert sugar into high-value industrial chemicals
+94,Lynks,W16,-1,Lynks is an e-commerce company that makes high demand products accessible to people in developing countries
+95,Magic Instruments,W16,-1,Easy-to-play musical instruments through which the user can play music without formal knowledge in music
+96,MagicBus,W16,-1,We transport commuters between cities and suburbs. We create new bus routes every day based on where people want to go
+97,MailTime,W16,-1,MailTime is an open and mobile messenger built with email technology
+98,Mason America,W16,-1,Infrastructure for mobile deployment. Build your own Android device and OS without a hardware team or modifying source code
+99,Message.io,W16,-1,The universal chatbot platform
+100,Meter Feeder,W16,-1,"Meter Feeder enables local government to accept credit card payment, for parking, without upgrading their infrastructure"
+101,Mindori,W16,-1,Mindori builds white-label voice search for e-commerce apps
+102,MineralSoft,W16,-1,Data management platform for oil & gas assets
+103,Mux,W16,-1,Video analytics & infrastructure for developers
+104,NURX,W16,-1,Nurx is the fastest way to get oral contraceptives and Truvada for PrEP
+105,NetBeez,W16,-1,Detect network problems before users do
+106,Nova,W16,-1,"Nova helps salespeople write highly personalized, 1-1 emails at scale"
+107,OSVehicle,W16,-1,OSVehicle is a B2B company that provides a ready-to-use hardware platform that lets companies produce complete electric vehicles
+108,OpenTrons,W16,-1,"We are building the PC of life-science labs - a robot connected to Mix.Bio, where scientists can download experiments to run"
+109,Outschool,W16,-1,Community marketplace of classes for kids
+110,Pave,W16,-1,"Pave analyzes Google Analytics + marketing data and sends you reports on what's working, what's not, and how to improve"
+111,Paystack,W16,-1,Modern payments infrastructure for Africa
+112,Perlara,W16,-1,"PLab is a drug discovery platform company for 5,000+ rare genetic diseases"
+113,Petcube,W16,-1,Petcube is on the mission to improve lives of pets and pet owners using technology
+114,PhysioHealth,W16,-1,An enterprise health benefits platform that rewards employees for living healthy and decreases healthcare costs
+115,Pluot Communications,W16,-1,"Big-screen video conferencing that's inexpensive, easy to set up, and easy to use"
+116,PocketSuite,W16,-1,PocketSuite lets any entrepreneur run a local business from their smartphone
+117,Podium,W16,-1,Collect and manage real-time online reviews and customer feedback
+118,Poppy,W16,-1,Poppy makes it easy for parents to find high quality childcare with just a text
+119,Pulpix,W16,-1,Content Discovery Inside Video
+120,QueueHop,W16,-1,"QueueHop is an anti-theft apparel security tag. When a payment is made via mobile, shoppers can unlock the security tag and skip checkout"
+121,Qurasense,W16,-1,Smart feminine hygiene pad
+122,Rappi,W16,-1,"Rappi delivers in minutes groceries, cash, clothing, burgers and more. Everything in Bogot and Mexico delivered for under 1 dollar"
+123,Redspread,W16,Dead,Version control for software environments
+124,Restocks,W16,-1,Push notifications for superconsumers. We make buying coveted products easy
+125,Revl,W16,-1,The worldÕs smartest action camera
+126,SHRI,W16,-1,Sanitation and Health Rights in India (SHRI) fights alongside communities to end open defecation
+127,SOUNDBOKS,W16,-1,We're creating the loudest battery-driven speaker on the market
+128,STILT,W16,-1,"We provide simple financial services to immigrants. Our first product is a loan for visa holders (F-1, OPT, H-1B, etc)"
+129,Secful,W16,-1,SECful secures APIs by detecting and profiling attackers in real-time
+130,SendBird,W16,-1,SendBird is the chat API for mobile apps and websites. We help developers build 1-on-1 messaging and group chat in 5 minutes
+131,Sharethebus,W16,-1,Book charter buses online
+132,Shypmate,W16,-1,"Shypmate enables a fast, reliable and cost effective P2P delivery for overseas shoppers"
+133,Silver,W16,-1,Low cost consumer device for toxin detection
+134,Skymind,W16,-1,"Cloudera for Deep Learning. We build deep learning solutions for fraud detection, image recognition and predictive analytics"
+135,Spinal Singularity,W16,-1,Devices to improve the quality of life for people with spinal cord injury and disease
+136,Stealth Worker,W16,-1,"We are building an marketplace where one can hire cyber security experts by the hour, at affordable rates"
+137,Streamup,W16,-1,"Streamup is a live streaming community for music. We make it fun and easy to watch, chat with, and support your favorite musicians"
+138,StrongIntro,W16,Dead,StrongIntro helps recruiters turn their entire company into a source for engineering candidates
+139,TRAC,W16,-1,An end-to-end timing solution for any scale athletic event
+140,Thunkable,W16,-1,"Wordpress / Wix / Squarespace for native mobile apps. Drag, drop and block it to invent your own beautiful app"
+141,Tovala,W16,-1,Tovala is a smart oven that sits on your countertop and is paired with a companion meal delivery service
+142,Toymail,W16,-1,Connected toys that enable two-way voice messaging between children and their friends and family
+143,TrendMD,W16,-1,Article recommendation engine for doctors
+144,Truebill,W16,-1,"Truebill allows users to find, track and manage all their subscriptions and recurring payments from one place"
+145,Unima,W16,-1,Unima created a lab-on-paper technology that diagnoses infectious diseases faster and at a lower cost than available lab tests
+146,UnnyWorld,W16,-1,Video game development company. We are creating unique and revolutionary games
+147,UpLabs,W16,-1,"UpLabs is a place where designers & developers come to share, discover and interact with resources to build sites and apps"
+148,VINEBOX,W16,-1,"Wine by the glass, at home"
+149,Varden Labs,W16,-1,Varden Labs is an expert in self-driving technology
+150,Wakie,W16,-1,Wake is a voice conversation app. Set a topic and call someone who is interested right away
+151,WorldCover,W16,-1,"Funding platform for global insurance, starting with crop insurance in the developing world"
+152,Yardbook,W16,-1,Marketplace & Software Revolutionizing Yard Care
+153,ZenProspect,W16,-1,Helping B2B teams ramp up outbound sales
+154,Zenysis,W16,-1,For-profit company building powerful data analysis software for developing countries
+155,flexReceipts,W16,-1,Smart digital receipts for physical stores to help retailers engage customers and increase sales
+156,iSono Health,W16,-1,At-home ultrasound imaging platform for early breast cancer detection
+157,mRelief,W16,-1,mRelief has built an easy-to-use platform for low-income Americans to find out if they qualify for important social services
+158,msg.ai,W16,-1,AI for conversational commerce. Fortune 500 brands use msg.ai deep learning platform to build and manage messaging bots
+159,80000 Hours,S15,-1,Find a fulfilling career that does good
+160,Afrostream,S15,-1,The best black films and TV series
+161,AppCanary,S15,-1,"Appcanary monitors your apps and servers, and notifies you whenever you're vulnerable"
+162,Auro Robotics,S15,-1,Driverless shuttles. Safe and modern solution for in-campus travel
+163,Bistrobot,S15,-1,Bistrobot makes robots that make sandwiches
+164,Bitmovin,S15,-1,Video infrastructure for the web
+165,Bizzy.io,S15,-1,The smartest way to boost conversions from your email list
+166,BlueCrew,S15,-1,Find work that fits your. Build a flexible career with BlueCrew
+167,Bodyport,S15,-1,One step. Your whole health picture
+168,Branch8,S15,-1,One place to sell on every marketplace in the world
+169,Breakout Room,S15,-1,Instant replay for mobile apps. Record and replay every user interaction
+170,Call9,S15,-1,"Providing quality, compassionate emergency medical care to the people you love most"
+171,Captain 401,S15,-1,"The automated, affordable 401(k)"
+172,CareLedger,S15,-1,Get free medical care. Find great doctors for tests and procedures
+173,Chaldal,S15,-1,"An online shop in Dhaka, Bangladesh"
+174,Circle Medical,S15,-1,The doctor's office that comes to you
+175,Click & Grow,S15,-1,Our smart gardens make it easy to access top-quality ingredients 24/7
+176,Cloudstitch,S15,-1,Build and share spreadsheet-powered apps that work anywhere
+177,Cofactor Genomics,S15,-1,Using RNA to diagnose disease
+178,Convox,S15,-1,"Build, deploy, and manage applications with ease"
+179,Cymmetria,S15,-1,A comprehensive cyber deception solution
+180,Drip Capital,S15,-1,Future of global trade finance
+181,Eden,S15,-1,Make your office work like magic
+182,Flirtey,S15,-1,Flirtey is making drone delivery possible for everyone
+183,Fonticons,S15,-1,"Build and manage icons and typefaces in a single place, then serve them with a single line of code"
+184,Foxpass,S15,-1,Increases your organization's network security by ensuring employee accounts have access only to what they need
+185,GO1,S15,-1,Train your team quickly and easily!
+186,Gemnote,S15,-1,Premium corporate gifting made easy
+187,Get Scale,S15,-1,Automated recording of your factory's testing
+188,Gigster,S15,-1,Hire an elite development team in minutes
+189,Give Campus,S15,-1,A social fundraising and engagement platform that empowers educational institutions
+190,GovPredict,S15,-1,"GovPredict organizes, tracks, and predicts legislative and political activity"
+191,Gravitational,S15,-1,Appliations delivered as a service on any infrastructure
+192,Greenshoe,S15,-1,Cash for your everyday needs
+193,GrowSumo,S15,-1,Get paid to recommend products you love
+194,Her,S15,-1,Join your community in California and worldwide
+195,Heroic Labs,S15,-1,"Backend for game developers. Power your games' achievements, leaderboards, multiplayer, and more"
+196,Hickory,S15,-1,"A training tool focused on retention, turning your sales and customer service staff into brand experts"
+197,InnerSpace,S15,-1,A community of founders committed to building companies as great as their products
+198,Instant eSports,S15,-1,Keep up with the latest eSports news
+199,Instawork,S15,-1,The best place to find restaurant jobs
+200,Interviewed,S15,-1,Combine structured job assessments and employee testing to identify the strongest job candidates
+201,Ironclad,S15,-1,An automated assistant that manages legal paperwork for your company
+202,Jopwell,S15,-1,Land your dream job or internship
+203,Klarismo,S15,-1,Measure and track your health and fitness potential
+204,L. International,S15,-1,"For every condom you buy, one is donated to a female entrepreneur in a developing country in need"
+205,Leada,S15,-1,Remove roadblocks to your data
+206,Livecoding.tv,S15,-1,The world's leading coding livestreaming platform
+207,Lugg,S15,-1,"We load, haul & deliver anything for you. With a few taps, a truck and movers are headed your way in minutes!"
+208,Luna Sleep,S15,-1,A premium brand of mattress protection products
+209,Maderight,S15,-1,"Apparel sourcing, production, and logistics for the modern age"
+210,Markhor,S15,-1,Markhor makes shoes with attention to details
+211,MicroHealth,S15,-1,We help people using biologic meds to succeed in treatment
+212,Mimir,S15,-1,We build amazing tools for education
+213,Nebia,S15,-1,"Experience water. You've taken thousands of showers, but never one like this"
+214,New Story Charity,S15,-1,We transform slums into sustainable communities. One home at a time with video proof
+215,Ohm,S15,-1,Ohm is a drop-in replacement for your car battery
+216,OnboardIQ,S15,-1,"The most advanced hiring platform for screening and managing a modern workforce, all in one place"
+217,Oolu,S15,-1,Oolu is an innovative off-grid solar company operating in West Africa
+218,Open Invest,S15,-1,Invest with your values. Grow your nest egg with peace of mind
+219,Paribus,S15,-1,Find out for free if online stores owe you a refund
+220,PickTrace,S15,-1,"Fast, affordable PTI compliance. PickTrace was created with the farmer in mind"
+221,Plate Joy,S15,-1,The happy way to cook & feel great
+222,PlateIQ,S15,-1,Automate your restaurant finances
+223,RedCarpetUp,S15,-1,Get instant credit for any online purchase
+224,Roomblocker,S15,-1,Book hotels for groups and events. No fees or markups
+225,Ross Intelligence,S15,-1,ROSS is an A.I. lawyer that helps human lawyers research faster and focus on advising clients
+226,Scentbird,S15,-1,The thrill of new scents. 30-day supply of any designer fragrance every month
+227,ScopeAR,S15,-1,Putting knowledge where you need it
+228,Second Measure,S15,-1,See inside companies. Get an edge from consumer spending data
+229,Serica,S15,-1,SericaPay makes it easy for customers to feel confident and secure to buy products they need
+230,Seva Coffee,S15,-1,"Passion for the art of coffee, and the art of precision engineering"
+231,ShapeScale,S15,-1,Digitize your body in 3D. Know exactly where you lose fat and gain muscle
+232,Shotput,S15,-1,Effortlessly get products to customers across the world
+233,Shred Video,S15,-1,1-button video editing
+234,Smyte,S15,-1,"Our trust and safety system stops scams, spam, harassment and credit card fraud before they happen"
+235,SourceDNA,S15,-1,Code transparency for platform & app developers
+236,Supply,S15,-1,"Wireless power, through the air"
+237,Sywork,S15,-1,"Watch live illustrators. The journey is long, but it doesn't have to be lonely"
+238,Tab,S15,-1,"Powering local tourism, everywhere"
+239,TenantTurner,S15,-1,"Fewer showings, faster leases, better tenants, and happier owners"
+240,Tesorio,S15,-1,Saving for buyers. Early payments for vendors
+241,TetraScience,S15,-1,Mission control for your lab
+242,The Ticket Fairy,S15,-1,Buying tickets to events just got a whole lot better
+243,Transcend Lighting,S15,-1,The world's most efficient LED grow lights
+244,Traversal Networks,S15,-1,A new form of network intrusion detection system designed to catch unknown threats
+245,Triplebyte,S15,-1,"We're building a new kind of interview, evaluating tech skills, not credentials"
+246,VIVE,S15,-1,"The best way to book blowouts today, tomorrow, or next week"
+247,VOIQ,S15,-1,Professional sales call agents teeing-up qualified leads for your sales team
+248,Verge Genomics,S15,-1,"We use genomic data to find better drugs, faster"
+249,Vernox Labs,S15,-1,Construction project planning simplified
+250,Vest,S15,-1,Invest in peace of mind. Vest builds protected investments
+251,Wheelys Cafe,S15,-1,Organic cafes
+252,Willing,S15,-1,The best free way to make your legal will online
+253,Xendit,S15,-1,"Pay and get paid, instantly, for free"
+254,Xfers,S15,-1,Automate your online banking transactions
+255,Zeplin,S15,-1,Build pixel perfect apps in peace. Design hand-off has never been easier
+256,teaBOT,S15,-1,Experience loose leaf tea in a completely new way
+257,zPREDICTA,S15,-1,We create technology to reconstruct physiologically relevant organ-specific human microenvironments
+258,20n,W15,-1,A computational synthetic biology company
+259,Akido Labs,W15,-1,The standard API for hospitals
+260,Atomwise,W15,-1,Bold funding for big discoveries
+261,Bagaveev Corporation,W15,-1,3D printed rocket engines will power a nanosatellite launcher rocket
+262,Bankjoy,W15,-1,Mobile banking for credit unions
+263,BlueSmart,W15,-1,"The world's first smart, connected luggage"
+264,Bonfire,W15,-1,Bonfire is an RFx tool that lets purchasing teams accept and evaluate supplier submissions quickly
+265,Booktrope,W15,-1,Booktrope has pioneered an entirely new choice in book publishing
+266,Bright,W15,-1,An exclusive careers network
+267,BuildScience,W15,-1,Building management at your fingertips
+268,Chariot,W15,-1,The world's first crowdfunded network of commuter routes
+269,Cinder,W15,-1,Notifications when food is done. All in a countertop electric grill.
+270,Cleanly,W15,-1,Laundry & dry-cleaning delivered at the tap of a button
+271,CloudMedX,W15,-1,Improving patient outcomes through data
+272,CribSpot,W15,-1,Search 1000s of local houses and apartments
+273,Dealyze,W15,-1,Punch cards for the 21st century
+274,DemocracyOS,W15,-1,Get from zero to democracy in a click. Build proposals and be the change you want to see
+275,Detroit Water Project,W15,-1,You can help keep a family's water on
+276,Diassess,W15,-1,"Next generation DNA testing. Rapid results by anyone, anywhere in the world"
+277,Direct Match,W15,-1,A democratic marketplace for debt
+278,DroneBase,W15,-1,Get aerial video and data at a fraction of the cost and time
+279,EquipmentShare,W15,-1,"Rent high quality equipment at the lowest price, guaranteed"
+280,Final,W15,-1,A credit card built for the 21st century
+281,GitLab,W15,-1,"Create, review and deploy code together"
+282,GiveMeTap,W15,-1,Each bottle purchased gives a person in Africa clean drinking water for 5 years
+283,Giveeffect,W15,-1,"Fundraising, volunteer, and donor management software for your nonprofit"
+284,Gradberry,W15,-1,Gradberry recommends you to the best jobs in tech by checking your code
+285,GroupAhead,W15,-1,Connect your members with your own mobile app
+286,GrubMarket,W15,-1,Wholesome foods at wholesale prices
+287,HigherMe,W15,-1,Get matched to your perfect job. Thousands of jobs around you
+288,Industrial Microbes,W15,-1,We upgrade natural gas to chemicals using synthetic biology
+289,InsiteVR,W15,-1,The easiest way to visualize your designs in virtual reality
+290,Instavest,W15,-1,Replicate the world's best investments
+291,KickPay,W15,-1,Kickpay is a marketplace where businesses can sell their invoices
+292,Kickback,W15,-1,Kickback lets you make money playing video games by betting on yourself
+293,Kuhcoon,W15,-1,Cross-channel ad campaigns automated with performance data
+294,Labdoor,W15,-1,"Research, find, and buy the best supplements"
+295,Level,W15,-1,"Beautiful, gallery-style frames delivered right to your door"
+296,Luka,W15,-1,Luka uses AI to find and book the best places to eat through a chat interface
+297,Lully,W15,-1,Lully is scientifically proven to stop night terrors
+298,Lumi,W15,-1,Design and order custom-manufactured goods for your business or creative project
+299,Magic,W15,-1,Text this phone number to get whatever you want on demand with no hassle
+300,MashGin,W15,-1,Automated retail checkout using computer vision
+301,Meadow,W15,-1,Buy medical cannabis delivered from local dispensaries
+302,MetricWire,W15,-1,Research wherever you are
+303,Moltin,W15,-1,The quicker way to build eCommerce applications
+304,NexTravel,W15,-1,NexTravel helps companies save time and money on travel
+305,Nomiku,W15,-1,"Nomiku combines accuracy, versatility and fun in equal measures"
+306,Notable Labs,W15,-1,Notable Labs helps doctors find combinations of FDA approved treatments that brain cancer patients can use today
+307,Omniref,W15,-1,"Omniref is a code-based reference, maintained by and for the programming community"
+308,Open Listings,W15,-1,Buy a home without a realtor and save 50% on fees
+309,Outbound,W15,-1,Better messages for web and mobile apps
+310,Pachyderm,W15,-1,Pachyderm allows you to store and analyze your data using containers
+311,Pakible,W15,-1,Design custom packaging for products
+312,Paperspace,W15,-1,"A super fast, virtual computer you can use for anything"
+313,Pigeonly,W15,-1,"We make inmate services affordable and easy to use, saving you time and money"
+314,Platzi,W15,-1,"Livestreamed classes on programming, design, business and marketing. Learn from industry leaders"
+315,Pomello,W15,-1,"Pomello's data-driven technology helps map company culture, and score applicants for fit"
+316,Popular Pays,W15,-1,Get exposure on Instagram & photos for your brand
+317,Pretty Instant,W15,-1,Capture the magic moments. On-demand photography for your life & office
+318,Priime,W15,-1,A powerful new photo editor for iPhone
+319,Pushmarket,W15,-1,Automate personalized emails for eCommerce
+320,Raven Tech,W15,-1,We are building the next generation OS
+321,Razorpay,W15,-1,Online payments for India
+322,ReSchedule,W15,-1,ReSchedule Med provides an end-to-end work flow to manage graduate medical education scheduling
+323,ReadMe,W15,-1,Beautiful documentation made easy
+324,Rescue Forensics,W15,-1,Our intelligence solution equips you to defeat human traffickers
+325,SIRUM,W15,-1,"Sirium saves lives by connecting unopened, unexpired medications to patients in need"
+326,Seed,W15,-1,Small business banking for innovators
+327,Shift Messenger,W15,-1,Free app for getting shifts covered
+328,ShiftLabs,W15,-1,"We build simple, elegant medical devices"
+329,SigOpt,W15,-1,"Tune your experiments automatically to get better results, faster"
+330,Slidemail,W15,-1,An intelligent email app
+331,Smarking,W15,-1,Maximize returns from your parking assets
+332,SmartHires,W15,-1,"Get high-quality candidates, shared by companies you trust"
+333,Smartspot,W15,-1,SmartSpot is the first fitness equipment that tracks and corrects your form in real time
+334,Spark Gift,W15,-1,Give the gift of stocks and index funds to friends and family
+335,Spire,W15,-1,"Spire is a device that captures your breathing patterns, and makes them meaningful and actionable"
+336,Spoil,W15,-1,We're creating something that will make the world a happier place through giving & receiving
+337,Standard Cyborg,W15,-1,Our first product is a waterproof 3D printed prosthesis for below-the-knee amputees
+338,Supply,W15,-1,"Wireless power, through the air"
+339,TaskPipes,W15,-1,"With TaskPipes, you can pull in data from emails and elsewhere, and manipulate it the way you need"
+340,TeamNote,W15,-1,Mobile productivity
+341,Techlist,W15,-1,Techlist is an online service to help investors track startups in Asia
+342,TheMidGame,W15,-1,Quickly identify expert content creators to engage your target audience
+343,Trackin,W15,-1,"Trackin gives you full control of your deliveries by connecting managers, drivers and customers"
+344,Transcriptic,W15,-1,"Access a fully automated cell and molecular biology laboratory, all from the comfort of your web browser"
+345,Transitmix,W15,-1,The new standard in transit planning
+346,Treeline,W15,-1,Develop backend apps in your web browser
+347,Underground Cellar,W15,-1,"Curated, limited-edition wines with a twist"
+348,Valor Water Analytics,W15,-1,Transforming your data into improved revenue performance
+349,Vanhawks,W15,-1,"With your help, we can make Valour the bike of the future, and change the urban commute forever"
+350,Vertical,W15,-1,WeÕre building tools to push drone technology to its limits
+351,VetPronto,W15,-1,The highest quality and most convenient veterinary care
+352,Way Up,W15,-1,Get hired. Jobs and internships for college students
+353,WorkLife,W15,-1,"WorkLife is a web and mobile app that helps you run highly productive, engaging meetings"
+354,Yhat,W15,-1,Helping businesses draw value from data science
+355,Zenflow,W15,-1,Giving new hope to men suffering from BPH symptoms
+356,analyticsMD,W15,-1,Streamline hospital operations using real time optimization
+357,eBrandValue,W15,-1,Accelerate marketing and product through social
+358,Aptible,S14,-1,HIPAA Compliance for Healthcare Innovators
+359,Backpack,S14,-1,Explore unique products to backpack
+360,Bannerman,S14,-1,Better security guards. Anytime. Anywhere.
+361,Bayes Impact,S14,-1,We use data science to save lives
+362,Beep,S14,-1,Control all your speakers with your phone
+363,Bikanta,S14,-1,Bikanta has developed nanodiamond-based technology that will redefine tomorrow's medical imaging
+364,BillForward,S14,-1,A highly flexible & unified billing platform. Built for high growth & enterprise companies
+365,BitAccess,S14,-1,The easiest way to buy and sell bitcoin
+366,BlockScore,S14,-1,Real-time identity verification and due diligence
+367,Carlypso,S14,-1,Buy pre-owned cars 100% risk free with Carlypso
+368,Checkr,S14,-1,Automated background screenings and driving records
+369,ClearTax,S14,-1,The easiest way to e-File income tax returns in India
+370,Craft Coffee,S14,-1,A better way to buy coffee
+371,Doblet,S14,-1,Doblet is a network of batteries on demand. Stay charged everywhere you go
+372,Fixed,S14,-1,Get the ticket and point dismissed
+373,Flynn,S14,-1,"Flynn deploys apps, scales apps, and manages databases with best practices right out of the box"
+374,Flytenow,S14,-1,Go flying with local pilots
+375,Ginko Bioworks,S14,-1,At Ginkgo Bioworks we are expanding the role of biology in our world
+376,Glowing Plant,S14,-1,Natural lighting without electricity
+377,Greentoe,S14,-1,Name your price & we negotiate for you
+378,HauteDay,S14,-1,"Haute Day was created to make shopping more fun! Every day, our community submits their best new fashion finds"
+379,Helion Energy,S14,-1,We are a proven team of entrepreneurs and scientists who are making fusion happen
+380,Impraise,S14,-1,Continuous feedback between co-workers
+381,Lawn Love,S14,-1,The very best lawn care services
+382,MTailor,S14,-1,Get measured by your phone in under 30 seconds for the perfect fitting custom shirt
+383,Naytev,S14,-1,Naytev identifies viral content before it trends
+384,Neptune.io,S14,-1,Remediation as a service for DevOps
+385,Nightingale,S14,-1,Insightful data = meaningful results. Optimize clinical outcomes with data science
+386,One Codex,S14,-1,One Codex is a data platform for applied microbial genomics
+387,Onename.io,S14,-1,Blockchain ID. A better identity
+388,Parenthoods,S14,-1,Meet local parents like you
+389,PersistIQ,S14,-1,Smart drip campaigns for outbound sales
+390,PicnicHealth,S14,-1,Medical records done for you. All your records from all your doctors
+391,ProductHunt,S14,-1,"Product Hunt is a curation of the best new products, every day"
+392,Rigetti Computing,S14,-1,On a mission to build the world's most powerful computer
+393,Roomstorm,S14,-1,Hotel booking platform tailored to help airlines with accommodating passengers from delayed and cancelled flights. Formerly known as WalkSource.
+394,Roost,S14,-1,Notifications for all. On page and off page. Get set up in minutes for desktop & mobile.
+395,Shift Payments,S14,-1,Shift Payments is changing the way money changes hands
+396,ShipBob,S14,-1,"You sell it. We pick-up, package & ship it"
+397,Shout,S14,-1,Marketplaces for passionate groups. Buy and Sell what you love with your people
+398,Sliced Investing,S14,-1,Sliced provides technology to help financial advisors deploy to alternatives
+399,Theorem,S14,Dead,The marketplace for independent fashion
+400,TicketLabs,S14,-1,Enhance your marketing with real fan data
+401,Tiempo,S14,-1,We help small businesses manage and pay contractors
+402,Tule,S14,-1,Crop water use monitoring. Daily measurements at field scale
+403,UPower,S14,-1,"The only always-on, emission-free, megawatt-scale atomic generator"
+404,Vatler,S14,Dead,An on-demand valet service in San Francisco
+405,Vizera Labs,S14,-1,Vizera brings an unprecedented shopping experience to retail showrooms
+406,Weave,S14,Dead,Professional networking to arrange meetings and friendly discussions.
+407,Zen99,S14,Dead,"1099 tax help for rideshare drivers, delivery drivers, housekeepers, and more"
+408,Zenamins,S14,-1,Vitamins reinvented. Personalized and designed for you
+409,Zip Phone,S14,Exited,"Zip Phone lets users make secure, WiFi-enabled calls"
+410,uBiome,S14,-1,Explore your microbiome
+411,42,W14,-1,"Grow Revenue Big data made simple. Leave the numbers to us, we'll give the answers to insights you want to see."
+412,Abacus,W14,-1,Say goodbye to expense reports.
+413,AirHelp,W14,-1,If you've been on a delayed or cancelled flight or been denied boarding within the last three years you could be entitled up to $800 from the airline.
+414,AirPair,W14,-1,"The World's Best Software Experts at your finger tips, on-demand through video chat & screen sharing."
+415,Algolia,W14,-1,"Build Realtime Search. A powerful API built for developers, Algolia delivers relevant results in your apps and websites from the first keystroke."
+416,Ambition,W14,-1,Office productivity with a purpose.
+417,AptDeco,W14,-1,Furnishings by owner. Delivery to you. The destination marketplace for quality gently used furniture.
+418,Beacon,W14,-1,Fund one writer for $5 a month. Get access to every story on Beacon.
+419,Bellabeat,W14,-1,"Bellabeat allows you to connect with your unborn baby and share your experience with friends, family and other future moms."
+420,Boostable,W14,-1,Advertising made easy for sellers on marketplaces.
+421,Cambly,W14,-1,Private language tutors on-demand.
+422,Camperoo,W14,-1,Thousands of the best summer camps and year-round activities in your area and beyond.
+423,CareMessage,W14,-1,Empower at-risk patients to become better healthcare consumers.
+424,CodeCombat,W14,-1,Learn to code javascript by playing a game.
+425,CodeNow,W14,-1,Creating the developers of the future.
+426,Eventjoy,W14,Exited,"Fee-free ticketing, optimized for mobile."
+427,Framed Data,W14,Exited,Acquired by SquareÊFramed retains your users. Framed Data knows how your users behave and warns you when they're about to leave.
+428,Gbatteries,W14,-1,BatteryOS is a new way of controlling rechargeable lithium-ion batteries that enables any normal battery to have higher capacity and not degrade over time.
+429,Gobble,W14,-1,Let someone else do the cooking. Wholesome family dinners delivered fresh every night.
+430,HoverChat,W14,-1,HoverChat enables true multitasking by allowing you to read and reply to incoming messages without ever leaving your current screen.
+431,Immunity Project,W14,-1,We're developing a free vaccine to end HIV and AIDS
+432,Kimono,W14,-1,Turn websites into structured APIs from your browser in seconds.
+433,MadeSolid,W14,-1,Making materials matter. Developing advanced materials for your 3D printer.
+434,Memebox,W14,-1,"Memebox is a rapidly-growing, leading e-commerce beauty retailer."
+435,Minuum,W14,-1,The best keyboard for smart watches.
+436,Move Loot,W14,Dead,The easiest way to buy and sell furniture.
+437,Next Caller,W14,-1,Know your caller. The most advanced caller identification platform in the world.
+438,Noora Health,W14,-1,Noora Health empowers patients and their families with high-impact medical skills to recover from their condition and improve health outcomes.
+439,One Degree,W14,-1,"Community resources, just for you. The easiest way to find, manage, and share nonprofit services for you and your family."
+440,Orankl,W14,-1,We help you sell more. Smart email marketing and reviews at the distance of a click.
+441,Piinpoint,W14,-1,Location analytics made simple. PiinPoint enables businesses to find the best locations for expansion.
+442,Povio,W14,-1,Povio enables you to start communicating with friends in the most comfortable way.
+443,Pushbullet,W14,-1,"Pushbullet connects your devices, making them feel like one"
+444,Rickshaw,W14,-1,Same day delivery has never been this easy.
+445,Rocketrip,W14,-1,"Reduce travel spend, improve employee culture. It's business travel made personal."
+446,Sendwithus,W14,-1,Transactional Email Made Easy. Stop trapping your email in source code. Set it free.
+447,Shoobs,W14,-1,Your night starts here.
+448,SketchDeck,W14,-1,We make your presentations look great.
+449,StackLead,W14,-1,"The research you need to understand every new user, delivered to your inbox when they sign up."
+450,Style Lend,W14,-1,Live fashionably. Borrow & Lend Designer Dresses with local Fashionistas.
+451,Superhost,W14,-1,Your Personal Airbnb Assistant. The easiest way to manage your Airbnb listing!
+452,Taplytics,W14,-1,Mobile A/B testing for everyone on iOS. With the world's most fully featured mobile A/B testing platform.
+453,TerrAvion,W14,-1,Getting an aerial imagery subscription to manage your farm's operations is easy!
+454,The Dating Ring,W14,Dead,"We're making dating fun again. We meet all of our members and set up dates. It's like meeting through friends, except much, much better."
+455,Threadable,W14,-1,Mailing lists evolved. Threadable makes group email less noisy and more actionable.
+456,TradeBlock,W14,-1,TradeBlock serves financial institutions with execution and analysis tools that capitalize on the potential of blockchain technologies
+457,TrueVault,W14,-1,Secure API to store health data. HIPAA compliance made easier for healthcare applications
+458,Two Tap,W14,-1,Users can now order any product directly in your app with Two Tap.
+459,Unbabel,W14,-1,Translation as a service. Human corrected machine translation service that enables businesses to communicate globally.
+460,Vidpresso,W14,-1,Social media on air.
+461,Weave,W14,-1,Better phone service for your dental practice that syncs with your dental software.
+462,Wit.ai,W14,Exited,Natural Language for the Internet of Things.
+463,Zesty,W14,-1,Zesty lets you order healthy meals from your favorite local restaurants.
+464,Zidisha,W14,-1,An online microlending community that directly connects lenders and borrowers
+465,Zinc,W14,-1,"Zinc is the best way to buy. Pay with with Dwolla or Bitcoin, and manage all your orders in one place."
+466,ZowPow,W14,-1,Play mobile games with plush toy characters!
+467,7 Cups of Tea,S13,-1,Want to talk? Connect with someone who will really listen.
+468,Amulyte,S13,Dead,An Emergency Response System. Reimagined.
+469,Apptimize,S13,-1,The Complete Mobile A/B Testing Solution
+470,Asseta,S13,-1,"The most transparent platform ever for buying, selling, and managing parts."
+471,Bloomthat,S13,-1,Ridiculously fast flowers. Handcrafted bouquets. Starting at $35. Delivered in 90 minutes.
+472,Buttercoin,S13,Dead,Trade bitcoin with ease.
+473,Casetext,S13,-1,Casetext is where the best lawyers research and write about the law
+474,CoreOS,S13,-1,"Linux for Massive Server Deployments CoreOS enables warehouse-scale computing on top of a minimal, modern operating system."
+475,Cratejoy,S13,-1,An easy way to launch your own subscription business
+476,Crowdery,S13,-1,Early access to great design.
+477,DataRank,S13,Exited,Gain Insights into your Customers and Competitive Market by monitoring the highest quality online data in real-time.
+478,DoorDash,S13,-1,Your favorite local restaurants delivered to you.
+479,EasyPost,S13,-1,"Shipping for developers. EasyPost allows you to integrate USPS, UPS, DHL and FedEx shipping APIs into any application in minutes."
+480,Estimote,S13,-1,Estimote beacons real world context for your apps.
+481,FanHero,S13,Dead,Let your fans support you. The easiest-to-make storefront for creators.
+482,Floobits,S13,-1,Floobits lets you code like you're in the same room.
+483,Glio,S13,-1,Amazon Marketplace for Latin America
+484,GoComm,S13,-1,Your team communications made clear.
+485,Graft Concepts,S13,Dead,Makers of unique iPhone cases.
+486,Hackermeter,S13,Exited,Acquired by Pinterest.ÊHackermeter pairs talented developers with great jobs
+487,Hum,S13,Dead,"HUM, simply redefining the inbox one chat at a time."
+488,Kivo,S13,Dead,Get feedback on your presentations.
+489,Le Tote,S13,-1,Welcome to your dream closet. Rent unlimited looks each month.
+490,Lob,S13,-1,Power your printing and mailing with Lob. A simple API to integrate print & mail solutions into your applications.
+491,LocalOn,S13,-1,Essential tools for running your Merchants Association.
+492,Lumoid,S13,-1,"Rent and own high-quality gear and accessories, starting at $5/day. Simple, affordable and fast!"
+493,Meta Space Glasses,S13,-1,The first holographic interface.
+494,One Month,S13,-1,"Learn how to code websites, build apps, and grow your business."
+495,OrbsCCG,S13,-1,The next generation collectible card game... with asynchronous mode!
+496,Panorama Education,S13,-1,"More than 4,000 schools use Panorama for data analytics and feedback surveys of teachers, parents, and students."
+497,Prim,S13,Dead,Same day laundry delivery.
+498,RealCrowd,S13,-1,Featured investments available for funding.
+499,Reebee,S13,-1,Flyers at your fingertips! Simple. Fast. Free.
+500,Regalii,S13,-1,Food credit straight to your phone.
+501,Senic,S13,-1,Smarter sensing.
+502,SimpleLegal,S13,-1,Make sense of your legal bills.
+503,SoundFocus,S13,-1,Hear your music in 20/20.
+504,SpoonRocket,S13,Dead,Most convenient meal ever.
+505,Standard Treasury,S13,-1,APIs for commercial banks.
+506,StatusPage,S13,-1,Better Server Status Communication The best way to create a status page for your app or website. Just ask New Relic.
+507,Teleborder,S13,Dead,"Immigration, tax, and relocation. All in one place. Teleborder helps you scale your business."
+508,True Link Financial,S13,-1,We keep a watchful eye out for fraud and spending mishaps so you can spend your time doing what matters.
+509,URX,S13,Exited,"Add urx.io/ to every link and drive users to your app, mobile website, or desktop browser."
+510,Watchsend,S13,-1,Record your iPhone app.
+511,Webflow,S13,-1,"Build beautiful, responsive websites without code."
+512,Weilos,S13,Exited,Weilos is the most motivational fitness and weight loss community.
+513,ixi-play,S13,Dead,"The Robot Buddy kids will love! Engage, Challenge, Learn."
+514,Airware,W13,-1,Airware specializes in the development of autopilots for unmanned aircraft systems.
+515,Beatdeck,W13,-1,"Free, powerful social metrics combined with effective campaign feedback."
+516,Bitnami,W13,-1,The App Store for server software. Run any app on any platform.
+517,BuildZoom,W13,-1,"BuildZoom is your one-stop shop for getting a house built, remodeled or repaired."
+518,CircuitLab,W13,-1,"We're making it easier for engineers, students, and hobbyists to design, analyze, build, and share circuits."
+519,Coin,W13,-1,"Coin is a secure, connected device that can hold and behave like the cards you already carry"
+520,CrowdMed,W13,-1,CrowdMed is revolutionizing healthcare by harnessing Ôthe wisdom of crowdsÕ to help solve even the worldÕs most difficult medical cases quickly and accurately online.
+521,Errplane,W13,Dead,"Monitoring, error reporting, and metrics for all your applications."
+522,Experiment,W13,-1,Experiment is a crowdfunding platform for science and academic research.
+523,Fivetran,W13,-1,Spreadsheets for big data.
+524,FlightCar,W13,Dead,FlightCar lets people parking at the airport rent their vehicles out to other travelers. Never pay for airport parking again.
+525,Goldbely,W13,-1,Our vision is an online marketplace that connects curious eaters with America's best gourmet food purveyors.
+526,Heap Analytics,W13,-1,"Heap automatically captures every user action in your web app and lets you measure it all. Clicks, form submissions, page views, and more."
+527,Lawdingo,W13,-1,"Talk to a lawyer online. Get the legal advice you need, hassle- and commitment-free."
+528,Lollipuff,W13,-1,Lollipuff is the premier online auction site for high-end designer apparel and accessories.
+529,Medisas,W13,-1,"Great healthcare, powered by great software."
+530,Meldium,W13,-1,"Meldium automates away the tedious, error-prone, and insecure parts of account management so you can do more work with less IT."
+531,Myo,W13,Dead,"The MYO armband lets you use the electrical activity in your muscles to wirelessly control your computer, phone, and other favorite digital technologies."
+532,Padlet,W13,-1,"An easy way to create and collaborate, where people can put any content anywhere on the page"
+533,PayTango,W13,-1,PayTango links the cards in your wallet to your fingerprints.
+534,Posmetrics,W13,-1,Posmetrics provides iPad-based customer feedback surveys that are mounted right at the point of purchase.
+535,Prizeo,W13,-1,A fundraising platform enabling celebrities to use their fan bases to raise money and awareness for their chosen causes.
+536,Screenhero,W13,-1,"Collaborative screen sharing. You each get your own mouse, and you're both always in control."
+537,Semantics3,W13,-1,"Curated database of products and prices. 50 million distinct prices from 20 million products, refreshed constantly."
+538,SimplyInsured,W13,-1,Simple health insurance for small businesses.
+539,Strikingly,W13,-1,"Gorgeous, mobile-optimized sites in minutes."
+540,StyleUp,W13,-1,"Weather-appropriate fashion advice tailored to your life and style, every day."
+541,Svbtle,W13,-1,Svbtle is publishing network that brings some of the best things from newspapers and magazines to a network of great people.
+542,SwapBox,W13,-1,With Swapbox you no longer have to worry about missing deliveries. Use your Swapbox shipping address and your packages will be waiting for you at our nearest location.
+543,Swish,W13,-1,"Simple, secure mobile payments using your phone"
+544,Teespring,W13,-1,Create and sell custom t-shirts with zero upfront costs.
+545,Terascore,W13,Dead,"Set up exams, tests and assessments with ease. Get student answers securely. Get them graded instantly."
+546,Watsi,W13,-1,Watsi is an online peer-to-peer crowdfunding platform that allows users to fund life-changing medical treatments for underserved people in developing countries.
+547,WeFunder,W13,-1,We aim to give everyone - regardless of wealth - the opportunity to invest in startups.
+548,Wevorce,W13,-1,"Wevorce's divorce services ensure kids come first, costs remain affordable and everyone stays out of court."
+549,Zaranga,W13,-1,Find a professionally managed vacation rental.
+550,Zenefits,W13,-1,"Zenefits runs your benefits, so you can run your business. Get affordable benefits for your company in minutes. Then set and forget them."
+551,9GAG,S12,-1,An online platform and social media site based around funny pictures and content
+552,AdsOptimal,S12,-1,Maximize your revenue with amazing ads
+553,Airbrite,S12,-1,Airbrite is a cloud-enabled platform that powers mobile commerce We are the next generation of e-commerce. Our mobile-first API powers modern shopping.
+554,Amicus,S12,-1,"Amicus empowers cause-driven organizations to leverage the social networks of their supporters, raise more money, attract more members, and win more votes."
+555,Authy,S12,-1,Authy makes it easy to add optional two-factor authentication to your application
+556,BigCalc,S12,Dead,"Fast, scalable financial analytics. BigCalc lets quants and algo traders run simulations on limitless amounts of historic data."
+557,BoostedBoards,S12,-1,Boosted Boards builds the world's lightest electric longboards.
+558,BufferBox,S12,-1,"Ship parcels to BufferBox for quick, convenient & secure pick-up anytime. Never miss a delivery again."
+559,Canopy Labs,S12,-1,Canopy Labs provides a powerful platform for businesses wanting to build and apply customer models.
+560,Circular,S12,Dead,Circular offers an infinitely scrolling feed of content based on people you follow and topics that interest you.
+561,Clever,S12,-1,Build educational applications that just work.
+562,Coco Controller,S12,Dead,A Kickstarter project that adds directional controls and game buttons to almost any phone
+563,Coinbase,S12,-1,Your Hosted Bitcoin Wallet. Coinbase is the easiest way to get started with Bitcoin.
+564,Collections,S12,-1,"Finder for the cloud. Google docs, Facebook, Instagram."
+565,DataNitro,S12,-1,Supercharge Excel. Script your spreadsheets with Python.
+566,Diaspora,S12,-1,Social freedom. The online social world where you are in control.
+567,Double Robotics,S12,-1,"Double is the simplest, most elegant way to be somewhere else in the world without flying there. Wheels for your iPad."
+568,Dreamforge,S12,-1,We believe that 3D printing will fundamentally reshape our relationship with the products and items we use
+569,Easel,S12,Dead,"Easel is an in-browser, high-fidelity web design tool that lets you mockup, share and implement your ideas with ease."
+570,Eligible,S12,-1,Real Time Eligibility Checks for Health Insurance.
+571,Everyday.me,S12,Dead,Everyday.me is an automatic journal that helps you to record your life and store it forever.
+572,Filepicker.io,S12,-1,Filepicker.io connects mobile & web applications to user content.
+573,FlightFox,S12,-1,Flightfox is a platform for crowd-sourced flight search.
+574,Fullstack Academy,S12,-1,Fullstack Academy is a 12-week immersive coding school that turns great people into great developers.
+575,FundersClub,S12,-1,A web service that gives investors unprecedented access to investment opportunities and the tools to review and invest online with ease and speed
+576,GetGoing,S12,-1,GetGoing is a San Francisco based technology company developing innovative search and booking solutions for the global airline industry.
+577,Grid,S12,-1,A Simply Remarkable Spreadsheet.
+578,HD Trade Services,S12,-1,Mobile and cloud based logistics software.
+579,Healthy Labs,S12,-1,Healthy Labs builds networks to connect patients so they can learn from each other.
+580,HiMom,S12,-1,HiMom - Stay in touch with your parents. Share precious moments in digital- and physical postcards.
+581,HipType,S12,Dead,Hiptype brings analytics and targeted advertising capabilities to the most popular eBook platforms
+582,Hubchilla,S12,-1,HubChilla matches you up to similar users and lets you talk to them over SMS.
+583,Instacart,S12,-1,A Grocery Store on Your Phone. Delivery to your doorstep within minutes.
+584,Kamcord,S12,-1,Kamcord allows users to record and share their awesome gameplays without having to leave their games.
+585,Keychain Logistics,S12,-1,Need Reliable Carriers? Keychain's proprietary technology gives you unprecedented access to our nationwide network of qualified drivers.
+586,Kippt,S12,Dead,With Kippt we want to make your information workflow and archiving effortless.
+587,Knowmia,S12,-1,"Where great teachers help you succeed in high school. Search for a topic. Over 8,000 video lessons and counting."
+588,LeanMarket,S12,-1,Lean Startup Machine is the world's leading bootcamp on Lean Startup methodology.
+589,Lever,S12,-1,"A fresh take on the applicant tracking system, Lever combines ATS and CRM functionality to source, nurture, and manage candidates all in one place."
+590,LightTable,S12,-1,A new interactive IDE that lets you modify running programs and embed anything from websites to games
+591,Markupwand,S12,Dead,Photoshop to html & css. Generates automatically in minutes
+592,MicroEval,S12,Dead,Say goodbye to long forms and meaningless numbers. MicroEval is the quickest and most meaningful way to give feedback to your employees.
+593,Mth Sense,S12,-1,"Our goal is to be THE answer to the mobile monetization problem. The first step is to solve the problem of ""blind"" ads. Hence our focus on targeting."
+594,MyVR,S12,-1,MyVR is online marketing software that allows vacation rental owners and operators to manage all of their vacation rental marketing in one place.
+595,Newsblur,S12,-1,Focus on the best stories from your friends and favorite blogs.
+596,Parallel Universe,S12,-1,"Parallel Universe, a Y-Combinator startup, makes middleware that enable easy scaling for real-time spatial applications."
+597,Perfect Audience,S12,-1,Fast & Easy Facebook Retargeting. Retarget lost customers on Facebook and get more sales.
+598,Plivo,S12,-1,Plivo is a cloud based API platform to build Voice and SMS Applications.
+599,Profig,S12,Dead,"Profig provides transcriptions, call tracking, voice broadcasting, CRM integration and other custom features to businesses."
+600,QuicklyChat,S12,-1,QuicklyChat is a quick way for coworkers to video chat with each other when they're working remotely.
+601,ReelSurfer,S12,-1,ReelSurfer lets anyone clip and share any video from any website.
+602,Refer.ly,S12,-1,Referly is an Online Referral System for Your Social Network.
+603,RegistryLove,S12,-1,RegistryLove lets you register products and services from anywhere & consolidate them all onto ONE registry
+604,Rent.io,S12,-1,Set Rent Accurately. Rent.io helps you set competitive pricing for rental properties.
+605,Scoutzie,S12,Dead,Scoutzie.com is a curated marketplace for design.
+606,SmartAsset,S12,-1,SmartAsset makes life's biggest decisions easier by bringing full transparency to the financial decision making process.
+607,SpinPunch,S12,-1,SpinPunch makes infrastructure for high performance browser games to rival PC and console titles.
+608,Sponsorfied,S12,-1,Sponsorfied is an online marketplace for sponsorships that connects brands with relevant sponsorship opportunities with the click of a button.
+609,Statwing,S12,-1,Web-based statistical analysis software that speaks in plain english instead of arcane stats jargon.
+610,StudyEdge,S12,-1,Better Grades. Less Frustration. We help you get better grades in your college classes with less time spent studying.
+611,Submittable,S12,-1,"A cloud-based submission management platform used by businesses, publishers and art organizations to curate and accept payments with submissions"
+612,Survata,S12,-1,Survata is a new type of market research and consumer insights service.
+613,TapIn,S12,Dead,TapIn is the easiest way to go from seeing to sharing. Broadcast mobile videos instantly.
+614,Tastemaker,S12,-1,Tastemaker aims to make interior decorating affordable and accessible to everyone.
+615,TomoGuides,S12,-1,"Handcrafted iPhone travel guides that are free, offline, and just plain full of awesomeness."
+616,Tracks.by,S12,-1,The best way for artists to release new music and videos.
+617,Vastrm,S12,-1,"Custom Fit, Perfect Fit, Personalized Polos, T-shirts."
+618,Vayable,S12,-1,"Vayable is an online marketplace where people can discover, buy and sell unique travel experiences, including tours, activities and extended trips"
+619,ViaCycle,S12,-1,ViaCycle creates advanced bicycle sharing technology that allows easy deployment and administration.
+620,Virool,S12,-1,"Get your video seen by millions of people! Leverage our platform to distribute your video to people you want on blogs, social games, and mobile apps"
+621,VoiceGem,S12,Exited,VoiceGem is the easiest way to send a voice message to anyone.
+622,Zapier,S12,-1,Zapier lets SaaS users create integrations that push data between dozens of different web applications without having to write any code or wrangle APIs
+623,imgfave,S12,-1,A fun image sharing community. Explore amazing art and photography and share your own visual inspiration!
+624,42floors,W12,-1,42Floors makes office space rentals and commercial real estate listings easier to search
+625,99dresses,W12,-1,99dresses allows users to trade the fashion items with other users.
+626,Anyperk,W12,-1,AnyPerk offers discounts on web-services as employee perks.
+627,Ark,W12,-1,Ark.com is a search engine for people. Find new people. Reconnect with old classmates. Make new business contacts. Search your friends.
+628,Carsabi,W12,Exited,Carsabi is a search engine for used cars.
+629,Coderwall,W12,-1,Coderwall is a site for developers to profile what projects they are up to and learn from others.
+630,Crowdtilt,W12,-1,"Crowdtilt allows users to pool funds for objectives in a simple, social, and frictionless way online."
+631,Dealupa,W12,-1,"A fresh, new way to shop daily deals."
+632,Embark,W12,Dead,"Embark makes it easy to get around without a car. We make free, fast, and simple mobile apps for mass transit riders worldwide."
+633,EveryArt,W12,-1,"everyArt allows you to commission an art piece from a diverse portfolio of artists on the web, all excited to collaborate with you on your masterpiece."
+634,Exec,W12,-1,Exec lets you outsource the things you don't want to do in life. Let our background checked Execs help you get things done today.
+635,FamilyLeaf,W12,-1,FamilyLeaf is a private place to share your life with your family.
+636,FarmLogs,W12,-1,FarmLogs makes it incredibly simple to always know what's happening on your farm. Start saving time and money. Ditch the spreadsheets and paper records!
+637,Flutter,W12,Exited,Play and pause your music and movies with a gesture!
+638,Flypad,W12,Dead,"Flypad turns your iPhone into a motion-sensing game controller for PC, Steam, & indie games."
+639,Givespark,W12,Dead,Where fans and celebrities gather for good.
+640,Grouper,W12,-1,We're a social club that sets up drinks between 2 groups of friends. 3 guys & 3 girls.
+641,HackPad,W12,Exited,Smart collaborative documents. Company wiki. Personal notes. Event planning. Classroom collaboration.
+642,HireArt,W12,-1,"Brilliant job seekers, delivered. Screen and source job candidates through work samples and video interviews."
+643,Jellyfish Art,W12,Exited,We sell pet jellyfish in specialized aquariums
+644,Kyte,W12,Dead,Kytephone is a free app that transforms an Android smartphone into a safe and fun smartphone for kids.
+645,LVL6,W12,Dead,LVL6 creates social mobile games on Android and iOS.
+646,LendUp,W12,-1,Our mission is to expand access to credit and lower the cost of borrowing
+647,MakeGamesWithUs,W12,-1,The Easiest Way to Build an iPhone Game. Period.
+648,MatterPort,W12,-1,"Matterport is a revolutionary 3D scanner that allows anyone to create digital models of interior spaces quickly, easily, and automatically."
+649,Medigram,W12,Dead,Healthcare communication made simple. Medigram provides a HIPAA-compliant communication platform to make any medical conversation convenient and secure.
+650,Midnox,W12,Dead,Create stunning HD videos and share them with your friends.
+651,MineFold,W12,-1,"Simple Minecraft servers. Available instantly, free to play for 10 hours a month."
+652,Pair,W12,Dead,Pair is an app just for the two of you.
+653,Per Vices,W12,-1,Hardware that allows software developers to write applications to interact with all types of wireless signals and wireless devices
+654,PlanGrid,W12,-1,PlanGrid was created to save contractors time.
+655,PopSet,W12,Dead,"Popset is the easiest way to start group photo albums with friends, directly from a mobile phone."
+656,Priceonomics,W12,-1,Priceonomics is the price guide for everything.
+657,ScreenLeap,W12,-1,Share your screen instantly to any device with a browser.
+658,SendHub,W12,-1,SendHub is a fast and simple way for professionals to communicate.
+659,Shoptiques,W12,-1,Shoptiques.com brings boutique shopping online.
+660,SocialCam,W12,Exited,Socialcam is a new mobile video application coming to both iPhone and Android.
+661,Sonalight,W12,-1,Sonalight is an app that lets you text whilst you drive.
+662,Swiftype,W12,-1,Swiftype is building search software for the next generation of websites and applications.
+663,TiKL,W12,Dead,"An Android and iOS app that turns your phone into a real-time push-to-talk walkie-talkie that also sends texts, voicemail, images, and video."
+664,Your Mechanic,W12,-1,"Hire mechanics that will come to your home or work to fix your car. Save 20% or more on car repairs. Convenient, affordable and transparent."
+665,ZenPayroll,W12,-1,"We are creating beautiful, modern payroll."
+666,Zillabyte,W12,Dead,Zillabyte is an online big-data analysis platform currently in stealth mode.
+667,chute,W12,-1,"Chute is a cloud platform that helps apps and sites capture, manage, and display media files"
+668,iCracked,W12,-1,"iCracked provides local iPhone, iPad, iPod, and Samsung repair and trade-in in the United States and eight other countries around the world."
+669,theDailyMuse,W12,-1,The Daily Muse is visually engaging job search and related career resources.
+670,AgileDiagnosis,S11,-1,"The central place for clinical guidelines, providing clinicians with access to expertise and information in a format they can apply in their practice"
+671,Aisle50,S11,Dead,"Aisle50 is the first group-buying outlet for groceries, a $2 trillion business. The best way to save on your groceries."
+672,B2Brev,S11,Dead,"We'll help you make smart and easy decisions on products and services based on honest reviews, from one business to another"
+673,Can't Wait,S11,Dead,Be the first to hear about movies that you will love!
+674,Citus Data,S11,-1,"CitusDB is a distributed database that lets you run SQL queries over very large data sets. Designed for analytical queries, CitusDB enables real-time responsiveness."
+675,Codecademy,S11,-1,"Codecademy is a web-based programming tutorial designed to teach JavaScript, HTML, CSS, JQuery and Python"
+676,Compose,S11,Exited,Acquired by IBM in July 2015.ÊDatabase-as-a-Service for hosting and managing MongoDB instances
+677,DebtEye,S11,Dead,"We are an automated credit counseling solution to help customers get out of debt, a little like a Òturbo taxÓ for those who need debt relief."
+678,DoubleRecall,S11,-1,DoubleRecall is a recall based advertising platform and monetization solution for online media and mobile.
+679,EveryMe,S11,Dead,"We believe most stories are meant to be shared with your family and best friends, not 500 strangers. Everyme lets you choose who to share with and how."
+680,Firebase,S11,Exited,A scalable real-time backend for your web app. Build apps really fast without the hassle of managing servers.
+681,FreshPlum,S11,Dead,Freshplum's goal is to bring the decision-making power of data science to companies who sell goods and services electronically.
+682,Glassmap,S11,Exited,"Glassmap is a simple, beautiful way to show your friends where you are and what you are doing."
+683,GoCardless,S11,-1,GoCardless is a UK-based service that allows smaller merchants to easily set up interbank transfers for customers.
+684,Habit Labs,S11,Dead,Habit Labs aims to turn leading a healthier life into a game.
+685,Interstate,S11,Dead,The future of open project management. Keep users away from competitors by keeping them in the loop with your product's development.
+686,InterviewStreet,S11,-1,Interviewstreet helps you to create customized programming tests and evaluate candidates based on their programming skills before proceeding for an interview
+687,Kicksend,S11,Dead,"Kicksend allows friends and family to easily share files in real-time on the web, mobile, and desktop."
+688,Launchpad Toys,S11,Exited,"We're creating digital toys and tools that empower kids to create, learn & share their ideas through play."
+689,Leaky,S11,Dead,Leaky helps consumers make better decisions about insurance.
+690,MarketBrief,S11,Dead,"The latest SEC Filings, Press Releases, Patents, and Trademarks for 700000+ companies and entities."
+691,Meteor,S11,-1,"Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started."
+692,MixRank,S11,-1,MixRank is a spy tool for contextual and display ads.
+693,MobileWorks,S11,-1,"MobileWorks is a crowdsourcing platform for businesses and developers that is more accurate, faster and easier to use than existing solutions."
+694,Munch On Me,S11,Exited,Munch On Me is a food discovery portal that connects people with great food at great prices in local communities.
+695,Opez,S11,-1,"The best people around. Who are the best trainers, stylists, etc. around me?"
+696,PageLever,S11,-1,PageLever is the leading analytics platform for measuring your brand's presence on Facebook.
+697,Paperlinks,S11,Dead,QR codes made easy. Paperlinks is the premier platform for generating QR codes for businesses.
+698,Parse,S11,Exited,Cloud services for mobile developers. Parse lets you focus on creating unique & engaging apps. We take care of the rest
+699,PicPlum,S11,Dead,Share Your Best Moments. Send photo prints to loved ones in seconds.
+700,Proxino,S11,Dead,Proxino is a cloud platform for monitoring and debugging client-side JavaScript.
+701,Quartzy,S11,-1,Quartzy is an online suite of lab management tools for the academic life science community.
+702,Rentobo,S11,Exited,"Rentobo is a new tool built for landlords, managers, and agents of all sizes to simplify the process of finding and signing a new tenant for your rental property."
+703,Science Exchange,S11,-1,An online marketplace for scientific experiments. The easiest way to get experiments conducted by researchers in top core facilities and institutions
+704,Segment,S11,-1,"The Segment API controls other analytics tools, allowing developers to integrate one single API in place of many."
+705,SellStage,S11,-1,SellStage is SaaS for online retailers to make communicating and selling via video easy and affordable.
+706,Siasto,S11,Dead,"Siasto is a collaboration and project management tool that integrates into Google Apps, Gmail, Google Drive, GCal, box, and Dropbox."
+707,Sift Science,S11,-1,The world's most advanced fraud prevention platform
+708,Snapjoy,S11,Exited,"Snapjoy is an online photo library that imports your photos from anywhere and organizes them into meaningful memories of who, what, when, & where."
+709,Streak.com,S11,-1,Greek Streak is a company that designs and creates unique sorority and fraternity apparel.
+710,Stypi,S11,Exited,Stypi is a collaborative real-time text editor similar to Etherpad.
+711,Tagstand,S11,-1,Tagstand ships NFC stickers and a platform to manage them.
+712,TapEngage,S11,Exited,You need a tablet strategy. We can help.
+713,Verbling,S11,-1,Verbling provides users with an innovative way to learn new languages by utilizing video chat technology.
+714,Vidyard,S11,-1,"An online video platform for businesses. Vidyard hosts your videos, analyzes their effectiveness, and transforms them into powerful marketing tools"
+715,Vimessa,S11,-1,"Vimessa allows you to send free video messages to your friends anywhere in the world, even if they do not have an iPhone."
+716,Yardsale,S11,Dead,"Yardsale, a mobile app to help folks sell goods to local buyers."
+717,Zenbox,S11,Dead,Zenbox is a browser extension that connects all of your SaaS services.
+718,Zigfu,S11,-1,"Zigfu is the easiest way to make and play Kinect apps. Download the plugin, hook up your sensor, and enjoy the future now!"
+719,Acunote,W11,-1,Acunote is a project management tool and Scrum software.
+720,AppHarbor,W11,-1,AppHarbor is a .NET Platform-as-a-Service.
+721,Balanced Payments,W11,Dead,"Payments for marketplaces. Pay sellers, campaign organizers and service providers."
+722,Beetailer,W11,-1,"Bring your store to Facebook, and grow your business"
+723,Bridge,W11,-1,RPC Framework for Building Modular Services and Cross-Language Applications.
+724,Chirply,W11,-1,Chirply is a platform for crowd-sourcing & crowd-curating design.
+725,Circle,W11,Dead,"Know when your friends & networks are nearby, wherever you are, no matter where you go"
+726,Comprehend Systems,W11,-1,"A reporting and visualization tool which runs against multiple databases in real time, while leaving the data in place"
+727,Curebit,W11,-1,Curebit helps online stores increase revenue through referrals by turning existing customers into marketers.
+728,Custora,W11,-1,"Custora offers a SaaS that tells online retailers and web apps which of their customers are most valuable, and suggests actions to keep them."
+729,Dr Chrono,W11,-1,drchrono is a medical platform for doctors and patients.
+730,Earbits,W11,-1,Earbits is a marketing platform for music related products built around interactive radio experiences.
+731,FitFu,W11,Dead,Think of FitFu as a personal trainer in your pocket that keeps you active with little bits of exercise throughout the day.
+732,Five Stars,W11,-1,"We created a universal customer loyalty card that embraces the power of network effects, social media integration & improves the customer experience."
+733,Giftrocket,W11,-1,GiftRocket sells a new type of gift card that works at any location.
+734,Grove,W11,Exited,Acquired by Revolution SystemsÊHosted IRC and so much more
+735,GrubWithUs,W11,Dead,"Grubwithus social meals allow you to meet new people, while dining at some of your city's best restaurants."
+736,HelloFax,W11,-1,"HelloFax is an online service that helps you send and receive faxes, request signatures and fill out forms all from your computer."
+737,Humble Bundle,W11,-1,Humble Bundles are collections of digital creations that are sold online at a price determined by the purchaser.
+738,Hype,W11,-1,Tumult Inc. makes the next generation of designer tools to produce beautiful web content.
+739,Hyperink,W11,-1,"Hyperink, the San Francisco based self-publishing platform, wants to unlock and sell that untapped information by giving every citizen the ability to publish a book."
+740,Instapainting.com,W11,-1,Formerly Like.fm. Hand-painted oil paintings on canvas and other artwork shipped from artists just by uploading a photo.
+741,Kaleidoscope,W11,-1,Use Kaleidoscope to spot the differences in text and image files. Review changes in seconds with the world's most advanced file comparison application.
+742,Lanyrd,W11,Exited,"Lanyrd is a directory of conferences, events and speakers."
+743,MailGun,W11,Exited,Acquired by Rackspace in 2012.ÊMailgun provides a web service for integrating email inboxes into apps.
+744,Meetings.io,W11,Dead,With Meetings.io you can meet face to face with anyone from around the world within your web browser.
+745,MemSQL,W11,-1,"MemSQL is a Y Combinator grad making a scalable, memory-optimized database built for high-throughput workloads."
+746,MinoMonsters,W11,Dead,MinoMonsters is a social game where players collect and battle pet monsters.
+747,Moki.TV,W11,Dead,"Moki.TV is a directory of all paid and free content included on Amazon's streaming service, Netlfix, Hulu, iTunes, and others."
+748,Noteleaf,W11,-1,"Always Know Who You're Meeting. You schedule meetings in Google Calendar, Noteleaf gives you information about who you're meeting on your phone."
+749,NowJS,W11,Dead,Flotype Inc. is a venture-backed company building a suite of enterprise technology for real-time messaging.
+750,OrderAhead,W11,-1,OrderAhead is the easiest way to order from local merchants on your phone.
+751,Pebble Technology,W11,-1,Pebble is an infinitely customizable e-paper watch.
+752,Sendoid,W11,Exited,Acquired by Facebook in 2012.ÊSendoid is an on-demand peer to peer transfer system.
+753,SwipeGood,W11,-1,SwipeGood allows users to enroll their credit or debit cards and automatically round up every purchase to the nearest dollar for charity.
+754,TalkBin,W11,Exited,Acquired by Google.ÊTalkBin is a feedback platform for local businesses.
+755,Taskforce,W11,Dead,"Siasto is a collaboration and project management tool that integrates into Google Apps, Gmail, Google Drive, GCal, box, and Dropbox."
+756,TellFi,W11,Dead,"Fastest, easiest way to setup a phone system for your business."
+757,TrustEgg,W11,Dead,The simplest way to save for a child's future.
+758,Tutorspree,W11,-1,Tutorspree is an online portal that helps tutors and clients find each other.
+759,Upverter,W11,-1,Upverter is building browser-based electronic design tools focused on collaboration and usability.
+760,WhereBerry,W11,-1,WhereBerry helps you keep track of things you want to do in your city.
+761,YouGotListings,W11,-1,The online rental technology platform that provides real estate offices and landlords with easy-to-learn tools
+762,ZeroCater,W11,-1,"ZeroCater makes it easy for companies to enjoy meals delivered from the best local restaurants, caterers and private chefs"
+763,1000Memories,S10,Exited,Acquired by Ancestry in 2012.Ê1000memories is the new shoebox for your old photos
+764,AdGrok,S10,Exited,Acquired by Twitter in 2011.ÊAdGrok allows business owners to automate the process of choosing and bidding on keywords on Google AdWords
+765,AeroFS,S10,-1,AeroFS is a program where users are able to manage and store their files and data in a cloud-like platform
+766,AnyList,S10,-1,The best way to create and share a grocery shopping list and organize your recipes
+767,Brushes,S10,-1,"Brushes is a painting app designed exclusively for the iPhone, iPod touch, and iPad"
+768,Chart.io,S10,-1,Analytics for everyone. A platform for everyone to explore and visualize data
+769,Crowdbooster,S10,-1,An intelligent social media dashboard designed to help businesses effectively grow and manage their presence online
+770,Docker,S10,-1,A software containerization platform. Formerly dotCloud
+771,E la Carte,S10,-1,"E la Carte develops tablets for restaurant tables so guests can order, pay and play games from their seats"
+772,FanVibe,S10,Exited,Acquired by beRecruited in 2011.ÊA social platform for watching sports and communicating with others who are watching the same game
+773,FutureAdvisor,S10,-1,"You already have investment accounts, we help make them smarter"
+774,Gantto,S10,Exited,Gantto was conceived to fill one obvious gap in our weekly management routine
+775,GazeHawk,S10,Exited,Acquired by Facebook.ÊEeye tracking services using ordinary webcams
+776,GinzaMetrics,S10,-1,Ginzametrics makes enterprise SEO simple and easy to manage
+777,Hipmunk,S10,-1,Hipmunk is a travel search site that aims to take the agony out of travel planning
+778,I Move You,S10,Dead,"
+Move Your Mountain is a crowdfunding platform enabling people to raise money for anything: start-ups, medical bills, non-profits, etc."
+779,Indinero,S10,-1,"Accounting, taxes & payroll. One solution. inDinero is your company's accounting department"
+780,Koduco,S10,Dead,Koduco makes iPad games that focus on multiplayer collaboration on the same device
+781,Leftronic,S10,-1,Leftronic develops a web-based real-time dashboard application for monitoring a company's most important data
+782,MessageParty,S10,Dead,MessageParty is a new kind of mobile blogging service
+783,OhLife,S10,Dead,Write in private about your life
+784,Opzi,S10,-1,Opzi is creating software to make corporate knowledge accessible
+785,PagerDuty,S10,-1,PagerDuty is an alarm dispatching service for system administrators and support teams
+786,Rapportive,S10,Exited,Acquired by LinkedIn.ÊRapportive shows you everything about your contacts right inside your inbox
+787,ReadyForZero,S10,-1,ReadyForZero creates online financial software that helps people control and reduce debt
+788,Simperium,S10,-1,"
+Simperium offers a platform for syncing content among people and their devices by building a data layer for scaling online services."
+789,Stripe,S10,-1,"Stripe is a simple, developer-friendly way to accept payments online"
+790,Tapzilla,S10,Dead,Taking the daily deal model and applying it to discounts on paid mobile apps
+791,Teevox,S10,-1,Fast stream watching.
+792,The Fridge,S10,Exited,Acquired by Google.ÊThe Fridge is a platform for lightweight single serving social networks for the functionality of Facebook
+793,The Recurse Center,S10,-1,"A free, self-directed, educational retreat for people who want to get better at programming. Formerly Hacker School"
+794,Whereoscope,S10,Dead,Whereoscope is a service designed to help parents keep know where their kids are
+795,Workflowy,S10,-1,WorkFlowy is a tool for organizing your brain
+796,140bets,W10,Dead,140Fire is a platform to make online video ads interactive.
+797,500Friends,W10,-1,500friends enables retailers to acquire and retain high value customers.
+798,Answerly.com,W10,-1,InboxQ is a browser extension that delivers a persistent stream of questions from Twitter directly to you.
+799,Browsarity,W10,Dead,Browsarity.com is a browser application that allows people to donate to charity while shopping online.
+800,CardPool,W10,Exited,"Cardpool is a gift card exchange marketplace where anybody can buy, sell, or trade their new or pre-owned gift cards."
+801,ChromaOm,W10,Dead,We want the whole world to find their color enlightenment
+802,Crocodoc,W10,Exited,Acquired by Box.ÊCrocodoc is the trusted leader in HTML5 document viewing.
+803,Cue,W10,Dead,Know what's next.
+804,Embedly,W10,-1,Embedly provides a platform and suite of tools to make embedding and previewing links simple.
+805,Embedster,W10,Dead,Embedster allows bloggers to serve an ad for any YouTube they display on their site.
+806,Etacts,W10,Exited,Etacts is a CRM for people - it helps you keep in touch with people in your address book.
+807,Fabricly,W10,Dead,"Fabricly is a great way for designers to gain extra exposure, whether you're already selling online or if you're just getting started."
+808,Gamador,W10,Dead,Gamador is a social game developer that has released three games so far.
+809,Homejoy,W10,Dead,Book a trusted cleaner today for $25 per hour
+810,Infoharmoni,W10,Dead,Infoharmoni is a data visualization startup founded by Kovas Boguta.
+811,Launchhear,W10,Dead,LaunchHear is a way for bloggers to get early review copies of new products.
+812,Mertado,W10,Exited,Mertado is a social shopping company that lets consumers discover and buy new products within the online communities that they frequent.
+813,Movity,W10,Exited,"Movity.com surfaces geodata (crime, noise, pricing, etc) to help home buyers make better decisions."
+814,NewsLabs,W10,Dead,"A platform that helps old-school journalists adapt to the web, by giving them help with advertising, SEO, and other issues they may not have had dealt with"
+815,Notifo,W10,Dead,Notifo is a mobile application and platform which allows any web site or service to easily create mobile notifications.
+816,Nowmov,W10,Dead,"Nowmov is an endless stream of videos recommended to users based on their interests, friends and what's trending around the world."
+817,Optimizely,W10,-1,"Simple, fast, and powerful."
+818,OwnLocal,W10,-1,Web-based software for local newspapers that gives them a white-label service for selling online ads and services to local businesses
+819,Tweetflow,W10,Dead,"
+Tweetflow provides platform to build social networking site."
+820,Zencoder,W10,Exited,"Zencoder is web-based video encoding software as a service, designed to quickly convert any video into web and mobile compatible formats"
+821,Zenedy,W10,-1,Learn something new every day with new articles written daily about topics discovered from all around the web.
+822,datamarketplace,W10,Exited,"Data Marketplace helps people find, buy and sell data online."
+823,Bump,S09,Exited,Acquired by Google in 2013.ÊMobile applications and APIs that allow two smartphones to identify each other and connect by being bumped together
+824,CarWoo,S09,-1,CarWoo! is an online new-car buying service and marketplace.
+825,DailyBooth,S09,Exited,Acquired by Airbnb in 2012.ÊDailyBooth lets users follow their friends and update them in real-time through the use of pictures and status updates.
+826,DirectedEdge,S09,-1,Directed Edge delivers e-commerce and social recommendations using existing data such as purchase or click histories
+827,FanChatter,S09,-1,FanChatter fuels your fans so they can promote you better than any ad ever could.
+828,Flightcaster,S09,Exited,Acquired by Next Jump in 2011.ÊFlightCaster predicts flight delays
+829,GraffitiGeo,S09,Exited,"Acquired by Loopt.ÊUsers leave brief reviews of restaurants, or just a thumbs up or thumbs down, like a highly condensed version of Yelp"
+830,HighlightCam,S09,-1,Create amazing movies right from your iOS or Android device - automatically!
+831,InstantQ,S09,-1,InstantQ allows restaurants to fill tables by varying prices to increase demand.
+832,Jobpic,S09,Dead,"
+Jobpicker is an intuitive online service to optimize your recruiting."
+833,Jobspice,S09,-1,"JobSpice is a surprisingly easy-to-use, intuitive online tool for creating a resume."
+834,Lingt,S09,Exited,Acquired by dictionary.com in 2010.ÊLingt is a service for learning languages that helps teachers enable their students to speak
+835,Listia,S09,-1,"Listia, which launched in August 2009, is eBay for free stuff."
+836,Lockitron,S09,-1,Keyless entry using your phone.
+837,MeetingMix,S09,-1,Save time writing your agenda and minutes.
+838,Mixpanel,S09,-1,Mixpanel is an advanced analytics service that helps improve web and mobile applications by tracking how users interact & engage with them
+839,Olark,S09,-1,Olark is a lightweight tool to chat with visitors to your website using your existing instant messaging client.
+840,Plurchase,S09,Dead,Plurchase is an online social shopping site.
+841,RentHop,S09,-1,Search NYC Apartments and Listings by Location. Find New York City Apartment Rentals. Contact Landlords Online.
+842,RethinkDB,S09,-1,"RethinkDB is designed to be extremely fast, and implements powerful features that are cumbersome and inefficient with rotational storage"
+843,Tuxebo,S09,-1,Tuxebo connects people looking for things to rent from local rental companies.
+844,Wakemate,S09,-1,"Personalized alarm clocks that sync with a user's body and their iPhone, enabling the alarm to sound after a REM cycle"
+845,WePay,S09,-1,"WePay is an online payments platform for individuals, organizations, and businesses."
+846,Adioso,W09,-1,Adioso is a better search and booking app for leisure travel.
+847,AirBnb,W09,-1,"A community marketplace for people to list, discover, and book unique spaces around the world Ð online or from a mobile phone"
+848,Cloudkick,W09,Exited,Cloudkick is a centralized web-based control hub for cloud servers.
+849,Divvyshot,W09,Exited,"Divvyshot allows groups of friends to share their photos easily, at their full resolutions."
+850,Echodio,W09,-1,"Echodio makes it easy to keep iTunes music libraries in sync, securely backed up and streamable from anywhere."
+851,Foodoro,W09,-1,Foodoro is a marketplace where people can buy specialty food directly from artisanal Foodmakers.
+852,Heyzap,W09,-1,Heyzap is a premier mobile ad network that helps millions of users discover apps they love.
+853,Nambii,W09,Dead,Nambii is an online dating service with iPhone applications that allow users to send and receive flirts with people around them.
+854,Picurio,W09,-1,Picurio is web-based photo sharing and photo management software.
+855,PocketFunGames,W09,-1,pocketfungames is a game developer for the iPhone that focuses on games with strong social components.
+856,Propable,W09,Dead,Propable was a suite of online management and investment analysis tools for property investors.
+857,Skysheet,W09,-1,"Skysheet is a web-based spreadsheet, in stealth mode as of March 2009."
+858,TheSixtyOne,W09,-1,"thesixtyone is Digg for new music, a social filter for the tsunami of indie creativity hitting the web."
+859,Voxli,W09,-1,Voxli offers browser-based group voice chat for gamers and teams.
+860,Wattvision,W09,-1,Wattvision offers a simple idea - Monitor your energy consumption in realtime from the web.
+861,reMail,W09,Exited,ReMail is an email app that downloads all your email to your iPhone and offers a comprehensive email search.
+862,Anyvite,S08,-1,Anyvite is a free site dedicated to event invitation creation and group organization.
+863,AwesomeHighlighter,S08,Dead,A company that provides a tool that enables you to go to a website and highlight information to save for later or share with your friends
+864,Backtype,S08,Exited,BackType is a marketing intelligence platform that helps brands and agencies understand the business impact of social media.
+865,CO2Stats,S08,-1,"Helps website owners understand the electricity usage and carbon emissions associated with site usage, then helps them manage their carbon footprint"
+866,ContestMachine,S08,-1,ContestMachine is a web service that makes running promotions from any website easy.
+867,Frogmetrics,S08,-1,Touchscreen platforms for effortless data collection.
+868,Ididwork,S08,-1,ididwork is an online tool that allows employees to keep track of the work they do over time.
+869,Meetcast,S08,-1,"Browser-based software that enables real time interaction, including sharing documents and images, screen sharing, etc."
+870,People and Pages,S08,Dead,"A service similar to Google Groups, allowing group organizers to manage email lists and publish to the web in one place"
+871,Picwing,S08,Exited,Picwing is a photo sharing platform that enables users to share their photos through a variety of sources.
+872,PollEverywhere,S08,-1,The best way to create stylish real-time experiences for events using mobile devices.
+873,PopCuts,S08,Dead,Popcuts is a unique online music store. Buy music. Make money.
+874,Posterous,S08,Exited,Posterous was focused on making blogging simple - as simple as sending an email.
+875,Precognate,S08,Dead,"
+Precognate, Inc is a startup company that was incorporated in DE. This company profile was created to provide more information about"
+876,Scoopler,S08,-1,The artist-formerly-known-as Scoopler is a real-time search engine.
+877,Slinkset,S08,Exited,Slinkset is a white label social news platform that allows anyone to start a social news site and integrate it into their own website.
+878,Snipd,S08,Dead,"Grab pieces of enjoyable content from any page, save them online, and share without having to copy/paste using a simple bookmarklet."
+879,Socialbrowse,S08,Dead,SocialBrowse is a Firefox extension for sharing links.
+880,Startuply,S08,-1,"Startup companies. Startup jobs. Jobs at the world's best angel- and venture-backed web, media, and technology companies."
+881,TicketStumbler,S08,Dead,TicketStumbler is a secondary ticket market search engine and comparison website.
+882,UrbanTakeover,S08,Dead,"Urban takeover is dedicated to serious beats, crowd moving and funky ass Drum and bass."
+883,Vidly / Fliggo,S08,Dead,"Vidly, formerly known as TwitVid (or Twitvid.io), wants to be the easiest way to share video on the web."
+884,Youlicit,S08,Dead,A web content recommendation engine that leverages the wisdom of the crowds to return the most recommended sites related to a website or topic
+885,280 North,W08,Exited,"Acquired by Motorola for $20 MM in 2010.Ê280 North was a web application company based on their application framework, Cappuccino"
+886,8aweek,W08,-1,A Firefox extension that monitors surfing behavior to let you know when you spend too much time on time wasting sites
+887,Addmired,W08,-1,A company that creates new and engaging applications and games for users of social networks and mobile devices
+888,Chatterous,W08,-1,"Group chat using the web, IM, email, or phone"
+889,Deluux,W08,Dead,Deluux aims to relocate the center of peoples' online identities to their personal websites instead of a single social network
+890,FathomDB,W08,-1,"Databases as a service, taking care of the many tasks database admins deal with, and letting them focus on more complex issues"
+891,Heroku,W08,Exited,"Acquired by Salesforce for $212 MM in 2010.ÊHeroku is a multi-language cloud application platform, or platform-as-a-service"
+892,Insoshi,W08,-1,Insoshi is an open-source open networking platform.
+893,Joberator,W08,-1,"A search, recruitment and talent acquisition platform connecting skilled professionals with in-demand employers"
+894,Kirkland North,W08,Dead,A game that pits sections of campuses against each other in a virtual battle for university-wide domination
+895,MightyQuiz,W08,-1,User-generated quiz questions that can be answered and rated on-site or through a distributable widget
+896,Mixwit,W08,Dead,Mixwit describes itself as a combination of Slide and iTunes
+897,Ninite,W08,-1,"The easiest, fastest way to update or install software"
+898,Omnisio,W08,Exited,Acquired by Google for $15 MM in 2008.ÊOmnisio lets users annotate videos and mash various clips up
+899,RescueTime,W08,-1,A web-based time management tool that keeps track of what you do and for how long when you are on your computer
+900,Snaptalent,W08,Dead,Snaptalent powers a distributed job advertisement network primarily meant for developer listings
+901,Tipjoy,W08,Dead,A social payments engine that allowed userse to easily collect 'tips' from their followings as Paypal transfers
+902,Webmynd,W08,-1,A browser plugin that tries to improve the way you search
+903,Wundrbar,W08,Dead,Wundrbar wants to improve upon the search bar experience by providing users with powerful inline commands
+904,YumDots,W08,-1,YumDots wants to be the go-to mobile application for finding places to eat when out on the town
+905,Adpinion,S07,Dead,Adpinion tried to get rid of the antagonism between advertisers and web surfers by letting you vote for the ads you want
+906,Anywhere.fm,S07,Exited,Acquired by imeem in 2008.ÊAnywhere.fm lets you upload your music collection and play your music anywhere from the web
+907,Appjet,S07,Exited,Acquired by Google in 2009.ÊAppJet ws an online programming tool for building simple web apps.
+908,Biographicon,S07,Dead,Biographicon was a wiki-based website containing biographies of famous and non-famous people.
+909,Bountii,S07,-1,A price search engine that lets you browse the best deals on electronics and appliances from top stores like Amazon
+910,Clickpass,S07,Exited,Acquired by Yola in 2008.ÊClickpass made OpenID easy to use
+911,Cloudant,S07,-1,The Cloudant Data Layer is the cloud database service managed by experts
+912,Disqus,S07,-1,"Beautiful, real-time, engaging discussions for your website"
+913,Draftmix,S07,-1,Fantasy sports fans can sign up and play pickup games against other players on the site for virtual dollars or for real money
+914,Dropbox,S07,-1,"A file hosting service that offers cloud storage, file synchronization, and personal cloud software"
+915,Fuzzwich,S07,Dead,A browser-based 2D animation studio
+916,Justin.tv,S07,-1,A website that allowed anyone to broadcast video online
+917,Reble,S07,Dead,Windows software that allows users to stream music from friends who also have installed Reble
+918,SlapVid,S07,Dead,A video site built on P2P technology that allows users to find and watch videos pulled from top video sites
+919,SocialPicks,S07,Exited,Acquired by FinancialContent in 2009.ÊAn online community where investors share investment ideas with each other
+920,Songkick,S07,-1,An online database of concerts for music enthusiasts
+921,Splashup,S07,Dead,An online image editing service that provided advanced tools with image editing layer effects
+922,Zecter,S07,Exited,Acquired by Motorola in 2010.ÊZecter created technology to make it easy to share files with others over the internet
+923,iJigg,S07,Dead,A social music site that lets users vote on submitted singles using Digg-like voting
+924,Auctomatic,W07,Exited,Acquired by Live Current Media in 2008.ÊAn auction and marketplace management system for individual sellers on sites like Ebay and Amazon
+925,Buxfer,W07,-1,"Buxfer is the next-generation personal finance solution, taking money management to the web"
+926,Heysan,W07,Exited,Acquired by Good Technology in May 2009.ÊHeysan was a free mobile messaging and community
+927,Octopart,W07,-1,A search engine for electronic parts
+928,Parakey,W07,Exited,Acquired by Facebook in July 2007.ÊParakey was a Web-based computer user interface
+929,SocialMoth,W07,Dead,Socialmoth is a community to post your thoughts anonymously
+930,Tsumobi,W07,-1,A J2ME compatible programming language to download mobile apps for Tsumobi-enabled sites
+931,View3,W07,Dead,"View 3, an active clad-alignment splicer with the world's highest fiber image magnification rate, is the most dependable fusion splicer."
+932,VirtualMin,W07,-1,A powerful and flexible web hosting control panel for Linux and BSD systems
+933,Weebly,W07,-1,Weebly is an AJAX website creator that allows you to create pages with template skins and content widgets
+934,Whitenoise Networks,W07,Dead,Whitenoise is like a social network for the music industry
+935,Writewith,W07,Dead,"A collaborative writing web app, enabling you to easily write, edit, and publish a document with a group"
+936,Zenter,W07,Exited,Acquired by Google in June 2007.ÊZenter provided software for creating online slide presentations
+937,JamGlue,S06,Dead,An online community where you can listen to or mix music from a library of user-contributed music
+938,JumpChat,S06,Dead,"A platform bridging mobile text messages, email, and IM communication without needing to download anything"
+939,LikeBetter,S06,Dead,"An online personality test game, where you look at two photos and choose which one you like better"
+940,OMGPOP,S06,Exited,"Acquired by Zynga for ~$180MM in 2012.ÊA developer/publisher of multiplayer, social and mobile games. Created Draw Something"
+941,PollGround,S06,Dead,"A social polling site. Easily create surveys and allow the ""wisdom of the crowd"" to answer your questions"
+942,Scribd,S06,-1,"Join the membership for readers, and get monthly access to books, audiobooks, and more"
+943,Shoutfit,S06,Dead,"Upload images to create an online closet, and build a network of fashionable friends"
+944,Talkito,S06,Dead,A service that enables its users to meet and chat when they visit the same websites.
+945,Thinkature,S06,Dead,An online collaboration environment that allows users to chat and draw diagrams on a shared whiteboard.
+946,Xobni,S06,Exited,Acquired by Yahoo for ~70MM in 2013.ÊXobni (the word inbox spelled backwards) makes your inbox and address book smarter
+947,AudioBeta,W06,-1,"
+AudioBeta developed web-based applications that helps bands communicate with fans and make informed decisions when planning tours."
+948,Clustrix,W06,-1,Clustrix has built a NewSQL database with no limits
+949,Flagr,W06,Dead,"Flagr enables users to share places, adding photos, video and descriptions from their mobile phone"
+950,InklingMarkets,W06,-1,Inkling provides a platform for companies to run their own internal or external prediction marketplaces
+951,Snipshot,W06,Exited,Acquired by Ark in 2013.ÊSnipshot is a photo editor that lets you start editing any photo with one click of a bookmarklet
+952,Wufoo,W06,Exited,Acquired by SurveyMonkey for $35MM in 2011.ÊWufoo's HTML form builder helps you create online web forms
+953,YouOS,W06,Dead,"YouOS provides a platform for developers to create and distribute applications that live in a browser-based ""desktop"" environment"
+954,ClickFacts,S05,-1,ClickFacts is a Malware Software Solutions company for buyers and sellers of online media.
+955,Infogami,S05,Exited,Merged with Reddit.ÊInfogami is a wiki application framework built on web.py
+956,Kiko,S05,Exited,Sold for $258k on eBay.ÊKiko was a web calendar for anyone who wants to keep and share a calendar online.
+957,Loopt,S05,Exited,Acquired by Green Dot for $43.4MM.ÊLoopt is a social service that connects people to their community
+958,Memamp,S05,Dead,A better desktop search solution
+959,Reddit,S05,Exited,Acquired by Conde Nast in 2006.ÊA social news website that displays news based on your preferences and what the community likes
+960,Simmery,S05,Dead,Simmery was added in 2013.
+961,TextPayMe,S05,Exited,Acquired by Amazon for ~$3MM.ÊAn SMS payment service that lets you send money to other people using cell phone text messaging
