@@ -1,0 +1,1146 @@
+,LB ID,Primary name,URL,Region,Country,Parent sector,Initial invest date,PrimarySector_API,Platform zaps,Fund(s)
+0,A11869,1Huddle,https://1huddle.co/,US - Non CA,US,HR / Education,2015-11-06,Professional training,SaaS,Fund III
+1,A11789,3D Look,https://3dlook.me/,US - Non CA,US,Retail / eCommerce,2018-06-19,Fashion,SaaS,Istanbul
+2,A11353,3TEN8,http://www.3ten8.ai/,US - CA,US,IT / Security,2017-07-21,IT tools,SaaS,Falcons
+3,A10035,9Slides,http://9slides.com,US - Non CA,US,Media / Collaboration,2012-08-02,Media production,SaaS,Fund II
+4,A10005,15Five,http://15five.com,US - Non CA,US,HR / Education,2012-12-20,Personnel / Benefits,SaaS,Fund II
+5,A10017,42,http://42technologies.com,"Canada, US - CA",US,Marketing / Customer Success,2014-08-13,Market intel,SaaS,Fund III
+6,A10016,42 Floors,http://42floors.com,US - Non CA,US,Real Estate / Transportation,2012-04-15,Realty / Rentals,Marketplace,Fund II
+7,A10018,43Layers,http://43layers.com,US - CA,US,Retail / eCommerce,2015-08-13,Consumer eCom,On-demand / Delivery,Fund III
+8,A10614,64 Pixels,http://64px.com,US - CA,US,Media / Collaboration,2010-10-06,Social media,SaaS,Fund I
+9,A11126,82 Labs,https://www.82labs.com/,US - CA,US,Health / Biotech,2017-06-12,OTC Medications,Direct sale,Kimchi I
+10,A10983,AA Audience,http://aaaudi.com,US - CA,US,Fintech,2017-05-16,Financial infrastructure,Mobile,Fund IV
+11,A12086,Abbeypost,http://abbeypost.com,US - CA,US,Retail / eCommerce,2014-04-16,Fashion,On-demand / Delivery,Fund III
+12,A10392,Abound,https://withabound.com/,US - CA,US,Fintech,2016-08-30,Financial infrastructure,SaaS,"Fund IV,Fintech"
+13,A10878,Accepton,http://www.accepton.com/,US - Non CA,US,Fintech,2013-11-14,Payments,SaaS,Fund III
+15,A10039,ActivityHero,http://activityhero.com,US - CA,US,HR / Education,2012-05-01,K-12,O2O,Fund II
+16,A10055,Acustom Apparel,https://www.beau.com/,US - Non CA,US,Retail / eCommerce,2011-04-27,Fashion,On-demand / Delivery,Fund I
+17,A12536,Adapty,https://adapty.io/,"Europe,US - Non CA",US,IT / Security,2020-10-17,Marketing & Sales,Mobile,Fund V
+18,A12087,Ader,http://getader.com,US - Non CA,US,Marketing / Customer Success,2016-03-26,Adtech / Martech,Direct service,Fund IV
+19,A10041,AdEspresso,http://adespresso.com,US - CA,US,Marketing / Customer Success,2013-10-31,Adtech / Martech,SaaS,Fund III
+20,A10123,Adraid,http://adraid.com/,US - CA,US,Marketing / Customer Success,2011-10-07,Adtech / Martech,SaaS,Fund I
+21,A10046,AdStage.io,http://adstage.io,US - CA,US,Marketing / Customer Success,2012-06-19,Adtech / Martech,SaaS,Fund II
+22,A10050,Agfunder,http://agfunder.com,US - Non CA,US,Fintech,2015-03-08,Lending / Investments,SaaS,Fund III
+23,A10052,Airpair,http://airpair.com,US - CA,US,HR / Education,2014-01-21,Professional services,On-demand / Delivery,Fund III
+24,A10962,AirSeed,http://airseed.com,US - CA,US,Fintech,2012-12-11,Financial research,SaaS,Fund II
+25,A12088,Albert,http://meetalbert.com,US - CA,US,Fintech,2016-06-14,Consumer Finance,Mobile,"Fund IV,Fintech"
+26,A10059,Alex & Von,http://alexandvon.com,US - CA,US,Retail / eCommerce,2012-05-02,Beauty,On-demand / Delivery,Fund II
+27,A10061,Alfred x Camera,https://alfred.camera/,US - CA,US,IT / Security,2015-03-03,Security & Storage,Mobile,Fund III
+28,A10062,Algolia,http://algolia.com,US - CA,US,IT / Security,2013-12-02,Developer Tools,SaaS,Fund III
+30,A10063,All Trails,http://alltrails.com,US - CA,US,Real Estate / Transportation,2011-04-08,Travel / Hospitality,Cloud / Content,"Annex, Fund I"
+31,A10064,Allay,http://allay.io,US - CA,US,HR / Education,2015-03-30,Personnel / Benefits,SaaS,Fund III
+32,A11443,AllDay,http://allday.com,US - CA,US,Marketing / Customer Success,2014-02-27,Adtech / Martech,Direct service,Fund III
+33,A10179,Allevi,http://www.allevi3d.com/,US - Non CA,US,Health / Biotech,2015-07-30,Biotech,Direct sale,Fund III
+34,A12388,Alloy,https://www.alloycard.com/,US - CA,US,Fintech,2019-12-19,Payments,FinTech,Fund V
+35,A10750,AllVirtuous,http://allvirtuous.com,US - CA,US,IT / Security,2017-02-17,Security,SaaS,Fund IV
+36,A10069,AlphaBoost,http://alphaboost.com,US - Non CA,US,Marketing / Customer Success,2012-05-09,Market intel,SaaS,Fund II
+37,A11846,AlphaFlow,http://alphaflow.com,US - CA,US,Fintech,2015-10-19,Asset Management,SaaS,Fund III
+38,A11991,Alpharank.io,http://alpharank.io,US - CA,US,Marketing / Customer Success,2015-12-17,Market intel,SaaS,Durians I
+39,A10723,Alta5,http://alta5.com,US - Non CA,US,Fintech,2017-01-20,Lending / Investments,SaaS,"Fund IV, Fintech"
+40,A10073,Alumnify,http://alumnify.co,US - CA,US,HR / Education,2015-07-28,College / Continuing education,SaaS,Fund III
+42,A10076,American Aerospace Advisors,http://americanaerospace.com,US - Non CA,US,Smart Cities / Industrial,2015-05-12,Energy,Direct sale,Fund III
+43,A10077,Amicus,http://amicushq.com,US - Non CA,US,Smart Cities / Industrial,2012-09-22,Civictech,SaaS,Fund II
+45,A12269,AMPAworks,https://www.ampaworks.com/,US - CA,US,Health / Biotech,2019-07-17,Healthcare ERP,SaaS,Fund V
+46,A12089,Ample,http://amplemeal.com,US - CA,US,Retail / eCommerce,2016-03-25,Food,Direct sale,Fund IV
+47,A11359,Analytical Space,http://www.analyticalspace.com/,US - Non CA,US,IT / Security,2017-08-25,Developer Tools,SaaS,Falcons
+48,A10402,Andromium,http://getsuperbook.com,US - CA,US,Fund,2016-08-31,Venture Studio,Direct sale,"Fund IV, Vietnam"
+49,A10074,Anduin Transactions,https://anduintransact.com/,US - CA,US,Fintech,2018-04-04,Financial infrastructure,SaaS,"Fintech, Vietnam"
+50,A10079,Andy OS,http://andyroid.net,US - CA,US,IT / Security,2014-10-29,IT tools,SaaS,"Fund III, Mobile"
+51,A10080,AngelList,https://angel.co,US - CA,US,Fintech,2013-01-14,Lending / Investments,Marketplace,Fund II
+52,A10089,Anyroad,https://www.anyroad.com/,US - CA,US,Real Estate / Transportation,2015-08-19,Travel / Hospitality,SaaS,"Fund III, Mobile"
+53,A10090,API Fortress,http://apifortress.com,US - Non CA,US,IT / Security,2015-06-18,Developer tools,SaaS,Fund III
+54,A12127,Apostrophe,http://yoderm.com,US - CA,US,Retail / eCommerce,2016-04-01,Home & Personal,Direct sale,Fund IV
+56,A11133,App Onboard,http://apponboard.com/,US - CA,US,Marketing / Customer Success,2017-04-14,Adtech / Martech,Mobile,"Mobile, Vietnam"
+57,A12419,AppBind,https://www.appbind.com/,US - CA,US,Fintech,2020-02-13,Finance & Accounting,SaaS,Fund V
+59,A10029,Applauze,http://www.applauze.com/,US - CA,US,Retail / eCommerce,2010-11-04,Events,Mobile,Fund I
+60,A10100,AppRats,http://apprats.com,US - CA,US,Media / Collaboration,2010-11-02,Social media,SaaS,Fund I
+61,A10904,Appsamurai,https://appsamurai.com/,US - CA,US,Marketing / Customer Success,2017-07-28,Adtech / Martech,Mobile,Istanbul
+62,A11915,Apptopia,http://apptopia.com,US - Non CA,US,Marketing / Customer Success,2015-10-15,Data & Analytics,SaaS,"Fund III,Mobile"
+63,A10110,AppZen,http://appzen.com,US - CA,US,Fintech,2014-11-18,Accounting / Audit,SaaS,Fund III
+64,A10111,Apsalar,http://apsalar.com,US - CA,US,Marketing / Customer Success,2010-06-07,Market intel,Mobile,Fund I
+65,A10115,Arcturus BioCloud,http://arcturus.io,US - CA,US,Health / Biotech,2015-06-15,Biotech,SaaS,Fund III
+66,A12090,Arka,http://arka.io,US - CA,US,Real Estate / Transportation,2016-02-25,Logistics,On-demand / Delivery,Fund IV
+67,A12091,ArrowPass,http://arrowpass.com,US - CA,US,Fintech,2016-03-26,Payments,Mobile,Fund IV
+68,A10645,ArtCorgi,http://artcorgi.com,US - CA,US,Retail / eCommerce,2014-04-16,Consumer eCom,Marketplace,Fund III
+69,A11178,Arteria,http://www.arterianet.com/,US - Non CA,US,Retail / eCommerce,2014-01-02,Consumer eCom,On-demand / Delivery,Fund III
+70,A10117,Artiphon,http://artiphon.com,US - Non CA,US,Retail / eCommerce,2013-12-11,Consumer eCom,Direct sale,Fund III
+71,A10120,Artivest,http://artivest.co,US - Non CA,US,Fintech,2011-08-15,Lending / Investments,SaaS,Fund I
+72,A10121,Artsicle,http://artsicle.com,US - Non CA,US,Retail / eCommerce,2011-09-14,Consumer eCom,Cloud / Content,Fund I
+73,A12069,Assemble,https://www.assemble.tv,US - CA,US,HR / Education,2018-12-10,Recruiting,Marketplace,Fund V
+74,A11890,Astronomer,http://astronomer.io,US - Non CA,US,IT / Security,2015-11-17,Developer Tools,SaaS,Fund III
+75,A10013,Astroprint,http://astroprint.com,US - CA,US,IT / Security,2014-11-07,Developer tools,SaaS,Fund III
+77,A11002,Atrium,http://atriumlts.com,US - CA,US,HR / Education,2017-06-01,Legal,On-demand / Delivery,Fund IV
+78,A10126,Attendant,http://attendant.co,US - Non CA,US,Retail / eCommerce,2015-03-16,Consumer services,Direct service,Fund III
+79,A10484,Attitude.ai,http://attitude.ai/,US - CA,US,Marketing / Customer Success,2016-09-15,Market intel,SaaS,Fund IV
+80,A11761,Auctio,http://auctioleads.com,US - Non CA,US,Marketing / Customer Success,2016-08-05,Marketing & Sales,SaaS,Fund IV
+81,A10630,AuditFile,http://auditfile.com,US - CA,US,Fintech,2014-01-15,Accounting / Audit,SaaS,Fund III
+82,A10432,Aumet,http://aumet.me,US - CA,US,Health / Biotech,2016-11-04,Healthcare ERP,SaaS,Fund IV
+83,A11907,AutoFi,http://autofi.com,US - CA,US,Fintech,2015-10-19,Lending / Investments,SaaS,Fund III
+84,A10130,Avanoo,http://avanoo.com,US - CA,US,HR / Education,2015-02-09,Job & Career Service,SaaS,Fund III
+86,A10131,Avegant,http://avegant.com,US - CA,US,Marketing / Customer Success,2014-05-02,Adtech / Martech,Direct sale,Fund III
+87,A10898,Averon,http://www.averon.com/,US - CA,US,IT / Security,2017-03-14,Security,SaaS,Istanbul
+88,A10994,Avision,http://avisionrobotics.com,US - CA,US,Real Estate / Transportation,2017-05-23,Aerospace / Drones,SaaS,Fund IV
+90,A10132,Awayfind,http://awayfind.com,US - CA,US,IT / Security,2010-08-02,IT tools,SaaS,Fund I
+92,A10134,Babelverse,http://babelverse.com,US - CA,US,Media / Collaboration,2012-06-25,Language and Translation services,On-demand / Delivery,Fund II
+93,A10137,BabyJunk,http://babyjunk.com,US - CA,US,Retail / eCommerce,2012-11-07,Children / Toys,Marketplace,Fund II
+94,A10136,BabyList,https://www.babylist.com/,US - CA,US,Retail / eCommerce,2012-10-18,Children / Toys,Cloud / Content,Fund II
+95,A12070,Back Office,http://www.backoffice.co/,US - Non CA,US,Fintech,2018-12-03,Finance & Accounting,SaaS,"Fintech,Fund V"
+96,A10139,Backlotcars,http://backlotcars.com,US - Non CA,US,Real Estate / Transportation,2015-02-19,Transportation Services,Marketplace,Fund III
+97,A10140,Backtype,http://backtype.com,US - CA,US,Marketing / Customer Success,2010-10-06,Market intel,SaaS,Fund I
+98,A10147,Baker Technologies,http://trybaker.com,US - Non CA,US,Health / Biotech,2015-08-17,OTC Medications,O2O,Fund III
+99,A10430,Balloon,http://balloonr.com,US - Non CA,US,Media / Collaboration,2016-10-31,Collaboration,SaaS,Fund IV
+100,A10323,Bankons,http://bankons.com,US - CA,US,Fintech,2011-10-07,Financial infrastructure,SaaS,Fund I
+101,A10153,BarkBox,http://barkbox.com,US - Non CA,US,Retail / eCommerce,2012-03-30,Animals,On-demand / Delivery,Fund II
+102,A11852,Barn & Willow,http://barnandwillow.com,US - CA,US,Real Estate / Transportation,2015-11-20,Property management,On-demand / Delivery,Fund III
+104,A10492,Beam,http://www.meetbeam.com/,US - CA,US,Fintech,2013-05-10,Credit & Lending,SaaS,Fund II
+105,A11600,Beeem,http://tinypost.co,US - CA,US,Media / Collaboration,2011-10-27,Social media,Mobile,Fund I
+106,A10159,Beeline Bikes,http://beelinebikes.com,US - CA,US,Real Estate / Transportation,2014-02-04,Vehicle dealer,Direct service,Fund III
+107,A10161,Behance,http://behance.net,US - Non CA,US,Media / Collaboration,2012-04-27,Social media,SaaS,Fund II
+108,A11346,Bellgram,https://bellgram.com/,US - CA,US,Marketing / Customer Success,2017-08-16,CRM / Customer success,SaaS,Falcons
+109,A10724,BenRevo,http://benrevo.com,US - CA,US,Fintech,2017-02-28,Insurance,Marketplace,"Fund IV, Fintech"
+110,A12056,Bento,http://bentonow.com,US - CA,US,Retail / eCommerce,2015-07-06,Food,On-demand / Delivery,Mobile
+111,A11061,Bespoke Post,http://bespokepost.com,US - Non CA,US,Retail / eCommerce,2012-05-29,Fashion,On-demand / Delivery,Fund II
+112,A10166,BetterDoctor,http://betterdoctor.com,US - CA,US,Health / Biotech,2013-03-05,Patient services,O2O,Fund II
+113,A10168,BetterView Marketplace,http://better.vu,US - CA,US,Real Estate / Transportation,2015-08-13,Aerospace / Drones,Mobile,Fund III
+114,A10169,Betterworks,http://betterworks.com,US - CA,US,IT / Security,2011-09-15,ERP,SaaS,Fund I
+115,A10171,BiaSport,http://bia-sport.com,US - Non CA,US,Health / Biotech,2013-04-12,Fitness,Direct sale,Fund II
+116,A10396,BIGcontrols,http://bigcontrols.com,US - CA,US,Fintech,2016-08-30,Accounting / Audit,SaaS,"Fund IV, Fintech"
+117,A12094,Bigfinite,http://bigfinite.com,US - CA,US,Health / Biotech,2016-05-16,Biotech,SaaS,Fund IV
+118,A11608,BillionToOne,https://www.billiontoone.com/,US - CA,US,Health / Biotech,2017-09-07,Medical Device & Monitoring,SaaS,Istanbul
+119,A11098,Billowby,http://billowby.com,US - Non CA,US,Retail / eCommerce,2015-05-04,Consumer eCom,On-demand / Delivery,Fund III
+120,A11176,BillTrim,http://billtrim.com,US - CA,US,Fintech,2017-07-06,Finance & Accounting,SaaS,Fund IV
+121,A10177,Binpress,http://binpress.com,US - CA,US,IT / Security,2013-04-19,Developer tools,Marketplace,Fund II
+122,A10823,Biomarker.io,http://biomarker.io,US - CA,US,Health / Biotech,2017-02-11,Medical advice,Mobile,Fund IV
+123,A10181,Bionic Panda Games,http://bionicpandagames.com,US - CA,US,Media / Collaboration,2011-06-27,Gaming / eSports,Mobile,Fund I
+124,A10183,Bizeebee,http://bizeebee.com,US - CA,US,Marketing / Customer Success,2011-04-12,CRM / Customer success,SaaS,Fund I
+125,A10354,BlackTies,http://blackties.us/,US - CA,US,HR / Education,2016-05-16,Recruiting,SaaS,Fund IV
+126,A10232,Blavity,http://blavity.com,US - CA,US,Media / Collaboration,2016-07-15,Journalism / Blogs,Cloud / Content,Fund IV
+128,A10604,Blissmo,http://blissmo.com,US - CA,US,Retail / eCommerce,2011-10-31,Food,On-demand / Delivery,Fund I
+129,A10193,BlockCypher,http://blockcypher.com,US - CA,US,IT / Security,2014-12-02,Developer tools,SaaS,Fund III
+131,A10194,Bloodhound,http://bloodhound.com,US - CA,US,Marketing / Customer Success,2011-03-01,CRM / Customer success,Mobile,Fund I
+132,A10731,BloomCredit,http://bloomcred.it,US - Non CA,US,Fintech,2017-02-28,Banking & Exchange,SaaS,"Fund IV,Fintech"
+133,A12237,Blue Studios.io,https://www.bluestudios.io/,US - Non CA,US,HR / Education,2019-06-06,K-12,On-demand / Delivery,Fund V
+134,A12264,Blue Wire,https://bluewirepods.com/,US - CA,US,Media / Collaboration,2019-07-29,Media Content,On-demand / Delivery,Fund V
+135,A10197,Blueboard,http://blueboard.com,US - CA,US,HR / Education,2015-02-20,Personnel / Benefits,SaaS,Fund III
+136,A10201,BlueLeaf,http://blueleaf.com,US - Non CA,US,Marketing / Customer Success,2012-08-01,CRM / Customer success,SaaS,Fund II
+137,A10234,Blurbiz,http://blurbiz.com,US - Non CA,US,Media / Collaboration,2016-06-15,Media Content,SaaS,Fund IV
+138,A10203,Boatbound,https://www.boatsetter.com/,"US - Non CA, US - Non CA, US - CA",US,Real Estate / Transportation,2011-10-13,Ridesharing / Vehicle rental,Marketplace,Fund I
+139,A10207,Bohemian Guitars,http://bohemianguitars.com,US - Non CA,US,Retail / eCommerce,2014-06-23,Consumer eCom,Direct sale,Fund III
+140,A10212,Bombfell,http://bombfell.com,US - Non CA,US,Retail / eCommerce,2012-05-01,Fashion,On-demand / Delivery,Fund II
+143,A11328,Book. Stay. Go.,http://ve-go.com,US - CA,US,Real Estate / Transportation,2015-07-29,Property management,Mobile,"Fund III, Mobile"
+144,A10214,Bookmarq,http://bookmarq.io,US - CA,US,Media / Collaboration,2015-07-20,Entertainment,SaaS,Fund III
+145,A10156,Boomerang,http://www.boomerangapp.com/,US - CA,US,IT / Security,2010-09-30,IT tools,SaaS,Fund I
+146,A10215,BoomTrain,http://boomtrain.com,US - CA,US,Marketing / Customer Success,2013-02-21,Adtech / Martech,SaaS,Fund II
+147,A10752,Boon,http://goboon.co,US - CA,US,HR / Education,2017-02-23,Recruiting,SaaS,Fund IV
+148,A11381,Boon + Gable,http://boonandgable.com,US - CA,US,Retail / eCommerce,2014-04-16,Fashion,On-demand / Delivery,Fund III
+149,A10217,Boost Media,http://boostmedia.com,US - CA,US,Marketing / Customer Success,2011-02-15,Data & Analytics,SaaS,Fund I
+150,A10218,Boostable,http://boostable.com,US - CA,US,Marketing / Customer Success,2014-01-03,Adtech / Martech,SaaS,Fund III
+151,A10626,Botanalytics,http://botanalytics.co,US - CA,US,IT / Security,2016-04-14,Developer tools,SaaS,Istanbul
+152,A11294,BotSociety,http://botsociety.io,US - CA,US,IT / Security,2017-09-08,Developer tools,SaaS,Fund IV
+153,A12095,BottlesTonight,https://www.getbottlestonight.com/,US - CA,US,Retail / eCommerce,2016-02-25,Entertainment,O2O,Fund IV
+154,A10727,Bottr,https://bottr.me/,US - CA,US,Retail / eCommerce,2015-09-25,Consumer services,On-demand / Delivery,Fund III
+155,A10223,Boxbee,http://boxbee.com,US - Non CA,US,IT / Security,2013-04-29,IT tools,Cloud / Content,Fund II
+156,A10228,BrandBoards,http://brandboards.com,US - CA,US,Marketing / Customer Success,2011-11-14,Adtech / Martech,SaaS,Fund I
+158,A12129,BrewPublik,http://brewpublik.com,US - Non CA,US,Retail / eCommerce,2016-03-31,Home & Personal,On-demand / Delivery,Fund IV
+159,A10900,BridgeUS,http://www.bridge.us/,US - CA,US,Real Estate / Transportation,2014-03-19,Travel / Hospitality,SaaS,Fund III
+160,A11431,BrightNest,http://brightnest.com,US - Non CA,US,Real Estate / Transportation,2011-10-01,Property management,Cloud / Content,Fund I
+161,A10237,Brilliant,http://brilliant.org,US - Non CA,US,HR / Education,2011-07-05,K-12,Cloud / Content,Fund I
+162,A10239,Brushback,http://brushbackapp.com,US - Non CA,US,Media / Collaboration,2015-08-07,Sports,Mobile,Fund III
+163,A11131,BTCJam,http://btcjam.com,US - CA,US,Fintech,2014-01-24,Cryptocurrency,Token,Fund III
+164,A10518,Bucket,http://likebucket.com,US - CA,US,Real Estate / Transportation,2014-08-13,Travel / Hospitality,Cloud / Content,Fund III
+165,A10247,Built in Menlo,http://www.builtinmenlo.com/,US - CA,US,Media / Collaboration,2014-05-06,Social media,SaaS,Fund III
+166,A10252,Bunndle,http://bunndle.com,US - CA,US,Marketing / Customer Success,2010-08-06,Adtech / Martech,SaaS,Fund I
+167,A10040,Burner,http://burnerapp.com,US - CA,US,IT / Security,2012-08-17,IT tools,Mobile,Fund II
+168,A10235,BurstIQ,http://burstiq.com,US - Non CA,US,Health / Biotech,2016-06-16,Healthcare ERP,SaaS,Fund IV
+169,A10158,Bustle,http://bustle.com,US - Non CA,US,Media / Collaboration,2013-03-12,Entertainment,Cloud / Content,Fund II
+170,A12372,Butlr Technologies,https://www.livebutlr.com/,US - CA,US,Real Estate / Transportation,2019-12-09,Housing & Real Estate,SaaS,Fund V
+171,A12272,Bytez,bytez.io,US - CA,US,IT / Security,2019-07-15,Developer tools,SaaS,Fund V
+172,A10940,Cadence,http://cadencetranslate.com,US - Non CA,US,Media / Collaboration,2017-03-31,Language and Translation services,SaaS,Fund IV
+173,A10259,CakeHealth,http://cakehealth.com,US - CA,US,Health / Biotech,2011-10-15,Healthcare ERP,SaaS,Fund I
+174,A10260,Cambrian Genomics,http://cambriangenomics.com,US - CA,US,Health / Biotech,2014-04-04,Biotech,On-demand / Delivery,Fund III
+175,A10048,CandyClub,http://www.candyclub.com/,US - CA,US,Retail / eCommerce,2016-04-01,Food,On-demand / Delivery,Fund IV
+176,A10263,Caplinked,http://caplinked.com,US - CA,US,IT / Security,2011-01-25,IT tools,SaaS,Fund I
+177,A10065,Carbon Health,http://www.carbonhealth.com/,US - CA,US,Health / Biotech,2016-07-12,Healthcare IT & Operations,SaaS,"Fund IV,Istanbul"
+178,A11066,CardFlick,http://cardflick.co,US - CA,US,Marketing / Customer Success,2012-05-02,CRM / Customer success,Mobile,Fund II
+179,A10271,Cardmunch,http://cardmunch.com,US - CA,US,Marketing / Customer Success,2010-12-07,CRM / Customer success,Mobile,Fund I
+180,A10273,Caredox,http://caredox.com,US - Non CA,US,Health / Biotech,2013-06-05,Healthcare ERP,Cloud / Content,Fund II
+181,A10279,Carelulu,http://carelulu.com,US - CA,US,HR / Education,2014-07-24,Early childhood,O2O,Fund III
+182,A10280,Careport Health,http://careporthealth.com,US - Non CA,US,Health / Biotech,2014-05-12,Patient services,O2O,Fund III
+183,A10284,Cashie Commerce,http://cashiecommerce.com,US - CA,US,IT / Security,2012-05-14,IT tools,SaaS,Fund II
+184,A10290,Causera,http://www.simplycircle.com/causera/,US - CA,US,Media / Collaboration,2012-12-17,Social media,SaaS,Fund II
+185,A10294,Celebrate,http://getcelebrate.com,US - CA,US,Media / Collaboration,2014-12-08,Media production,SaaS,Fund III
+186,A11741,Cellbreaker,http://cellbreaker.com,US - Non CA,US,IT / Security,2015-05-14,IT tools,Direct service,Fund III
+187,A10297,Chain,http://chain.com,US - CA,US,IT / Security,2014-08-07,Developer tools,SaaS,Fund III
+188,A10299,Chalkable,http://www.huntersystems.com/,US - Non CA,US,HR / Education,2012-05-01,Tools & Services,SaaS,Fund II
+189,A10300,ChangeCoin,http://changetip.com,US - CA,US,Fintech,2014-04-29,Payments,Token,Fund III
+190,A10302,ChannelMeter,http://channelmeter.com,US - CA,US,Marketing / Customer Success,2014-04-30,Market intel,SaaS,Fund III
+191,A10006,Chatfuel,https://chatfuel.com/,US - CA,US,Media / Collaboration,2014-11-07,Social media,SaaS,Fund III
+192,A11892,Cheddar Up,http://cheddarup.com,US - Non CA,US,Fintech,2015-11-16,Payments,SaaS,Fund III
+193,A10427,Cheerful,https://www.cheerfulgiving.com,US - Non CA,US,Fintech,2016-11-08,Grants & Donations,SaaS,Fund IV
+194,A10236,Chefs for Seniors,http://chefsforseniors.com,US - Non CA,US,Retail / eCommerce,2016-05-16,Food,On-demand / Delivery,Fund IV
+196,A10304,Chewse,http://chewse.com,US - CA,US,Retail / eCommerce,2012-10-16,Food,On-demand / Delivery,Fund II
+197,A10305,Chill,http://chill.com,US - CA,US,Media / Collaboration,2011-10-11,Social media,SaaS,Fund I
+198,A11786,Chipper,http://www.chippercash.com/,"ME & Africa,US - CA",US,Fintech,2018-12-14,Payments,SaaS,"Fintech,Fund V"
+199,A10312,Chirply,http://chirply.com,US - CA,US,Media / Collaboration,2010-08-18,Media production,Marketplace,Fund I
+200,A10313,ChirpMe,http://chirpme.com,US - CA,US,Media / Collaboration,2011-06-21,Social media,SaaS,Fund I
+201,A10314,Chorus,http://getchorus.com,US - CA,US,Marketing / Customer Success,2011-10-14,CRM / Customer success,SaaS,Fund I
+202,A10315,Chouxbox,http://chouxbox.com,US - Non CA,US,Fintech,2014-12-11,Accounting / Audit,SaaS,Fund III
+203,A10317,Chromatik,http://chromatik.com,US - CA,US,Retail / eCommerce,2011-06-29,Consumer eCom,Direct sale,"Annex, Fund I"
+204,A10326,CircleCI,http://circleci.com,US - CA,US,IT / Security,2012-12-10,Developer Tools,SaaS,Fund II
+205,A11909,Cirrus Identity,http://cirrusidentity.com,US - CA,US,HR / Education,2015-10-14,Education ERP,SaaS,Fund III
+206,A10686,Citizen Logistics,http://www.citizenlogistics.com/,US - Non CA,US,Smart Cities / Industrial,2010-10-13,Civictech,Mobile,Fund I
+207,A10328,Cityblis,http://cityblis.com,US - CA,US,Marketing / Customer Success,2013-11-04,Adtech / Martech,SaaS,Fund III
+208,A10238,Cladwell,http://cladwell.com,US - Non CA,US,Retail / eCommerce,2016-06-22,Fashion,SaaS,Fund IV
+209,A12450,Clara Insurance,https://www.joinclara.com/,US - Non CA,US,Fintech,2020-03-27,Insurance,InsurTech,Fintech
+210,A10333,Cleanly,https://cleanly.com/,US - Non CA,US,Retail / eCommerce,2015-04-07,Home & Personal,On-demand / Delivery,Fund III
+211,A11313,Clearcover,http://www.clearcover.com/,US - Non CA,US,Fintech,2017-06-23,Insurance,SaaS,Fintech
+212,A10339,Clothes Horse,http://www.clotheshor.se/,US - Non CA,US,Retail / eCommerce,2013-02-08,Fashion,On-demand / Delivery,Fund II
+213,A10341,Cloud Academy,http://cloudacademy.com,US - CA,US,HR / Education,2014-11-18,Professional training,Cloud / Content,Fund III
+214,A10343,Cloudability,http://cloudability.com,US - Non CA,US,IT / Security,2012-07-25,IT tools,SaaS,Fund II
+215,A10342,Cloudpeeps,http://cloudpeeps.com,US - CA,US,HR / Education,2014-08-12,Professional services,Marketplace,Fund III
+216,A10345,Clowder,http://clowder.nyc,US - Non CA,US,Retail / eCommerce,2015-05-13,Food,On-demand / Delivery,Fund III
+217,A10347,Clutch Learning,http://clutchprep.com,US - Non CA,US,HR / Education,2015-09-18,College / Continuing education,Mobile,Fund III
+218,A10348,Coach Market,http://coachmarket.com,US - Non CA,US,HR / Education,2015-06-23,Professional training,Marketplace,Fund III
+219,A10408,Cobalt,http://cobalt.io,US - CA,US,IT / Security,2014-07-03,Security & Storage,Marketplace,Fund III
+220,A10353,CoderBuddy,http://coderbuddy.com,US - CA,US,IT / Security,2010-08-16,Developer tools,SaaS,Fund I
+221,A10240,Coeio,http://coeio.com,US - Non CA,US,Retail / eCommerce,2016-07-29,Consumer eCom,Direct sale,Fund IV
+222,A12130,Cognuse,http://cognuse.com,US - CA,US,Health / Biotech,2016-03-29,Healthcare ERP,SaaS,Fund IV
+223,A10357,Coinding,http://coinding.com,US - CA,US,Fintech,2014-12-22,Cryptocurrency,Token,Fund III
+224,A10359,Colingo,http://colingo.com,US - CA,US,HR / Education,2011-11-14,College / Continuing education,On-demand / Delivery,"Annex, Fund I"
+225,A11232,CollegeBacker,https://collegebacker.com/,US - CA,US,Fintech,2015-08-21,Asset Management,SaaS,Fund III
+226,A10128,ColourLovers,http://colourlovers.com,US - Non CA,US,Media / Collaboration,2011-02-25,Social media,Cloud / Content,Fund I
+227,A10364,CommitChange,http://commitchange.com,US - CA,US,Fintech,2014-03-06,Grants / Donations,SaaS,Fund III
+228,A11215,Common,https://www.common.com/,US - Non CA,US,Real Estate / Transportation,2015-07-09,Realty / Rentals,Direct service,Fund III
+229,A11271,Community.Co,https://digits.chat/,US - Non CA,US,Media / Collaboration,2017-07-25,Social media,SaaS,Fund IV
+230,A10700,CompanyLine,http://hall.com,US - CA,US,IT / Security,2012-05-03,IT tools,SaaS,Fund II
+231,A10108,Comparably,http://comparably.com,US - CA,US,HR / Education,2016-04-01,Personnel / Benefits,SaaS,Fund IV
+232,A10365,Compstak,http://compstak.com,US - Non CA,US,Real Estate / Transportation,2012-12-31,Realty / Rentals,SaaS,Fund II
+233,A10370,Connected,http://connectedhq.com,US - CA,US,Marketing / Customer Success,2011-04-22,CRM / Customer success,SaaS,Fund I
+234,A10374,Console FM,http://console.fm,US - CA,US,Media / Collaboration,2011-06-02,Entertainment,Cloud / Content,Fund I
+235,A10378,Contactually,http://contactually.com,US - Non CA,US,Marketing / Customer Success,2011-10-01,CRM / Customer success,SaaS,"Annex, Fund I"
+236,A10380,Contently,https://Contently.com/,US - Non CA,US,Media / Collaboration,2011-12-27,Journalism / Blogs,Marketplace,Fund I
+237,A10112,Convoz,https://convoz.com/,US - CA,US,Media / Collaboration,2016-02-12,Social media,Cloud / Content,"Fund IV, Mobile"
+238,A11855,Cooleaf,http://cooleaf.com,US - Non CA,US,HR / Education,2015-11-18,Personnel / Benefits,SaaS,Fund III
+239,A11770,Copper Cow Coffee,https://www.coppercowcoffee.com/,US - CA,US,Retail / eCommerce,2018-03-20,Home & Personal,Direct sale,Vietnam
+240,A11409,Core Labs,https://www.corelabs.xyz/,US - Non CA,US,HR / Education,2017-09-29,Professional training,SaaS,Fund IV
+241,A10242,COSY,http://cosyrobo.com,US - Non CA,US,Real Estate / Transportation,2016-07-30,Logistics,Mobile,Fund IV
+242,A10385,CourseReport,http://coursereport.com,US - Non CA,US,HR / Education,2014-08-01,Professional training,SaaS,Fund III
+243,A10764,Court Buddy,http://courtbuddy.com,US - Non CA,US,HR / Education,2017-02-23,Legal services,Marketplace,Fund IV
+244,A10258,CraftCoffee,http://craftcoffee.com,US - Non CA,US,Retail / eCommerce,2011-08-01,Food,On-demand / Delivery,"Annex, Fund I"
+245,A12278,Crash,crash.co,US - Non CA,US,HR / Education,2019-06-27,Recruiting,Marketplace,Fund V
+246,A10389,Crave,http://crave.com,US - CA,US,Retail / eCommerce,2010-08-17,Consumer eCom,Direct sale,Fund I
+247,A10202,Cream,http://creamstyle.com,US - Non CA,US,Retail / eCommerce,2014-07-30,Fashion,On-demand / Delivery,Fund III
+249,A10732,Credit Stacks,http://creditstacks.com,US - Non CA,US,Fintech,2017-04-11,Lending / Investments,SaaS,"Fund IV,Fintech"
+250,A10400,CreditKarma,http://creditkarma.com,US - CA,US,Fintech,2012-08-30,Financial infrastructure,Mobile,Fund II
+251,A10421,Crema,http://crema.co,US - Non CA,US,Retail / eCommerce,2016-11-08,Food,On-demand / Delivery,Fund IV
+252,A10401,Crocodoc,http://crocodoc.com,US - CA,US,IT / Security,2010-08-03,Developer tools,SaaS,Fund I
+253,A10084,Croissant,http://getcroissant.com,US - Non CA,US,Real Estate / Transportation,2016-09-01,Coworking,O2O,Fund IV
+254,A11039,Croma,http://croma.io,US - CA,US,Marketing / Customer Success,2017-06-22,Market intel,SaaS,Fund IV
+255,A12027,Crowdfunder,http://crowdfunder.com,US - CA,US,Fintech,2013-07-13,Lending / Investments,SaaS,Lucha I
+256,A10409,CrowdMade,http://crowdmade.com,US - Non CA,US,Retail / eCommerce,2015-09-22,Fashion,Marketplace,Fund III
+257,A10410,Crowdplat,http://crowdplat.com,US - CA,US,HR / Education,2015-05-17,Professional services,Marketplace,Fund III
+258,A10411,Crowdrally,http://www.crowdrally.com/,US - CA,US,Fintech,2011-01-05,Grants / Donations,Marketplace,Fund I
+260,A10413,CStorePro,http://cstorepro.com,US - Non CA,US,Retail / eCommerce,2015-04-03,Procurement,SaaS,Fund III
+261,A10387,Cube.js,http://statsbot.co,US - CA,US,IT / Security,2016-08-29,Productivity,SaaS,Fund IV
+262,A10416,Culture Kitchen,http://culturekitchensf.com,US - CA,US,Retail / eCommerce,2011-05-16,Food,Direct service,Fund I
+263,A11579,CultureMap,http://culturemap.com,US - Non CA,US,Media / Collaboration,2013-11-01,Journalism & Blogs,O2O,Fund III
+264,A11815,Curacubby,https://curacubby.com/,US - CA,US,Fintech,2018-07-13,Payments,SaaS,Fintech
+265,A12257,Curie,www.curie.co,US - Non CA,US,Retail / eCommerce,2019-07-09,Consumer eCom,SaaS,"Vietnam, Fund V"
+266,A10422,Curious Hat,http://curioushat.com,US - CA,US,HR / Education,2012-10-05,K-12,Mobile,Fund II
+267,A10423,Curplated,http://curplated.com,US - Non CA,US,Retail / eCommerce,2015-07-02,Food,On-demand / Delivery,Fund III
+268,A11410,Cushion AI,http://cushion.ai,US - CA,US,Fintech,2017-10-04,Banking & Exchange,SaaS,"Fund IV,Fintech"
+269,A10428,Daily Aisle,http://dailyaisle.com,US - CA,US,Retail / eCommerce,2011-05-12,Home & Personal,Marketplace,Fund I
+270,A10431,DailyMuse,http://themuse.com,US - Non CA,US,HR / Education,2012-08-16,Recruiting,SaaS,Fund II
+271,A10433,Dailyworth,http://dailyworth.com,US - Non CA,US,Fintech,2011-05-11,Asset Management,Cloud / Content,Fund I
+272,A11645,DataRank,http://www.datarank.com/,US - Non CA,US,Marketing / Customer Success,2012-08-02,Market intel,SaaS,Fund II
+273,A10441,Datasembly,http://datasembly.com,US - Non CA,US,Marketing / Customer Success,2015-08-18,Market intel,SaaS,Fund III
+274,A10085,Datatron Technologies,http://datatron.com,US - CA,US,IT / Security,2016-08-30,Productivity,SaaS,Fund IV
+276,A10443,DCHQ,http://dchq.co,US - CA,US,IT / Security,2015-02-15,Developer tools,SaaS,Fund III
+277,A10444,Dealflicks,http://dealflicks.com,US - CA,US,Media / Collaboration,2012-09-24,Entertainment,O2O,Fund II
+278,A11577,Decisive,http://decisive.is/,US - Non CA,US,Marketing / Customer Success,2010-10-21,Market intel,SaaS,"Annex, Fund I"
+279,A10445,Decisive Health Systems,http://decisivehealth.com,US - CA,US,Health / Biotech,2015-08-17,Healthcare ERP,SaaS,Fund III
+280,A10977,Deep Fried Manna,http://deepfriedmanna.com,US - CA,US,Media / Collaboration,2011-08-02,Gaming / eSports,Mobile,Fund I
+281,A10647,DemandSphere,https://www.demandsphere.com/,US - CA,US,Marketing / Customer Success,2010-09-10,Market intel,SaaS,Fund I
+282,A10243,Department of Better Technology,http://dobt.co,US - CA,US,Smart Cities / Industrial,2016-05-16,Govtech,SaaS,Fund IV
+283,A10075,DesignInc,https://www.designinc.com/,US - CA,US,HR / Education,2016-03-30,Recruiting,SaaS,Fund IV
+284,A10816,Detexian,https://www.detexian.com/,US - CA,US,IT / Security,2018-06-13,Security,SaaS,Vietnam
+285,A10451,DigiSticky,http://digisticky.com,US - Non CA,US,IT / Security,2015-06-10,Developer tools,SaaS,Fund III
+286,A11055,Digital Mortar,http://digitalmortar.com,US - CA,US,Real Estate / Transportation,2017-04-02,Logistics,SaaS,Fund IV
+287,A10454,Digsite,http://digsite.com,US - Non CA,US,Marketing / Customer Success,2015-06-15,Market intel,SaaS,Fund III
+288,A11763,Disco,https://www.justdisco.com/,US - CA,US,HR / Education,2015-08-14,Personnel / Benefits,SaaS,Fund III
+289,A12277,Dispatchr,dispatchr.com,US - CA,US,Smart Cities / Industrial,2019-06-24,Climate,SaaS,Fund V
+290,A10458,Disruption,http://indicate.io,US - Non CA,US,Fintech,2013-03-12,Financial research,Cloud / Content,Fund II
+291,A10460,Divshot,http://divshot.com,US - CA,US,IT / Security,2013-02-20,IT tools,Cloud / Content,Fund II
+292,A12287,Docket Technologies,www.getdocket.co,US - Non CA,US,HR / Education,2019-06-21,Legal services,SaaS,Fund V
+293,A10659,Dojo,http://www.omiesyoga.com/,US - CA,US,Health / Biotech,2011-01-26,Fitness,Cloud / Content,Fund I
+294,A10475,Doughbies,http://doughbies.com,US - CA,US,Retail / eCommerce,2014-11-20,Food,On-demand / Delivery,Fund III
+295,A10477,Dr. Chrono,http://drchrono.com,US - CA,US,Health / Biotech,2011-05-31,Healthcare ERP,SaaS,Fund I
+297,A10479,DriveMeCrazy,http://drivemecrazy.mobi,US - CA,US,Smart Cities / Industrial,2011-04-06,Civictech,Mobile,Fund I
+298,A10480,Driven Labs,http://drivenlabs.io,US - Non CA,US,IT / Security,2015-06-09,ERP,SaaS,Fund III
+299,A12073,Drivio,http://drivio.com,US - Non CA,US,Smart Cities / Industrial,2015-11-10,Govtech,SaaS,Fund III
+301,A10488,Drumbi,http://drumbi.com,US - CA,US,Marketing / Customer Success,2011-08-12,CRM / Customer success,Mobile,Fund I
+302,A10490,Drumpants,http://www.drumpants.com/,US - CA,US,IT / Security,2014-11-10,Productivity,Mobile,Fund III
+303,A10485,Dsco,https://www.dsco.io/,US - Non CA,US,Real Estate / Transportation,2013-03-12,Logistics,SaaS,Fund II
+305,A10033,East Meet East,http://eastmeeteast.com,US - Non CA,US,Media / Collaboration,2015-09-29,Social,Cloud / Content,"Japan,Mobile"
+306,A10496,Easy as Pi,http://www.getpi.co/,US - CA,US,Retail / eCommerce,2014-09-23,Food,On-demand / Delivery,Fund III
+308,A11672,EatGeek,https://eatgeek.com/,US - CA,US,Marketing / Customer Success,2018-08-22,CRM / Customer success,SaaS,Vietnam
+309,A10498,Eaze,https://www.eaze.com/,US - CA,US,Health / Biotech,2014-09-30,Drug Discovery & Delivery,On-demand / Delivery,Fund III
+311,A10500,EcoMom,http://ecomom.com,US - CA,US,HR / Education,2010-08-03,Early childhood,On-demand / Delivery,Fund I
+312,A10244,Efflux Systems,http://effluxsystems.com,US - Non CA,US,IT / Security,2016-05-17,Security,SaaS,Fund IV
+313,A12283,EINO,eino.ai,US - Non CA,US,Smart Cities / Industrial,2019-06-24,Telecoms,SaaS,Fund V
+314,A10511,Eloquii,http://eloquii.com,US - Non CA,US,Retail / eCommerce,2014-07-15,Fashion,On-demand / Delivery,Fund III
+315,A11395,ELSA,http://www.elsanow.io/,US - CA,US,HR / Education,2015-09-24,Professional training,Mobile,Vietnam
+317,A10512,Embark Labs,http://embarklabs.com,US - CA,US,HR / Education,2015-05-01,Education ERP,SaaS,Fund III
+318,A10513,Embroker,http://embroker.com,US - CA,US,Fintech,2015-07-24,Insurance,SaaS,"Fund III, Fintech"
+319,A11592,Emburse,http://www.emburse.com/,US - CA,US,Fintech,2016-01-20,Accounting / Audit,SaaS,Fund III
+320,A12543,EMTECH,https://www.futuremtech.com/,US - Non CA,US,Fintech,2020-10-23,Financial infrastructure,SaaS,Fund V
+321,A11112,Enchanted Diamonds,http://enchanteddiamonds.com,US - Non CA,US,Retail / eCommerce,2014-01-04,Fashion,On-demand / Delivery,Fund III
+322,A10519,Encore Alert,http://encorealert.com,US - Non CA,US,Marketing / Customer Success,2015-08-03,Market intel,SaaS,Fund III
+323,A11882,Enplug,http://enplug.com,US - CA,US,Marketing / Customer Success,2015-11-05,Adtech / Martech,SaaS,"Durians I, Fund III"
+324,A12140,Enter Health,https://www.enter.health/,US - CA,US,Health / Biotech,2017-05-23,Healthcare ERP,SaaS,"Fund IV, Fintech"
+325,A11822,EnvoyNow,http://envoynow.co,US - CA,US,Retail / eCommerce,2015-07-29,Food,On-demand / Delivery,Fund III
+326,A11507,Epic!,https://www.getepic.com/,US - CA,US,Retail / eCommerce,2013-02-08,Children / Toys,Mobile,Fund II
+327,A10524,Eponym,http://eponymous.co,US - Non CA,US,Retail / eCommerce,2014-05-15,Fashion,Direct sale,Fund III
+328,A10525,Equipboard,http://equipboard.com,US - Non CA,US,Retail / eCommerce,2014-01-07,Consumer eCom,On-demand / Delivery,Fund III
+329,A11044,EquitySim,http://equitysim.com,US - CA,US,HR / Education,2017-06-23,Recruiting,SaaS,"Fund IV, Fintech"
+330,A10526,EquityZen,http://equityzen.com,US - Non CA,US,Fintech,2013-10-29,Lending / Investments,SaaS,Fund III
+331,A10528,eSpark,http://esparklearning.com,US - Non CA,US,HR / Education,2011-10-01,Education ERP,Mobile,Fund I
+333,A10529,Estately,http://estately.com,US - Non CA,US,Real Estate / Transportation,2010-08-06,Realty / Rentals,SaaS,Fund I
+334,A12119,Ethic,http://weareethic.com,US - CA,US,Fintech,2016-08-03,Financial research,SaaS,"Fund IV, Fintech"
+335,A11841,Eventup,http://eventup.com,US - Non CA,US,Real Estate / Transportation,2013-04-09,Realty / Rentals,O2O,Fund II
+336,A10533,eVenues,http://evenues.com,US - Non CA,US,Real Estate / Transportation,2011-05-08,Realty / Rentals,O2O,Fund I
+337,A10535,EverPix,http://everpix.com,US - CA,US,Media / Collaboration,2011-10-14,Social media,SaaS,"Annex, Fund I"
+338,A10606,Eversnap Photography,http://weddingsnap.com,US - CA,US,Media / Collaboration,2012-12-13,Social media,Cloud / Content,Fund II
+339,A10544,Evoz,http://myevoz.com,US - CA,US,Retail / eCommerce,2011-03-02,Children / Toys,Direct sale,Fund I
+340,A10547,ExitRound,http://exitround.com,US - CA,US,Fintech,2013-12-09,Lending / Investments,SaaS,Fund III
+341,A10548,ExpenseBot,http://expensebot.com,US - Non CA,US,Fintech,2014-11-21,Accounting / Audit,SaaS,Fund III
+342,A10550,Experiment,http://experiment.com,US - Non CA,US,Fintech,2012-10-18,Grants & Donations,SaaS,Fund II
+343,A10552,Eyes on Freight,http://eyesonfreight.com,US - Non CA,US,Real Estate / Transportation,2015-08-07,Logistics,SaaS,Fund III
+344,A10554,FabFitFun,http://fabfitfun.com,US - CA,US,Retail / eCommerce,2015-07-10,Fashion,On-demand / Delivery,Fund III
+346,A12392,Fairbanc,https://fairbanc.app/,US - CA,US,FinTech,2019-12-20,Credit & Lending,"Mobile, FinTech","TukTuks II,Durians II"
+347,A12420,Fakespot,https://www.fakespot.com/,US - Non CA,US,IT / Security,2020-02-05,Security & Storage,"Mobile, E-Commerce, Artificial Intelligence & Machine Learning",Fund V
+348,A10556,FamilyLeaf,http://familyleaf.com,US - Non CA,US,Media / Collaboration,2012-05-25,Social media,SaaS,Fund II
+349,A10091,Fan Stream,http://fanstreamapp.com,US - CA,US,Media / Collaboration,2016-08-16,Sports,Mobile,Fund IV
+350,A10560,Fanbread,http://fanbread.com,US - CA,US,Marketing / Customer Success,2015-06-23,Adtech / Martech,Mobile,Fund III
+351,A10561,Fanbridge,http://fanbridge.com,US - Non CA,US,Marketing / Customer Success,2011-10-12,CRM / Customer success,SaaS,Fund I
+352,A10563,FanHandle,http://fanhandle.com,US - Non CA,US,Marketing / Customer Success,2015-06-19,Adtech / Martech,SaaS,Fund III
+353,A10565,Farmeron,http://farmeron.com,US - Non CA,US,Smart Cities / Industrial,2011-10-01,Agtech,SaaS,Fund I
+354,A10568,FastCustomer,http://fastcustomer.com,US - Non CA,US,Marketing / Customer Success,2011-08-01,CRM / Customer success,Mobile,Fund I
+355,A10569,Feast,http://letsfea.st,US - CA,US,Retail / eCommerce,2013-04-19,Food,O2O,Fund II
+356,A10570,FeeFighters,http://feefighters.com,US - Non CA,US,Fintech,2010-05-24,Financial research,SaaS,Fund I
+357,A10578,Fi.TT,http://fi.tt,US - CA,US,Health / Biotech,2013-11-13,Fitness,Cloud / Content,Fund III
+358,A10580,FIGS,http://wearfigs.com,US - CA,US,Retail / eCommerce,2013-06-17,Fashion,On-demand / Delivery,Fund II
+359,A10582,FileBoard,http://fileboard.com,US - CA,US,Marketing / Customer Success,2011-10-01,Market intel,SaaS,Fund I
+360,A11843,Finomial,http://finomial.com,US - Non CA,US,Marketing / Customer Success,2015-10-29,CRM / Customer success,SaaS,Fund III
+361,A12098,Finova Financial,http://finovafinancial.com,US - Non CA,US,Fintech,2016-03-28,Lending / Investments,Mobile,"Fund IV, Fintech"
+362,A11618,Firefly,https://fireflyon.com/,US - Non CA,US,Marketing / Customer Success,2017-12-15,Marketing & Sales,SaaS,Istanbul
+363,A10585,Firefly Space Systems,http://fireflyspace.com,US - Non CA,US,Real Estate / Transportation,2014-11-10,Aerospace / Drones,Direct sale,Fund III
+364,A11059,First Access,http://www.firstaccess.co/,US - Non CA,US,Fintech,2017-03-06,Financial infrastructure,SaaS,Fintech
+365,A10586,FirstOpinion,https://firstopinionapp.com/,US - CA,US,Health / Biotech,2013-04-09,Patient services,On-demand / Delivery,Fund II
+366,A10424,Fishbit,https://getfishbit.com/,US - Non CA,US,Retail / eCommerce,2015-09-24,Pets,Direct sale,Fund III
+367,A10587,Fitocracy,http://fitocracy.com,US - Non CA,US,Health / Biotech,2011-10-01,Fitness,Cloud / Content,Fund I
+368,A10589,Flashratings,http://flashratings.com,US - CA,US,Fintech,2015-02-10,Asset Management,Cloud / Content,Fund III
+369,A10245,Flipt,http://builderscloud.com,US - Non CA,US,Real Estate / Transportation,2013-01-01,Construction,SaaS,Fund II
+370,A12099,Float,http://floatcredit.com,US - CA,US,Fintech,2016-02-26,Lending / Investments,Mobile,Fund IV
+371,A10592,Flowtown,http://flowtown.com,US - CA,US,Marketing / Customer Success,2010-08-06,Adtech / Martech,SaaS,Fund I
+372,A11860,Flycrates,https://flycrates.com/,US - Non CA,US,Real Estate / Transportation,2015-10-22,Logistics,On-demand / Delivery,Fund III
+373,A10583,Flye,http://flye.co,US - CA,US,Marketing / Customer Success,2016-11-01,Market intel,SaaS,Fund IV
+374,A10598,Flyer,http://flyer.io,US - CA,US,Real Estate / Transportation,2013-04-07,Realty / Rentals,SaaS,Fund II
+375,A11164,Flywire,https://www.flywire.com/,US - Non CA,US,Fintech,2010-09-07,Payments,SaaS,Fund I
+376,A10125,Focus At Will Labs,https://www.focusatwill.com/,US - CA,US,Health / Biotech,2016-04-27,Medical advice,SaaS,Fund IV
+377,A11033,Folia Water,http://foliawater.com,US - Non CA,US,Retail / eCommerce,2017-06-16,Food,On-demand / Delivery,Fund IV
+378,A10733,FoodA,http://fooda.com,US - Non CA,US,Retail / eCommerce,2012-09-07,Human Resources & Recruiting,On-demand / Delivery,Fund II
+379,A10602,Foodspotting,http://foodspotting.com,US - CA,US,Media / Collaboration,2010-08-04,Social media,Cloud / Content,Fund I
+380,A10608,Formative Labs,http://formativelabs.com,US - CA,US,Smart Cities / Industrial,2010-09-02,Civictech,SaaS,Fund I
+381,A10393,Forrst,http://www.forrst.com/,US - CA,US,Media / Collaboration,2010-12-22,Media production,Marketplace,Fund I
+382,A10648,Forte,http://www.forte.fit/,US - Non CA,US,Health / Biotech,2017-01-17,Fitness,On-demand / Delivery,Istanbul
+383,A10613,FounderDating,http://founderdating.com,US - CA,US,Media / Collaboration,2012-11-21,Social media,Cloud / Content,Fund II
+384,A12100,FoxType,http://foxtype.com,US - Non CA,US,IT / Security,2016-02-25,Productivity,SaaS,Fund IV
+385,A10620,Freckle Education,https://www.freckle.com/,US - CA,US,HR / Education,2014-06-16,Education ERP,SaaS,Fund III
+386,A11894,Freemit,https://freemit.com/,US - Non CA,US,Fintech,2015-12-02,Payments,SaaS,Fund III
+387,A11298,FreightRoll,http://freightroll.com,US - Non CA,US,Real Estate / Transportation,2017-09-25,Logistics,On-demand / Delivery,Fund IV
+388,A10616,Freshop,http://freshop.com,US - Non CA,US,IT / Security,2015-08-27,ERP,SaaS,Fund III
+389,A10795,Friendly Data,http://friendlydata.io,US - Non CA,US,IT / Security,2017-02-27,Productivity,SaaS,Fund IV
+390,A11038,From.Us,http://from.us,US - CA,US,Media / Collaboration,2011-06-27,Social media,SaaS,Fund I
+391,A10472,Fuel,http://tryfuel.com,US - CA,US,Retail / eCommerce,2016-11-18,Food,Direct sale,Fund IV
+393,A10246,FuelPanda,http://fuelpanda.com,US - CA,US,Smart Cities / Industrial,2016-06-14,Energy,On-demand / Delivery,Fund IV
+394,A11856,Fulfil.IO,http://fulfil.io,US - CA,US,IT / Security,2015-10-20,ERP,SaaS,Fund III
+395,A10621,FullContact,http://fullcontact.com,US - Non CA,US,Marketing / Customer Success,2011-09-02,Marketing & Sales,SaaS,"Fund I,Fund II"
+396,A10623,FullStack Academy,http://fullstackacademy.com,US - Non CA,US,HR / Education,2012-11-01,Professional training,Cloud / Content,Fund II
+397,A10799,Funderful,http://funderful.com,US - CA,US,Fintech,2017-03-14,Grants / Donations,SaaS,Fund IV
+398,A11192,FundRocket,https://fundrocket.com/,US - CA,US,Fintech,2018-05-14,Lending / Investments,Direct service,Fintech
+400,A11727,Fyodor Biotechnologies,https://www.fyodorbio.com/,"ME & Africa, US - Non CA",US,Health / Biotech,2018-05-16,Health monitoring,Direct sale,Fund IV
+401,A11755,Fysical,https://fysical.com/,US - CA,US,Marketing / Customer Success,2016-09-09,Market intel,Token,Fund IV
+402,A10628,Game Closure,https://www.play.co/,US - CA,US,Media / Collaboration,2015-03-18,Gaming & eSports,Mobile,"Durians,Fund III"
+403,A10629,Gantto,http://gantto.com,US - CA,US,IT / Security,2010-10-04,Productivity,SaaS,Fund I
+404,A10417,Gas POS,http://gaspos.co,US - Non CA,US,Fintech,2016-11-04,Payments,O2O,Fund IV
+405,A10135,Gather,http://gatherapp.co/,US - CA,US,Media / Collaboration,2016-06-10,Entertainment,Mobile,Fund IV
+406,A10631,Gazehawk,http://gazehawk.com,US - CA,US,Marketing / Customer Success,2010-08-18,Market intel,SaaS,Fund I
+407,A10637,Geekatoo,http://geekatoo.com,US - CA,US,IT / Security,2013-05-01,IT tools,On-demand / Delivery,Fund II
+409,A10198,Get Lighthouse,http://getlighthouse.com,US - CA,US,HR / Education,2016-07-26,Personnel / Benefits,SaaS,Fund IV
+411,A10642,Giftcard Zen,http://giftcardzen.com,US - Non CA,US,Fintech,2015-01-23,Payments,SaaS,Fund III
+412,A10643,Giftcoin,http://gogocoin.com,US - CA,US,Fintech,2014-04-16,Cryptocurrency,SaaS,Fund III
+413,A10644,GiftStarter,http://giftstarter.com,US - Non CA,US,Fintech,2015-08-03,Payments,On-demand / Delivery,Fund III
+414,A10650,GitLab,http://gitlab.com,US - CA,US,IT / Security,2015-05-06,Developer tools,SaaS,Fund III
+415,A10652,Givesurance,http://givesurance.org,US - CA,US,Fintech,2014-08-11,Insurance,SaaS,Fund III
+416,A10653,Gizmo,http://Gizmo.io,US - CA,US,Marketing / Customer Success,2011-09-30,Adtech / Martech,SaaS,Fund I
+417,A10655,Glambot,http://glambot.com,US - CA,US,Retail / eCommerce,2015-08-03,Beauty,Marketplace,Fund III
+418,A10656,GlamSt,http://glamst.com,US - CA,US,Retail / eCommerce,2015-07-15,Beauty,Mobile,Fund III
+419,A11633,Global ID,https://www.globalid.net/,US - CA,US,IT / Security,2017-10-12,Developer tools,Token,Mobile
+420,A11603,GlobeKeeper,http://globekeeper.com,US - Non CA,US,Smart Cities / Industrial,2017-06-08,Govtech,SaaS,Istanbul
+421,A11208,Glyder,http://glyder.co,US - CA,US,Marketing / Customer Success,2012-05-04,Market intel,SaaS,Fund II
+422,A12288,Glyph,https://glyph.earth/,US - Non CA,US,Retail / eCommerce,2019-06-21,Fashion,Direct sale,Fund V
+424,A10660,GoCoin,http://www.gocoin.com/,US - CA,US,Fintech,2014-05-23,Cryptocurrency,SaaS,Fund III
+425,A11919,GoFindFriends,http://gofindfriends.com,US - Non CA,US,Media / Collaboration,2015-10-06,Social media,Cloud / Content,Fund III
+426,A10663,Gogohire,http://gogohire.com,US - CA,US,HR / Education,2015-02-09,Recruiting,Marketplace,Fund III
+427,A11703,Goldbean,http://hellogoldbean.com,US - Non CA,US,Fintech,2015-02-20,Asset Management,SaaS,Fund III
+428,A10664,Goldbelly,https://www.goldbelly.com/,US - CA,US,Retail / eCommerce,2013-06-20,Home & Personal,On-demand / Delivery,Fund II
+429,A10672,GoSpotCheck,http://gospotcheck.com,US - Non CA,US,Marketing / Customer Success,2011-08-27,Data & Analytics,SaaS,Fund I
+430,A10855,Government App Solutions,http://texttoticket.com,US - CA,US,Smart Cities / Industrial,2017-03-03,Civictech,Mobile,Fund IV
+431,A10809,Govlist,http://thegovlist.com,US - CA,US,Smart Cities / Industrial,2017-03-07,Government & Smart Cities,SaaS,Fund IV
+432,A10673,GoVoluntr,http://govoluntr.com,US - CA,US,Smart Cities / Industrial,2011-10-01,Civictech,SaaS,Fund I
+433,A11540,Gradible,http://gradible.com,US - Non CA,US,Fintech,2014-08-07,Lending / Investments,SaaS,Fund III
+434,A10677,Graphicly,http://graphicly.com,US - CA,US,Marketing / Customer Success,2010-01-10,Market intel,SaaS,Fund I
+435,A10679,Greengar,http://greengar.com,US - CA,US,Media / Collaboration,2013-04-15,Collaboration,Mobile,Fund II
+436,A10690,Greentoe,http://greentoe.com,US - CA,US,Retail / eCommerce,2013-04-23,Consumer eCom,Marketplace,Fund II
+437,A10682,GreenWay Labs,http://masticlean.com,US - CA,US,Real Estate / Transportation,2015-05-19,Property management,Direct sale,Fund III
+438,A10688,Groupiter,http://groupiter.com,US - CA,US,Media / Collaboration,2012-03-30,Collaboration,Mobile,Fund II
+439,A11205,Grove,https://hellogrove.com/,US - CA,US,Fintech,2018-05-15,Financial research,SaaS,Fintech
+440,A10476,Grove Collaborative,http://www.grove.co/,US - CA,US,Retail / eCommerce,2016-11-17,Beauty,On-demand / Delivery,Fund IV
+441,A11063,Growth Machines,www.growthmachines.co,US - CA,US,Marketing / Customer Success,2012-09-01,Adtech / Martech,SaaS,Fund II
+442,A11850,GrowthTeam,https://www.growthteam.com/,US - CA,US,HR / Education,2015-10-12,Recruiting,SaaS,Fund III
+443,A12017,GTR,http://www.globaltopround.com/,US - CA,US,Media / Collaboration,2015-12-14,Gaming / eSports,Direct service,Kimchi I
+444,A10693,Guidekick,http://guidekick.co,US - CA,US,Real Estate / Transportation,2014-02-12,Travel / Hospitality,SaaS,Fund III
+445,A10694,Guideline,http://guideline.com,US - CA,US,Fintech,2015-08-04,Asset Management,SaaS,Fund III
+446,A10696,Gyft,http://gyft.com,US - CA,US,Fintech,2012-06-20,Payments,SaaS,Fund II
+447,A10412,GymHit,http://gymhit.com,US - CA,US,Health / Biotech,2016-10-31,Fitness,SaaS,Fund IV
+448,A10963,HAAWK,http://haawk.com/,US - CA,US,IT / Security,2017-04-21,Security,SaaS,Fund IV
+449,A10698,Habit Labs,http://habitlabs.com,US - Non CA,US,Health / Biotech,2011-10-07,Medical advice,SaaS,Fund I
+450,A10998,Haiven Home,https://haivenhome.com/,US - CA,US,IT / Security,2017-05-25,Security,Direct sale,Fund IV
+451,A11921,Halolife,http://halolife.co,US - CA,US,HR / Education,2015-11-05,Professional services,O2O,Fund III
+452,A12093,HAMAMA,https://www.hamama.cc,US - CA,US,Retail / eCommerce,2018-12-07,Consumer Wellness,Direct sale,Fund V
+453,A10250,Hamptons Lane,http://hamptonslane.com,US - Non CA,US,Retail / eCommerce,2016-06-14,Food,On-demand / Delivery,Fund IV
+455,A12101,HandStack,http://handstack.com,US - Non CA,US,Marketing / Customer Success,2016-03-28,Adtech / Martech,Mobile,Fund IV
+456,A10703,HandUp,http://handup.org,US - Non CA,US,Fintech,2015-07-10,Grants / Donations,SaaS,Fund III
+457,A10704,Hangtime,http://hangtime.com,US - CA,US,Media / Collaboration,2011-06-09,Social media,Mobile,Fund I
+459,A10713,Havenly,http://havenly.com,US - Non CA,US,Real Estate / Transportation,2015-09-10,Property management,On-demand / Delivery,Fund III
+460,A10714,Hazel Lane,http://hazellane.com,US - CA,US,Retail / eCommerce,2015-05-19,Consumer eCom,On-demand / Delivery,Fund III
+461,A10717,HealthyOut,http://healthyout.com,US - Non CA,US,Retail / eCommerce,2013-07-29,Food,On-demand / Delivery,Fund II
+462,A12155,Hearo.Live,http://www.hearo.live/,US - CA,US,Media / Collaboration,2018-11-01,Gaming / eSports,SaaS,"Kimchi I, Fund V"
+463,A12267,Heartex,heartex.net,US - CA,US,IT / Security,2019-08-09,IT tools,SaaS,Fund V
+464,A10719,HeartThis,http://heartthis.com,US - CA,US,Retail / eCommerce,2013-08-15,Consumer eCom,On-demand / Delivery,Fund II
+465,A10489,HeavyConnect,http://heavyconnect.com,US - CA,US,Smart Cities / Industrial,2016-10-04,Agriculture,SaaS,Fund IV
+466,A10721,Hedgeye,http://hedgeye.com,US - Non CA,US,Fintech,2012-07-05,Financial research,SaaS,Fund II
+467,A11291,Hello Bit,http://hellobit.com,US - CA,US,Fintech,2015-02-11,Payments,On-demand / Delivery,Fund III
+468,A10725,HelloFlo,http://helloflo.com,US - Non CA,US,Health / Biotech,2014-12-01,OTC Medications,On-demand / Delivery,Fund III
+469,A10730,HeTexted,http://hetexted.com,US - Non CA,US,Retail / eCommerce,2014-11-07,Consumer services,Mobile,Fund III
+470,A11238,Hexa,https://hexa.ai/,US - CA,US,Marketing / Customer Success,2015-02-09,Market intel,SaaS,Fund III
+471,A10948,Heyo,http://heyo.com/,US - Non CA,US,Marketing / Customer Success,2012-04-20,Adtech / Martech,SaaS,Fund II
+473,A10734,HighlightCam,http://highlightcam.com,US - CA,US,Media / Collaboration,2011-06-18,Media production,SaaS,Fund I
+474,A10939,Hijro,http://www.hijro.com/,US - Non CA,US,Fintech,2015-09-10,Cryptocurrency,Token,Fund III
+475,A10334,Hinge,http://hinge.co,US - Non CA,US,Media / Collaboration,2012-07-30,Social media,Cloud / Content,Fund II
+476,A10739,Hipster,http://hipster.com,US - CA,US,Media / Collaboration,2011-04-21,Media Content,Mobile,Fund I
+477,A10503,HireArt,http://hireart.com,US - Non CA,US,HR / Education,2012-06-08,Recruiting,SaaS,Fund II
+478,A12066,Holor Media,https://www.holor.com/,US - CA,US,Media / Collaboration,2016-03-04,Entertainment,Cloud / Content,Mobile
+479,A10674,Hom.ma,http://hom.ma,US - CA,US,Real Estate / Transportation,2016-10-25,Property management,SaaS,Japan
+480,A10748,Home61,http://home61.com,US - Non CA,US,Real Estate / Transportation,2015-03-02,Realty / Rentals,SaaS,Fund III
+481,A10340,Homebot,http://homebot.ai,US - Non CA,US,Fintech,2016-08-31,Lending / Investments,SaaS,Fund IV
+482,A10066,HomeJoy,http://homejoy.com,US - CA,US,Real Estate / Transportation,2012-04-11,Property management,On-demand / Delivery,Fund II
+483,A10751,HomeLight,http://homelight.com,US - CA,US,Real Estate / Transportation,2013-11-26,Housing & Real Estate,On-demand / Delivery,Fund II
+484,A11570,Hooked,http://www.hooked.co/,US - Non CA,US,Media / Collaboration,2014-11-25,Entertainment,Mobile,"Fund III, Mobile"
+486,A10759,Hublogix,https://hublogix.com/,US - Non CA,US,Real Estate / Transportation,2012-10-16,Logistics,SaaS,Fund II
+487,A10761,Humanco,http://human.co,US - CA,US,Health / Biotech,2015-04-13,Fitness,Direct sale,"Fund III, Mobile"
+489,A10762,HumTap,http://humtap.com,US - CA,US,Media / Collaboration,2014-02-01,Media Content,Mobile,Fund III
+490,A10763,Hunie,http://hunie.co,US - CA,US,Media / Collaboration,2012-10-16,Social media,Cloud / Content,Fund II
+491,A10743,Hussle,http://giggin.it,US - CA,US,Retail / eCommerce,2015-02-10,Events,Marketplace,Fund III
+492,A11150,Hypernet,https://hypernetwork.io/,US - CA,US,IT / Security,2018-06-25,IT tools,Token,Mobile
+493,A10811,HyphenMark,http://gethyphen.com,US - CA,US,HR / Education,2017-02-23,Human Resources & Recruiting,SaaS,Fund IV
+495,A12131,iBillionaire,http://ibillionaire.com,US - Non CA,US,Fintech,2016-04-07,Financial research,Mobile,"Fund IV, Fintech"
+496,A11580,Idealists,http://theidealists.com,US - CA,US,Marketing / Customer Success,2013-05-03,Adtech / Martech,Marketplace,Fund II
+497,A10769,IdeaMarket,http://ideamarket.com,US - CA,US,Fintech,2014-11-03,Lending / Investments,Marketplace,Fund III
+498,A10009,Import2,http://import2.com,US - CA,US,IT / Security,2011-10-01,IT tools,SaaS,Fund I
+499,A11012,Improvado.io,http://improvado.io,"US - CA, Europe",US,Marketing / Customer Success,2017-06-06,Market intel,SaaS,Fund IV
+500,A11777,IMRSV,http://imrsv.com,US - Non CA,US,IT / Security,2011-09-01,Developer tools,SaaS,"Annex, Fund I"
+501,A11228,In Your Corner,http://inyourcorneronline.com,US - Non CA,US,Health / Biotech,2014-11-18,Patient services,On-demand / Delivery,Fund III
+502,A10775,Incredible Labs,http://incredible.io,US - CA,US,IT / Security,2011-12-29,Productivity,SaaS,Fund II
+503,A10776,Indinero,http://indinero.com,US - Non CA,US,Fintech,2011-02-08,Accounting / Audit,SaaS,Fund I
+504,A10501,Indio,http://useindio.com,US - CA,US,Fintech,2016-09-15,Insurance,SaaS,"Fund IV, Fintech"
+505,A12059,Ingrain,http://ingrain.io,US - CA,US,Media / Collaboration,2015-10-14,Media production,Mobile,Mobile
+506,A10473,InSparq,http://insparq.com,US - Non CA,US,Marketing / Customer Success,2014-07-24,Adtech / Martech,SaaS,Fund III
+507,A10770,Instaread,http://idreambooks.com,US - CA,US,Retail / eCommerce,2012-11-26,Consumer eCom,SaaS,Fund II
+508,A10573,Instrumentl,https://www.instrumentl.com/,US - CA,US,Fintech,2016-12-05,Grants / Donations,SaaS,Fund IV
+509,A10800,Internmatch,http://internmatch.com,US - CA,US,HR / Education,2010-10-20,Recruiting,SaaS,"Annex, Fund I"
+510,A11261,Interstate Analytics,http://www.interstateanalytics.com/,US - CA,US,Marketing / Customer Success,2015-04-13,Market intel,SaaS,Fund III
+511,A11635,Interstellar,https://www.lightyear.io/,US - CA,US,Fintech,2017-10-30,Cryptocurrency,Token,Mobile
+513,A10802,Ipsy,http://ipsy.com,US - CA,US,Retail / eCommerce,2012-06-19,Fashion,On-demand / Delivery,"Fund II,Fund III"
+514,A10804,Ironclad,http://ironcladapp.com,US - CA,US,HR / Education,2015-08-27,Legal,SaaS,Fund III
+515,A10806,Italist,http://italist.com,US - CA,US,Retail / eCommerce,2014-11-26,Fashion,On-demand / Delivery,Fund III
+516,A10808,Iterable,http://iterable.com,US - CA,US,Marketing / Customer Success,2013-06-14,Marketing & Sales,SaaS,Fund II
+517,A10797,Ivee,http://helloivee.com,US - CA,US,Retail / eCommerce,2015-02-09,Consumer eCom,Direct sale,Fund III
+519,A10350,Jewelbots,http://jewelbots.com,US - Non CA,US,Retail / eCommerce,2016-05-20,Fashion,Direct sale,Fund IV
+520,A10818,Jexy,http://jexy.com,US - CA,US,IT / Security,2010-12-15,Developer tools,SaaS,Fund I
+521,A11078,Jiko,http://www.myjiko.com/,US - Non CA,US,Fintech,2017-06-14,Banking & Exchange,SaaS,Fintech
+522,A11207,Jones,http://getjones.com,US - Non CA,US,Fintech,2017-08-15,Insurance,SaaS,"Fund IV, Fintech"
+523,A11058,Journy,https://www.gojourny.com/,US - Non CA,US,Real Estate / Transportation,2017-02-21,Travel / Hospitality,SaaS,Fund IV
+524,A11415,JudoLaunch,http://judolaunch.com,US - CA,US,Marketing / Customer Success,2017-10-05,Adtech / Martech,SaaS,Fund IV
+525,A12426,Juked,https://juked.gg/,US - CA,US,Media / Collaboration,2020-02-10,Gaming & eSports,On-demand / Delivery,Fund V
+527,A10821,Junior Explorers,http://juniorexplorers.com,US - Non CA,US,Retail / eCommerce,2015-09-01,Children / Toys,On-demand / Delivery,Fund III
+529,A10822,Juxta Labs,http://juxtalabs.com,US - CA,US,Media / Collaboration,2015-04-07,Social media,SaaS,Fund III
+530,A11671,Kairos AR,https://kairos.com,US - Non CA,US,IT / Security,2015-04-29,Security & Storage,SaaS,"Fund III,Annex,Fund I"
+531,A10786,Kaleidoscope,http://www.kalei.do/,US - CA,US,Retail / eCommerce,2011-06-29,Consumer eCom,Mobile,Fund I
+532,A10466,Kango,http://www.kangoapp.co/,US - CA,US,Real Estate / Transportation,2014-04-16,Ridesharing / Vehicle rental,On-demand / Delivery,Fund III
+533,A11910,Kanler,http://kanler.com,US - CA,US,Real Estate / Transportation,2015-11-17,Construction,Marketplace,Fund III
+534,A10825,Karma,http://yourkarma.com,US - Non CA,US,IT / Security,2012-03-19,IT tools,Direct sale,Fund II
+535,A10829,Keen Print,http://keenprint.com,US - CA,US,IT / Security,2012-07-01,IT tools,SaaS,Fund II
+536,A10828,Keen.io,http://keen.io,US - CA,US,IT / Security,2012-05-21,Developer tools,SaaS,Fund II
+537,A10833,Keepsy,http://keepsy.com,US - CA,US,Media / Collaboration,2010-09-20,Media production,Mobile,Fund I
+538,A11173,Kenzie Academy,http://kenzie.academy,US - Non CA,US,HR / Education,2017-07-05,Professional training,Cloud / Content,Fund IV
+539,A10961,Keyo,https://www.keyo.com/,US - CA,US,Real Estate / Transportation,2017-04-21,Realty / Rentals,Mobile,Fund IV
+540,A12061,Khush,http://www.khu.sh/,US - Non CA,US,Media / Collaboration,2010-12-07,Media production,"TMT, Mobile, AudioTech",Fund I
+541,A10837,Kibin,http://kibin.com,US - CA,US,HR / Education,2011-06-27,College / Continuing education,Marketplace,Fund I
+542,A10840,KidAdmit,http://kidadmit.com,US - CA,US,HR / Education,2015-05-08,K-12,O2O,Fund III
+543,A10841,Kidblog,http://kidblog.org,US - Non CA,US,HR / Education,2012-07-02,K-12,SaaS,Fund II
+544,A10842,Kidzjet,http://kidzjet.com,US - CA,US,Real Estate / Transportation,2015-02-09,Transportation Services,On-demand / Delivery,Fund III
+546,A10843,Kiko Labs,https://www.kikolabs.com/,US - CA,US,HR / Education,2014-08-12,Early childhood,Mobile,Fund III
+547,A10406,KiLife,http://www.kiband.com/,US - Non CA,US,Retail / eCommerce,2016-10-27,Children / Toys,Direct sale,Fund IV
+548,A11088,Kin Insurance,https://www.kin.com/,US - Non CA,US,Fintech,2016-09-26,Insurance,SaaS,"Fund IV, Fintech"
+549,A11873,Kindara,http://kindara.com,US - Non CA,US,Health / Biotech,2015-08-07,Health monitoring,Cloud / Content,"Fund III, Mobile"
+550,A10844,Kinnek,http://kinnek.com,US - Non CA,US,Retail / eCommerce,2013-02-12,Procurement,Marketplace,Fund II
+551,A10846,Kinobi,http://kinobi.co,US - Non CA,US,HR / Education,2012-06-05,K-12,SaaS,Fund II
+552,A10847,Kitchit,http://kitchit.com,US - CA,US,Retail / eCommerce,2011-08-23,Food,Marketplace,"Annex, Fund I"
+553,A11342,KiteReaders,http://kitereaders.com,US - CA,US,Media / Collaboration,2013-04-09,Media production,On-demand / Delivery,Fund II
+554,A11859,Kitterly,http://kitterly.com,US - CA,US,Retail / eCommerce,2015-10-29,Fashion,On-demand / Delivery,Fund III
+555,A10850,KiwiCo,http://kiwicrate.com,US - CA,US,Retail / eCommerce,2011-07-28,Children / Toys,On-demand / Delivery,Fund I
+556,A10853,KnockKnock Systems,http://knockknock.in,US - Non CA,US,Marketing / Customer Success,2011-04-18,CRM / Customer success,Mobile,"Fund I, Fund II"
+557,A10854,Knotable,http://knotable.com,US - Non CA,US,IT / Security,2014-09-11,Productivity,SaaS,Fund III
+558,A10718,Knote,https://knote.com/,US - Non CA,US,Real Estate / Transportation,2014-11-21,Co-working,O2O,Fund III
+559,A10026,Knotel,https://knotel.com/,US - Non CA,US,Real Estate / Transportation,2015-09-19,Coworking,O2O,"Fund II, Fund III"
+560,A11531,Kodable,http://kodable.com,US - CA,US,HR / Education,2014-12-08,K-12,Cloud / Content,Fund III
+561,A10856,Koding,http://koding.com,US - CA,US,IT / Security,2015-07-16,Developer tools,SaaS,Fund III
+562,A10857,Koemei,http://koemei.com,US - CA,US,IT / Security,2013-05-22,Developer tools,SaaS,Fund II
+563,A10858,Kollabora,http://kollabora.com,US - Non CA,US,Media / Collaboration,2012-02-17,Social media,Cloud / Content,Fund I
+564,A10859,Kollecto,http://kollecto.com,US - Non CA,US,Retail / eCommerce,2015-05-14,Consumer eCom,On-demand / Delivery,Fund III
+565,A10678,Koreaboo,http://www.koreaboo.com/,US - CA,US,Media / Collaboration,2016-10-05,Entertainment,Cloud / Content,Kimchi I
+566,A10863,Kudobuzz,http://kudobuzz.com,US - CA,US,Marketing / Customer Success,2015-09-15,Market intel,SaaS,Fund III
+567,A12114,Kura,https://kura.tech/,US - CA,US,Media / Collaboration,2018-12-19,Entertainment,Direct sale,Fund V
+569,A10658,LaaSie.AI,https://laasie.ai/,US - Non CA,US,Real Estate / Transportation,2015-07-17,Realty / Rentals,O2O,Fund III
+570,A10864,Lab Sensor Solutions,http://lsstracks.com,US - CA,US,Real Estate / Transportation,2015-08-17,Logistics,Direct sale,Fund III
+571,A10865,LabDoor,http://labdoor.com,US - CA,US,Health / Biotech,2015-03-24,Dietary Supplements,On-demand / Delivery,Fund III
+573,A10870,Laserlike,http://laserlike.com,US - CA,US,IT / Security,2014-02-07,Productivity,SaaS,Fund III
+574,A10873,Launchbit,http://launchbit.com,US - Non CA,US,Marketing / Customer Success,2011-04-19,Adtech / Martech,Cloud / Content,Fund I
+575,A10285,LaunchDarkly,http://launchdarkly.com,US - CA,US,IT / Security,2015-04-30,Developer tools,SaaS,Fund III
+576,A10874,LaunchGram,http://launchgram.com,US - CA,US,Marketing / Customer Success,2012-10-18,Market intel,SaaS,Fund II
+577,A10875,LaunchRock,http://launchrock.com,US - Non CA,US,Marketing / Customer Success,2011-04-04,Adtech / Martech,SaaS,Fund I
+578,A11842,LawnGuru,http://lawnguru.co,US - Non CA,US,Real Estate / Transportation,2015-12-01,Property management,On-demand / Delivery,Fund III
+579,A10440,Lawtova,http://lawtova.com,US - CA,US,HR / Education,2016-11-23,Legal services,Marketplace,Fund IV
+580,A11861,LawTrades,http://lawtrades.com,US - Non CA,US,HR / Education,2015-10-27,Legal services,Marketplace,Fund III
+581,A10879,LE TOTE,http://letote.com,US - CA,US,Retail / eCommerce,2013-04-10,Fashion,On-demand / Delivery,Fund II
+582,A12122,Lea,https://www.heyimlea.com/,US - CA,US,Fintech,2016-03-25,Payments,O2O,Fund IV
+583,A10113,Leade.rs,http://leade.rs/,US - CA,US,Retail / eCommerce,2016-03-08,Events,SaaS,Fund IV
+584,A11017,LeadGenius,http://leadgenius.com,US - CA,US,Marketing / Customer Success,2013-11-18,CRM / Customer success,SaaS,Fund III
+585,A10883,Leaky,http://leaky.com,US - CA,US,Fintech,2012-06-14,Insurance,SaaS,Fund II
+586,A10885,Lean Startup Machine,http://leanstartupmachine.com,US - Non CA,US,HR / Education,2014-04-04,Professional training,Direct service,Fund III
+587,A10509,Leapcure,http://leapcure.com,US - CA,US,Health / Biotech,2016-10-05,Healthcare ERP,SaaS,Fund IV
+588,A11891,Learnist,http://learni.st,US - CA,US,HR / Education,2015-12-10,College / Continuing education,Cloud / Content,Fund III
+589,A11047,Learnmetrics,http://learnmetrics.com/,US - Non CA,US,HR / Education,2017-03-15,Education ERP,SaaS,"Fund IV, Mobile"
+590,A10953,LeaseLock,http://www.leaselock.com/,US - CA,US,Fintech,2017-03-01,Insurance,SaaS,"Fund IV,Fintech"
+591,A11581,LeCupboard,https://www.lecupboard.com/,US - CA,US,Retail / eCommerce,2018-01-25,Food,SaaS,Falcons
+592,A11092,Ledger Investing,https://ledgerinvesting.com/,US - Non CA,US,Fintech,2017-01-20,Lending / Investments,SaaS,Fintech
+593,A11377,Legal Marketing Innovations,http://legalmi.com/,US - Non CA,US,Marketing / Customer Success,2011-07-01,Marketing & Sales,SaaS,Fund I
+594,A10887,Lenda,http://lenda.com,US - CA,US,Fintech,2014-04-15,Lending / Investments,SaaS,Fund III
+595,A10889,Lendsquare,http://lendsquare.com,US - Non CA,US,Fintech,2014-07-30,Lending / Investments,Marketplace,Fund III
+596,A10057,LessThan3,http://info.maestro.io/,US - CA,US,Retail / eCommerce,2016-05-13,Media Content,SaaS,Fund IV
+597,A10892,Lettuce,http://lettuceapps.com,US - CA,US,Retail / eCommerce,2012-08-02,Procurement,SaaS,Fund II
+598,A10344,Level Family Therapy,http://trylevel.com,US - CA,US,Health / Biotech,2016-09-09,Healthcare Services & Telehealth,SaaS,Fund IV
+599,A10896,Lexity,http://lexity.com,US - CA,US,Marketing / Customer Success,2011-02-25,Adtech / Martech,Mobile,Fund I
+600,A10901,Life360,http://life360.com,US - CA,US,Health / Biotech,2010-12-01,Healthcare Services & Telehealth,SaaS,"Annex,Fund I"
+601,A11069,LifeSite,http://www.lifesite.co/,US - CA,US,IT / Security,2017-07-11,IT tools,SaaS,Fintech
+602,A10907,Likeable Local,http://likeablelocal.com,US - Non CA,US,Marketing / Customer Success,2013-05-22,Marketing & Sales,SaaS,Fund II
+603,A10738,LittleFund,http://littlefund.co,US - CA,US,Fintech,2017-02-28,Banking & Exchange,SaaS,"Fund IV,Fintech,Vietnam"
+604,A10922,Live Lovely,http://livelovely.com,US - CA,US,Real Estate / Transportation,2010-08-06,Realty / Rentals,O2O,"Annex, Fund I"
+605,A10251,LiveCanary,http://livecanary.com,US - CA,US,Marketing / Customer Success,2016-05-12,Market intel,SaaS,Fund IV
+606,A10923,Local Bushel,http://localbushel.com,US - Non CA,US,Smart Cities / Industrial,2015-09-24,Agtech,Marketplace,Fund III
+607,A10924,Local Plant Source,http://localplantsource.com,US - Non CA,US,IT / Security,2014-10-31,ERP,SaaS,Fund III
+608,A10925,LocBox Labs,https://fetchrev.com/,US - Non CA,US,Marketing / Customer Success,2011-07-05,Adtech / Martech,SaaS,"Annex, Fund I"
+609,A10092,Lockitron,http://lockitron.com,US - CA,US,IT / Security,2012-05-02,Security,Direct sale,Fund II
+610,A10931,Loku,http://loku.com,US - Non CA,US,Real Estate / Transportation,2011-09-30,Travel / Hospitality,Cloud / Content,Fund I
+611,A10133,Long-Term Stock Exchange,https://www.ltse.com/,US - CA,US,Fintech,2016-07-13,Lending / Investments,Marketplace,Fund IV
+612,A10934,LookAcross,http://lookacross.com,US - Non CA,US,Marketing / Customer Success,2011-10-01,Market intel,SaaS,Fund I
+613,A10937,Lookmark,http://thanks.lookmark.com/,US - Non CA,US,Media / Collaboration,2012-07-13,Journalism / Blogs,Cloud / Content,Fund II
+614,A10129,Lottery.com,http://autolotto.com,US - CA,US,Fintech,2015-05-01,Gambling,Mobile,Fund III
+615,A10502,LoveWithFood,http://lovewithfood.com,US - CA,US,Retail / eCommerce,2011-10-14,Food,On-demand / Delivery,"Fund I, Fund III"
+616,A10945,Lucid Chart,http://golucid.co,US - Non CA,US,Media / Collaboration,2011-02-10,Media production,SaaS,Fund I
+617,A12276,LucidAct,www.lucidact.com,US - CA,US,Health / Biotech,2019-07-09,Healthcare ERP,SaaS,Fund V
+618,A11396,Lumanu,https://www.lumanu.com/,US - Non CA,US,Marketing / Customer Success,2017-09-19,Adtech / Martech,SaaS,Vietnam
+619,A11102,Lumatic,http://lumatic.com,US - CA,US,Real Estate / Transportation,2011-10-01,Logistics,Mobile,Fund I
+620,A10952,Luxr,http://luxr.co,US - CA,US,HR / Education,2012-05-16,Professional training,Direct service,Fund II
+621,A10753,Mabel,https://calyxhealth.com/,US - CA,US,Health / Biotech,2017-02-02,Healthcare ERP,SaaS,Fund IV
+622,A12105,MaestroConference,http://maestroconference.com,US - CA,US,IT / Security,2016-04-14,IT tools,SaaS,Fund IV
+623,A11585,Magalix,http://www.magalix.com/,US - Non CA,US,IT / Security,2018-02-13,IT tools,SaaS,Falcons
+624,A11874,MagicBus,http://magicbus.io,US - CA,US,Real Estate / Transportation,2015-09-23,Logistics,On-demand / Delivery,"Fund III, Mobile"
+625,A10956,Magnolia Prime,http://magnoliaprime.com,US - CA,US,IT / Security,2011-02-16,IT tools,SaaS,Fund I
+626,A10957,Magoosh,http://magoosh.com,US - CA,US,HR / Education,2012-08-15,Professional training,Cloud / Content,Fund II
+627,A11416,Mailhaven,http://mailhaven.co,US - Non CA,US,Real Estate / Transportation,2017-10-05,Logistics,Direct sale,Fund IV
+628,A10958,MailLift,http://maillift.com,US - Non CA,US,Marketing / Customer Success,2013-10-10,Adtech / Martech,On-demand / Delivery,Fund III
+629,A10015,Mailstrom,http://mailstrom.co,US - Non CA,US,IT / Security,2011-07-05,IT tools,SaaS,Fund I
+630,A10967,Maker.me,http://maker.me,US - CA,US,Retail / eCommerce,2012-09-19,Consumer eCom,Marketplace,Fund II
+631,A10968,Makerbot,http://makerbot.com,US - Non CA,US,Media / Collaboration,2010-07-15,Media production,Direct sale,Fund I
+632,A10964,MakeSchool,http://makeschool.com,US - CA,US,HR / Education,2012-04-23,College / Continuing education,Direct service,Fund II
+633,A10611,Mall IQ,http://www.malliq.com/,US - CA,US,Real Estate / Transportation,2016-08-25,Logistics,SaaS,Istanbul
+634,A10972,Manicube,http://manicube.com,US - Non CA,US,Retail / eCommerce,2013-02-25,Beauty,On-demand / Delivery,Fund II
+635,A11450,Manifest,http://socialwire.com,US - CA,US,Marketing / Customer Success,2011-12-07,Market intel,Direct service,"Annex, Fund I"
+636,A12136,ManyChat,http://manychat.com,US - CA,US,Media / Collaboration,2016-04-08,Social media,Mobile,Fund IV
+637,A10975,Mapjam,http://mapjam.com,US - CA,US,Media / Collaboration,2015-08-04,Media production,SaaS,Fund III
+638,A10976,Markerly,http://markerly.com,US - Non CA,US,Marketing / Customer Success,2012-10-31,Adtech / Martech,SaaS,Fund II
+639,A11774,Market Vibe,http://www.marketvibe.com/,US - Non CA,US,Marketing / Customer Success,2012-09-25,Adtech / Martech,SaaS,Fund II
+640,A12121,Mars Reel,http://marsreel.co,US - CA,US,Media / Collaboration,2016-02-25,Sports,Cloud / Content,Fund IV
+641,A10405,Mashvisor,http://mashvisor.com,US - CA,US,Fintech,2016-11-09,Lending / Investments,SaaS,Fund IV
+642,A10363,Mass Exchange,http://www.massexchange.com/,US - Non CA,US,Fintech,2016-01-21,Credit & Lending,SaaS,Fund III
+643,A10603,Massive Bio,http://massbio.io/,US - Non CA,US,Health / Biotech,2016-09-08,Medical advice,SaaS,Istanbul
+644,A11295,Mattermark,http://mattermark.com,US - CA,US,Marketing / Customer Success,2012-05-02,Market intel,SaaS,Fund II
+645,A10979,Mayvenn,http://mayvenn.com,US - CA,US,Retail / eCommerce,2013-04-03,Beauty,O2O,Fund II
+646,A10980,Medialets,http://medialets.com,US - Non CA,US,Marketing / Customer Success,2010-05-11,Adtech / Martech,Mobile,Fund I
+647,A10981,Mediaspike,http://mediaspike.com,US - CA,US,Media / Collaboration,2011-06-14,Gaming / eSports,Mobile,"Annex, Fund I"
+648,A10984,Medico.com,http://www.medico.com/,US - Non CA,US,Health / Biotech,2012-05-02,Medical advice,Mobile,Fund II
+650,A10711,Meitre,https://meitre.com/,US - CA,US,Retail / eCommerce,2018-05-22,Food,SaaS,Lucha II
+651,A10992,MeMeTales,http://memetales.com,US - Non CA,US,HR / Education,2011-10-01,Early childhood,Mobile,Fund I
+652,A12139,Memoir Health,https://memoirhealth.com,US - Non CA,US,Health / Biotech,2018-11-20,Healthcare Services & Telehealth,SaaS,Fund V
+653,A11862,MentorCloud,http://mentorcloud.com,US - CA,US,HR / Education,2015-11-04,Professional training,SaaS,Fund III
+654,A10995,Merchbar,http://merchbar.com,US - CA,US,Retail / eCommerce,2013-06-12,Fashion,On-demand / Delivery,Fund II
+656,A12144,MessageCube,https://www.message-cube.com/,US - CA,US,Media / Collaboration,2019-04-18,Social media,SaaS,Fund V
+657,A11863,Metadata,http://metadata.io,US - CA,US,Marketing / Customer Success,2015-10-30,Market intel,SaaS,Fund III
+658,A10996,MeUndies,http://meundies.com,US - CA,US,Retail / eCommerce,2015-02-19,Fashion,On-demand / Delivery,Fund III
+660,A11116,MightyText,http://mightytext.net,US - CA,US,IT / Security,2011-08-05,Developer Tools,Mobile,Fund I
+662,A10990,MileHigh Organics,http://milehighorganics.com,US - Non CA,US,Retail / eCommerce,2012-05-31,Food,On-demand / Delivery,Fund II
+663,A11006,Milk and Honey,http://milkandhoneyshoes.com,US - CA,US,Retail / eCommerce,2013-04-26,Fashion,On-demand / Delivery,Fund II
+664,A11007,Mindsnacks,http://mindsnacks.com,US - CA,US,HR / Education,2010-12-07,K-12,Mobile,Fund I
+665,A11654,Mira Financial,http://mirafinancial.com,US - Non CA,US,Fintech,2017-12-15,Insurance,SaaS,"Fund IV, Fintech"
+666,A11009,Miso Media,http://misomedia.com,US - CA,US,HR / Education,2011-01-10,College / Continuing education,Cloud / Content,Fund I
+667,A11482,Mitoo,http://mitoo.co,US - CA,US,Media / Collaboration,2012-06-26,Sports,SaaS,Fund II
+668,A11113,MixRank,http://mixrank.com,US - CA,US,Marketing / Customer Success,2011-09-23,Market intel,SaaS,Fund I
+669,A11014,Mobagel,http://mobagel.com,US - CA,US,IT / Security,2015-07-29,Developer Tools,SaaS,Fund III
+670,A11016,Mobile Action,http://mobileaction.co,US - CA,US,Marketing / Customer Success,2015-04-01,Market intel,SaaS,"Fund III, Mobile"
+671,A11018,Mobonics,http://mobonics.com,US - Non CA,US,Marketing / Customer Success,2011-12-31,CRM / Customer success,Mobile,Fund I
+672,A11019,Mocavo,http://mocavo.com,US - Non CA,US,Media / Collaboration,2011-08-15,Social media,SaaS,Fund I
+674,A11020,Modest,http://modest.com,US - Non CA,US,Media / Collaboration,2014-01-14,Collaboration,SaaS,Fund III
+675,A11220,Modus,https://www.modusclosing.com/,US - Non CA,US,Fintech,2018-05-31,Banking & Exchange,"TMT, Real Estate Technology",Fintech
+676,A11022,Mogotix,http://mogotix.com,US - CA,US,IT / Security,2010-08-02,IT tools,Mobile,Fund I
+677,A11023,Mogul,http://onmogul.com,US - Non CA,US,Fintech,2014-12-01,Financial research,Cloud / Content,Fund III
+678,A10437,MojiLala,http://mojilala.com,US - CA,US,Media / Collaboration,2016-11-30,Social media,Marketplace,Fund IV
+679,A11025,Mom Trusted,http://momtrusted.com,US - CA,US,HR / Education,2011-12-28,Early childhood,Marketplace,Fund II
+681,A11028,MonkeyLearn,http://monkeylearn.com,US - CA,US,IT / Security,2015-08-18,Developer tools,SaaS,Fund III
+682,A10564,Monogram,http://monogrammag.com,US - CA,US,Retail / eCommerce,2012-05-01,Fashion,On-demand / Delivery,Fund II
+683,A10253,Montainer,http://montainerhomes.com,US - Non CA,US,Real Estate / Transportation,2016-05-13,Realty / Rentals,Direct sale,Fund IV
+684,A11035,MoPix,http://getmopix.com,US - Non CA,US,Media / Collaboration,2012-01-13,Media production,SaaS,Fund I
+685,A11036,Motion Math,http://motionmathgames.com,US - CA,US,HR / Education,2011-04-29,K-12,Cloud / Content,Fund I
+686,A11040,Mountary,http://mountary.com,US - CA,US,Retail / eCommerce,2014-11-20,Consumer eCom,On-demand / Delivery,Fund III
+687,A12106,Moveha,http://moveha.com,US - CA,US,Real Estate / Transportation,2016-01-12,Realty / Rentals,O2O,Fund III
+688,A11041,Moveline,http://moveline.com,US - Non CA,US,Real Estate / Transportation,2012-10-22,Logistics,O2O,Fund II
+689,A10186,Movielala,http://www.movielala.com/,US - CA,US,Media / Collaboration,2016-08-11,Social media,"TMT, SaaS, Marketing Tech",Istanbul
+690,A11043,mxHero,http://mxhero.com,US - CA,US,IT / Security,2015-09-30,IT tools,SaaS,Fund III
+691,A10043,My Options,http://www.myoptions.org/,US - Non CA,US,HR / Education,2015-08-11,College / Continuing education,SaaS,Fund III
+692,A10824,Mycroft AI,http://mycroft.ai,US - Non CA,US,IT / Security,2017-02-17,Productivity,Mobile,Fund IV
+693,A11046,MyDoorman,http://doorman.co,US - Non CA,US,Real Estate / Transportation,2014-01-27,Logistics,On-demand / Delivery,Fund III
+694,A11049,MyHealthTeams,http://myhealthteams.com,US - CA,US,Health / Biotech,2012-06-26,Patient services,Cloud / Content,Fund II
+695,A10986,MyLife,https://www.stopbreathethink.com/,US - CA,US,Health / Biotech,2017-05-18,Medical advice,Mobile,Fund IV
+696,A11828,mynurse.ai,http://salusive.com/,US - CA,US,Health / Biotech,2018-07-08,Healthcare ERP,SaaS,Falcons
+697,A10255,Mystery Science,https://mysteryscience.com/,US - CA,US,Media / Collaboration,2012-11-09,Social,SaaS,Fund II
+698,A11053,MyStockIQ,http://mystockiq.com,US - CA,US,Fintech,2015-07-16,Lending / Investments,SaaS,Fund III
+699,A10988,MyTime,http://mytime.com,US - CA,US,Retail / eCommerce,2012-05-07,Consumer services,O2O,Fund II
+700,A12279,Nanno,https://www.nanno.com,US - Non CA,US,HR / Education,2019-06-24,Early childhood,Marketplace,Fund V
+701,A12282,"Nanogrid,NanoGrid Technologies",nanogrid.tech,US - CA,US,Smart Cities / Industrial,2019-06-24,Energy,"TMT, CleanTech, Big Data, Artificial Intelligence & Machine Learning",Fund V
+702,A10449,Nativetap.io,https://nativetap.io/,US - CA,US,IT / Security,2014-11-24,Productivity,Mobile,Fund III
+703,A11062,Neighbor.ly,https://neighborly.com/,US - CA,US,Fintech,2014-08-27,Lending / Investments,Marketplace,Fund III
+704,A11702,Nestready,https://www.nestready.co/,US - Non CA,US,Real Estate / Transportation,2017-06-09,Property management,On-demand / Delivery,Canada
+705,A11064,Netplenish,http://shopgeniusapp.com,US - CA,US,Retail / eCommerce,2011-04-27,Consumer services,SaaS,Fund I
+706,A11065,Nettle,http://nettle.com,US - CA,US,Media / Collaboration,2011-04-29,Entertainment,O2O,Fund I
+707,A11079,Networked Blogs,http://www.networkedblogs.com/,US - CA,US,Marketing / Customer Success,2011-02-10,Adtech / Martech,SaaS,Fund I
+708,A10102,NewHound,https://www.newhound.com/,US - CA,US,Marketing / Customer Success,2011-10-05,Adtech / Martech,Mobile,"Annex, Fund I"
+709,A11227,Next Play,http://nextplay.ai,US - CA,US,HR / Education,2017-09-19,Personnel / Benefits,SaaS,Fund IV
+710,A11073,Nextravel,http://nextravel.com,US - Non CA,US,Real Estate / Transportation,2015-04-14,Travel / Hospitality,O2O,Fund III
+711,A10241,Nexus AI,https://nexusai.com/,US - Non CA,US,Media / Collaboration,2016-05-05,Media production,On-demand / Delivery,Fund IV
+712,A10265,Nice,http://getnice.com,US - Non CA,US,Marketing / Customer Success,2016-05-17,Adtech / Martech,Marketplace,Fund IV
+713,A10805,Nitrous,http://nitrous.io,US - CA,US,IT / Security,2012-09-23,Developer tools,SaaS,Fund II
+714,A11081,Nodal Industries,http://nodalsecurity.com,US - CA,US,IT / Security,2015-06-25,Security,SaaS,Fund III
+715,A10337,Node.io,http://node.io,US - CA,US,Marketing / Customer Success,2014-02-10,Market intel,SaaS,Fund III
+716,A11082,Nomiku,http://nomiku.com,US - CA,US,Retail / eCommerce,2012-12-19,Food,Direct sale,Fund II
+717,A10540,Nonnatech,http://nonnatech.com,US - Non CA,US,Health / Biotech,2016-10-26,Health monitoring,Direct sale,Fund IV
+718,A10351,Noodle Partners,http://noodle-partners.com,US - Non CA,US,HR / Education,2016-09-26,Education ERP,Cloud / Content,Fund IV
+719,A11083,NoRedInk,http://noredink.com,US - CA,US,HR / Education,2012-12-24,K-12,Cloud / Content,Fund II
+721,A11086,Ntensify,http://ntensify.com,US - CA,US,HR / Education,2015-01-28,Professional services,On-demand / Delivery,Fund III
+722,A10771,Numina,http://cty.io,US - Non CA,US,Smart Cities / Industrial,2017-03-09,Govtech,SaaS,Fund IV
+723,A12108,nurseVersity,http://nurseversity.com,US - Non CA,US,HR / Education,2016-03-25,Professional training,SaaS,Fund IV
+724,A11089,Nuve,http://nuve.us,US - Non CA,US,IT / Security,2015-04-02,Security,Direct sale,Fund III
+725,A11091,Nuzzel,http://nuzzel.com,US - CA,US,Media / Collaboration,2012-10-22,Social media,Cloud / Content,Fund II
+726,A10543,O.school,http://www.o.school/,US - CA,US,Health / Biotech,2016-11-02,Medical advice,On-demand / Delivery,Fund IV
+727,A11142,Oasis Labs,https://www.oasislabs.com/,US - CA,US,IT / Security,2018-06-07,Developer Tools,Token,Mobile
+728,A11094,Office Luv,http://officeluv.com,US - Non CA,US,Retail / eCommerce,2015-05-27,Procurement,On-demand / Delivery,Fund III
+729,A11095,Ohmconnect,http://ohmconnect.com,US - CA,US,Smart Cities / Industrial,2014-01-14,Energy,SaaS,Fund III
+730,A10056,OhmniLabs,http://www.ohmnilabs.com/,US - CA,US,IT / Security,2016-04-01,IT tools,Direct sale,"Durians I, Mobile"
+731,A11097,OLSET,http://olset.com,US - CA,US,Real Estate / Transportation,2013-10-24,Travel / Hospitality,Direct service,Fund III
+732,A12407,Omnitron Sensors,https://www.omnitronsensors.com/,US - CA,US,Real Estate / Transportation,2020-01-29,Automotive,"Robotics and Drones, Autonomous cars, Advanced Manufacturing",Fund V
+733,A10053,Onclusive,https://onclusive.com/,US - CA,US,Marketing / Customer Success,2012-02-17,Adtech / Martech,SaaS,Fund I
+734,A11189,ONDiGO,http://ondigo.me/,US - CA,US,Marketing / Customer Success,2017-07-05,Marketing & Sales,SaaS,Fund IV
+735,A11851,One University Networks,http://oneuni.co,US - CA,US,HR / Education,2015-11-17,College / Continuing education,Mobile,Fund III
+736,A11105,Oneforty,http://oneforty.com,US - Non CA,US,Retail / eCommerce,2010-04-01,Procurement,Cloud / Content,Fund I
+737,A10369,Onekloud,http://onekloud.com,US - CA,US,Fintech,2016-08-30,Accounting / Audit,SaaS,Fund IV
+738,A11107,OneSchool,http://oneschool.com,US - CA,US,HR / Education,2011-10-01,Education ERP,Mobile,Fund I
+739,A11108,OneSpot,http://onespot.com,US - Non CA,US,Marketing / Customer Success,2012-08-21,Adtech / Martech,SaaS,Fund II
+740,A11111,OneTrueFan,http://onetruefan.com,US - CA,US,Marketing / Customer Success,2010-09-23,Market intel,SaaS,Fund I
+741,A10371,OnFarm,http://onfarm.com,US - CA,US,Smart Cities / Industrial,2016-09-02,Agtech,SaaS,Fund IV
+742,A11115,OpenAir Publishing,http://openairpub.com,US - Non CA,US,HR / Education,2012-05-02,College / Continuing education,Mobile,Fund II
+743,A12109,OpenSponsorship,http://opensponsorship.com,US - Non CA,US,Marketing / Customer Success,2016-04-22,Adtech / Martech,Marketplace,Fund IV
+744,A11202,OpenUp,http://open-up.io,US - Non CA,US,Marketing / Customer Success,2017-08-08,Market intel,SaaS,Fund IV
+745,A11117,Order Mapper,http://ordermapper.com,US - Non CA,US,Real Estate / Transportation,2010-12-10,Logistics,O2O,Fund I
+746,A10372,OrderCircle,http://ordercircle.com,US - CA,US,Retail / eCommerce,2016-09-12,Procurement,On-demand / Delivery,Fund IV
+747,A10946,Orderly Health,http://orderlyhealth.com,US - Non CA,US,Health / Biotech,2017-04-12,Patient services,SaaS,Fund IV
+748,A11119,Ordoro,http://ordoro.com,US - Non CA,US,Real Estate / Transportation,2012-08-16,Logistics,On-demand / Delivery,Fund II
+749,A11122,Ordrx,http://www.ordrx.com,US - Non CA,US,Fintech,2011-12-20,Payments,SaaS,Fund I
+750,A10165,Original Stitch,https://originalstitch.com/,US - CA,US,Retail / eCommerce,2016-05-13,Fashion,Direct sale,Mobile
+751,A11127,Otherinbox,http://otherinbox.com,US - Non CA,US,IT / Security,2010-08-06,Productivity,SaaS,Fund I
+752,A10706,Otter,http://www.aisense.com/,US - CA,US,IT / Security,2016-09-09,Productivity,SaaS,Mobile
+753,A10375,Outsite,http://outsite.co,US - CA,US,Real Estate / Transportation,2016-08-29,Coworking,Direct service,Fund IV
+754,A12145,Ovation,http://www.ovationup.com,US - Non CA,US,Marketing / Customer Success,2018-12-07,CRM / Customer success,SaaS,Fund V
+755,A11634,Owl.ai,http://owl.ai/,US - CA,US,HR / Education,2017-10-17,Legal,SaaS,Mobile
+756,A11367,OwnLocal,http://ownlocal.com,US - Non CA,US,Marketing / Customer Success,2011-08-29,Adtech / Martech,SaaS,"Annex,Fund I"
+757,A12206,Oxygen,https://getoxygen.com/,US - CA,US,Fintech,2019-03-04,Credit & Lending,FinTech,Falcons
+758,A11136,Pacifica Labs,http://thinkpacifica.com,US - CA,US,Health / Biotech,2015-08-24,Medical advice,Mobile,Fund III
+759,A12060,Pack,http://packdog.com,US - CA,US,Retail / eCommerce,2015-10-16,Pets,SaaS,Mobile
+760,A10269,Pair,http://pair3d.com,US - Non CA,US,Real Estate / Transportation,2016-05-26,Property management,Mobile,Fund IV
+761,A11604,Pana,http://pana.com,US - Non CA,US,Real Estate / Transportation,2015-07-13,"""Travel, Leisure & Tourism""",O2O,Fund III
+762,A11140,Pangea,http://getpangea.com,US - Non CA,US,IT / Security,2014-06-10,IT tools,Mobile,Fund III
+763,A11143,Pantry,http://pantryretail.com,US - CA,US,Retail / eCommerce,2013-09-24,Food,O2O,Fund III
+765,A11148,Parenthoods,http://parenthoods.co,US - CA,US,HR / Education,2014-11-20,Early childhood,Cloud / Content,Fund III
+766,A11849,Paro,http://paro.io,US - Non CA,US,Fintech,2015-10-01,Finance & Accounting,Marketplace,Fund III
+767,A11149,Partender,http://partender.com,US - CA,US,Retail / eCommerce,2014-01-02,Procurement,SaaS,Fund III
+768,A10468,Parting,https://www.parting.com/,US - CA,US,Retail / eCommerce,2016-10-26,Consumer services,O2O,Fund IV
+769,A11477,Partnered,http://partnered.com,US - CA,US,Marketing / Customer Success,2013-02-27,CRM / Customer success,SaaS,Fund II
+770,A10517,Paubox,http://paubox.com,US - CA,US,Health / Biotech,2016-10-12,Healthcare ERP,SaaS,Fund IV
+772,A10493,Pay By Group,http://paybygroup.com,US - CA,US,Fintech,2011-11-25,Payments,SaaS,"Annex,Fund I"
+773,A11147,PayDragon,http://paydragon.com,US - CA,US,Retail / eCommerce,2013-05-06,Food,O2O,Fund II
+775,A11391,PayJoy,https://www.payjoy.com/,US - CA,US,Fintech,2017-06-23,Lending / Investments,Mobile,Vietnam
+776,A11158,Payvment,http://payvment.com,US - CA,US,IT / Security,2010-08-13,Home & Personal,SaaS,Fund I
+777,A11032,Pellego,http://pellego.com,US - Non CA,US,Fintech,2017-06-16,Lending / Investments,SaaS,Fund IV
+779,A11165,Penrose Studios,http://penrosestudios.com,US - CA,US,Media / Collaboration,2015-09-25,Entertainment,Cloud / Content,"Fund III, Mobile"
+781,A12111,Phenom,http://phenom.co,US - Non CA,US,Media / Collaboration,2016-06-29,Sports,Mobile,Fund IV
+782,A10712,Picasso Labs,http://www.picassolabs.com/,US - Non CA,US,Retail / eCommerce,2013-07-30,Consumer eCom,Marketplace,Fund II
+783,A10467,Pick1,http://pick1.com,US - CA,US,Marketing / Customer Success,2013-01-10,Market intel,SaaS,Fund II
+784,A11170,PicPlum,http://picplum.com,US - CA,US,Media / Collaboration,2011-09-18,Media production,On-demand / Delivery,Fund I
+785,A10486,PICT,http://pict.com,US - CA,US,Media / Collaboration,2012-06-12,Media production,SaaS,Fund II
+786,A11175,Pigeonly,http://pigeon.ly,US - Non CA,US,IT / Security,2015-04-29,IT tools,On-demand / Delivery,Fund III
+787,A12149,Pilleve,http://pilleve.com/,US - Non CA,US,Health / Biotech,2019-02-05,Patient services,Direct sale,"Falcons, Fund V"
+788,A12112,Pilotly,http://pilot.ly,US - CA,US,Marketing / Customer Success,2016-02-26,Market intel,SaaS,Fund IV
+789,A11180,PingPad,https://pingpad.net/,US - CA,US,Media / Collaboration,2014-08-26,Collaboration,SaaS,Fund III
+790,A11865,Piper,http://playpiper.com,US - CA,US,Retail / eCommerce,2015-11-12,Children / Toys,On-demand / Delivery,"Fund III, Mobile"
+791,A11184,Pique,http://www.pique.nyc/,US - Non CA,US,Retail / eCommerce,2015-08-03,Fashion,On-demand / Delivery,Fund III
+792,A11420,Pixel Labs,http://www.pixellabs.io/,US - CA,US,Media / Collaboration,2016-02-05,Journalism / Blogs,Cloud / Content,Fund III
+793,A10143,Pixelfish,http://pixelfish.com,US - CA,US,Marketing / Customer Success,2011-04-15,Adtech / Martech,Direct service,"Annex, Fund I"
+794,A11187,PixOwl,http://pixowl.com,US - CA,US,Media / Collaboration,2012-01-24,Gaming / eSports,Mobile,Fund I
+795,A11132,Placer,http://www.placer.io/,US - CA,US,Marketing / Customer Success,2017-02-14,Market intel,SaaS,Mobile
+796,A11191,Plancast,http://plancast.com,US - CA,US,Retail / eCommerce,2010-03-01,Events,Marketplace,Fund I
+797,A11194,PlanGrid,http://plangrid.com,US - CA,US,Real Estate / Transportation,2012-04-01,Construction,SaaS,Fund II
+799,A11896,Plate iQ,http://plateiq.com,US - CA,US,Fintech,2015-10-19,Accounting / Audit,SaaS,Fund III
+800,A11196,PlateJoy,http://platejoy.com,US - Non CA,US,Retail / eCommerce,2013-10-02,Consumer Wellness,On-demand / Delivery,Fund III
+801,A11197,Platzi,http://platzi.com,US - CA,US,HR / Education,2015-04-03,Professional training,Cloud / Content,Fund III
+804,A10398,Plot,https://plot.solutions/,US - Non CA,US,Real Estate / Transportation,2016-10-27,Logistics,SaaS,Fund IV
+805,A11030,Pluma,http://pluma.co,US - CA,US,HR / Education,2017-06-16,Job & Career Service,SaaS,Fund IV
+806,A10391,Pluto AI,http://plutoai.com,US - CA,US,Smart Cities / Industrial,2016-11-09,Envirotech,SaaS,Fund IV
+807,A12384,Pluto Brand,https://plutopillow.com/,US - CA,US,Retail / eCommerce,2019-12-18,Consumer Wellness,Direct sale,Fund V
+808,A11204,Plympton Rooster,http://www.plympton.com/,US - CA,US,Media / Collaboration,2014-07-02,Entertainment,Cloud / Content,Fund III
+809,A12280,Podcorn,https://www.podcorn.fm/,US - CA,US,Media / Collaboration,2019-06-24,Media Content,Marketplace,"Fund V,Kimchi"
+810,A11209,Pogoseat,https://pogoseat.com/,US - CA,US,Media / Collaboration,2013-03-12,Sports,O2O,Fund II
+811,A11586,Polyup,http://www.polyup.com/,US - CA,US,HR / Education,2018-03-07,K-12,SaaS,Falcons
+812,A10832,Pongalo,http://www.pongalo.com/,US - Non CA,US,Media / Collaboration,2017-03-07,Entertainment,Cloud / Content,Fund IV
+813,A11211,Pop Up Archive,http://popuparchive.com,US - CA,US,Media / Collaboration,2014-04-16,Media production,SaaS,Fund III
+814,A10845,Pop.in,https://pop.in/,US - CA,US,Media / Collaboration,2017-03-09,Entertainment,SaaS,Fund IV
+815,A11212,PopBasic,http://popbasic.com,US - CA,US,Retail / eCommerce,2013-10-24,Fashion,On-demand / Delivery,Fund III
+816,A11237,Populr.me,http://populr.me,US - Non CA,US,IT / Security,2013-11-18,Developer Tools,SaaS,Fund III
+817,A11219,Postling,http://postling.com,US - Non CA,US,Media / Collaboration,2010-04-02,Social media,SaaS,Fund I
+818,A11221,PostRocket,http://redeemr.com,US - CA,US,Marketing / Customer Success,2011-10-01,Market intel,SaaS,Fund I
+819,A11223,Powercore,http://powercore.io,US - CA,US,HR / Education,2015-04-08,Professional services,O2O,"Fund III, Mobile"
+820,A11224,Prayas Analytics,http://prayasanalytics.com,US - Non CA,US,Marketing / Customer Success,2015-09-14,Market intel,SaaS,Fund III
+821,A11552,PredictionIO,http://prediction.io,US - CA,US,IT / Security,2014-02-14,Developer tools,SaaS,Fund III
+822,A12064,Presence,https://www.presence.io/,US - Non CA,US,HR / Education,2016-04-11,Education ERP,SaaS,Mobile
+823,A11226,Pressable,http://www.pressable.com/,US - Non CA,US,IT / Security,2013-05-31,IT tools,Cloud / Content,Fund II
+824,A10494,Presto,http://www.presto.com/,US - CA,US,Fintech,2010-09-14,Payments,Direct sale,Fund I
+825,A10935,Preteckt,http://preteckt.com,US - Non CA,US,Real Estate / Transportation,2017-04-07,Autotech,SaaS,Fund IV
+826,A10020,Price.com,http://price.com/,US - CA,US,Retail / eCommerce,2016-03-30,Home & Personal,SaaS,Fund IV
+827,A10336,Primeloop,http://primeloop.com,US - Non CA,US,Marketing / Customer Success,2014-01-02,Adtech / Martech,SaaS,Fund III
+828,A10377,Printify,http://printifyapp.com,US - Non CA,US,Retail / eCommerce,2016-09-08,Supply Chain & Logistics,O2O,Fund IV
+829,A11233,Privy,http://privy.com,US - Non CA,US,Marketing / Customer Success,2012-09-20,Market intel,SaaS,Fund II
+830,A11234,Produce Pay,http://producepay.com,US - CA,US,Fintech,2015-05-01,Payments,SaaS,Fund III
+831,A11793,ProductBio,http://productbio.com,US - CA,US,Real Estate / Transportation,2014-07-30,Logistics,SaaS,Fund III
+832,A12012,Productfy,https://www.productfy.io/,US - CA,US,Fintech,2018-07-05,Financial infrastructure,SaaS,Vietnam
+833,A11236,Project io,http://www.projectio.co/,US - CA,US,Media / Collaboration,2015-08-21,Media production,SaaS,Fund III
+834,A11627,Project Ocean,http://transcriptic.com,US - CA,US,Health / Biotech,2012-07-20,Drug Discovery & Delivery,Direct service,Fund II
+835,A11037,Prolaera,http://prolaera.com,US - Non CA,US,HR / Education,2017-06-22,Professional training,Cloud / Content,Fund IV
+836,A11239,Promolta,http://promolta.com,US - CA,US,Marketing / Customer Success,2014-08-01,Adtech / Martech,SaaS,Fund III
+837,A11241,ProSky,http://prosky.co,US - CA,US,HR / Education,2014-11-07,Professional training,SaaS,Fund III
+838,A11594,Proven,http://proven.com,US - Non CA,US,HR / Education,2011-02-16,Recruiting,SaaS,Fund I
+839,A10483,Prynt,http://www.pryntcases.com/,US - CA,US,Retail / eCommerce,2016-08-30,Consumer eCom,Direct sale,"Fund IV, Mobile"
+840,A11244,PTA Networks,http://thepta.com,US - Non CA,US,Media / Collaboration,2014-04-07,Entertainment,Cloud / Content,Fund III
+841,A11411,Public Goods,http://publicgoods.com,US - Non CA,US,Retail / eCommerce,2017-12-06,Beauty,On-demand / Delivery,Fund IV
+842,A11245,PublikDemand,http://publikdemand.com,US - Non CA,US,Smart Cities / Industrial,2012-05-02,Civictech,SaaS,Fund II
+843,A11246,Publishizer,http://publishizer.com,US - CA,US,Media / Collaboration,2015-07-29,Media production,Marketplace,Fund III
+844,A11616,PullString,http://www.pullstring.com/,US - CA,US,Retail / eCommerce,2011-10-07,Collaboration,Direct sale,Fund I
+845,A11247,Punchd,http://getpunchd.com,US - CA,US,Marketing / Customer Success,2011-03-17,CRM / Customer success,O2O,Fund I
+846,A11866,PupBox,http://pupbox.com,US - CA,US,Retail / eCommerce,2015-10-28,Pets,On-demand / Delivery,Fund III
+847,A11827,Purple Go,https://www.purplego.co/,US - CA,US,Marketing / Customer Success,2018-04-24,CRM / Customer success,SaaS,Vietnam
+848,A10836,Purple Squirrel,http://purplesquirrel.io,US - CA,US,HR / Education,2017-02-22,Recruiting,SaaS,Fund IV
+849,A11250,Puzzlium,http://puzzlium.com,US - CA,US,Media / Collaboration,2014-04-16,Social media,SaaS,Fund III
+850,A10609,Pvgna,https://pvgna.com/,US - CA,US,Media / Collaboration,2016-09-13,Gaming / eSports,SaaS,Istanbul
+851,A11256,Qualaroo,http://qualaroo.com,US - Non CA,US,Marketing / Customer Success,2010-11-07,Market intel,SaaS,Fund I
+852,A11026,Qualsights,https://www.qualsights.com/,US - Non CA,US,IT / Security,2017-06-16,IT tools,SaaS,Fund IV
+853,A11257,Quantified Care,http://quantifiedcare.com,US - Non CA,US,Health / Biotech,2015-08-26,Healthcare ERP,SaaS,Fund III
+854,A11867,QueueDr,http://queuedr.com,US - CA,US,Health / Biotech,2015-11-06,Healthcare ERP,SaaS,Fund III
+855,A11868,Quicklegal,http://quicklegal.com,US - CA,US,HR / Education,2015-12-01,Legal services,On-demand / Delivery,Fund III
+856,A12115,Qwil,http://qwil.co,US - CA,US,HR / Education,2016-04-07,Personnel / Benefits,SaaS,"Fund IV, Fintech"
+857,A11265,Rachio,http://rachio.com,US - Non CA,US,Smart Cities / Industrial,2014-10-31,Envirotech,Direct sale,Fund III
+858,A10093,Rain,http://rainlocal.com,US - CA,US,Marketing / Customer Success,2014-07-17,Adtech / Martech,SaaS,Fund III
+859,A10155,Raisy,http://raisy.org,US - CA,US,Fintech,2014-01-26,Grants / Donations,SaaS,Fund III
+860,A10905,Rakam,http://rakam.io,"US - CA, ME & Africa",US,IT / Security,2017-09-20,Productivity,SaaS,Istanbul
+861,A10276,Rank Science,http://www.ranksci.com/,US - CA,US,Marketing / Customer Success,2016-05-19,Market intel,SaaS,Fund IV
+862,A11269,Rankpeek,http://rankpeek.com,US - CA,US,Retail / eCommerce,2015-06-12,Consumer services,Cloud / Content,Fund III
+863,A11243,Rapa,http://rapa.fi,US - CA,US,Fintech,2017-09-25,Lending / Investments,SaaS,"Fund IV, Fintech"
+864,A11924,Rapchat,http://rapchat.me,US - Non CA,US,Media / Collaboration,2015-11-11,Media production,Mobile,Fund III
+865,A11270,Rapportive,http://rapportive.com,US - CA,US,Marketing / Customer Success,2010-08-05,CRM / Customer success,SaaS,Fund I
+866,A11272,Rapt.FM,http://rapt.fm,US - Non CA,US,Media / Collaboration,2014-03-18,Media production,Mobile,Fund III
+867,A10654,Raxar,http://raxar.com,US - Non CA,US,Smart Cities / Industrial,2017-04-12,Govtech,SaaS,"Fund IV, Istanbul"
+868,A11278,Ready For Zero,http://readyforzero.com,US - CA,US,Fintech,2010-09-27,Financial research,SaaS,Fund I
+869,A11004,RealAtom,http://realatom.com,US - Non CA,US,Fintech,2017-06-06,Lending / Investments,SaaS,Fund IV
+870,A11279,Realiteer,http://realiteer.com,US - CA,US,Health / Biotech,2015-08-05,Fitness,Mobile,Fund III
+871,A11280,Realty Shares,http://realtyshares.com,US - CA,US,Fintech,2013-10-31,Lending / Investments,SaaS,Fund III
+872,A11281,ReClip.it,http://reclipit.com,US - Non CA,US,Marketing / Customer Success,2012-05-18,Adtech / Martech,O2O,Fund II
+873,A11282,Recurly,http://recurly.com,US - CA,US,IT / Security,2010-08-02,Finance & Accounting,SaaS,Fund I
+874,A11285,Red Tricycle,http://redtri.com,US - CA,US,Retail / eCommerce,2012-05-10,Children / Toys,Cloud / Content,Fund II
+875,A11287,Reddit,http://reddit.com,US - CA,US,Media / Collaboration,2013-02-01,Social,SaaS,Fund II
+876,A11290,Redesigner,http://redesigner.com,US - CA,US,IT / Security,2011-09-15,Developer Tools,SaaS,Fund I
+878,A11292,Reesio,http://reesio.com,US - CA,US,Real Estate / Transportation,2013-04-24,Realty / Rentals,SaaS,Fund II
+879,A11293,ReferFit,http://referfit.com,US - CA,US,Health / Biotech,2014-05-02,Fitness,SaaS,Fund III
+880,A11814,Reflect,http://www.joinreflect.com/,US - CA,US,Health / Biotech,2018-05-08,Medical advice,On-demand / Delivery,Vietnam
+881,A10740,Regard,http://www.regardinsurance.com/,US - Non CA,US,Fintech,2017-03-03,Insurance,SaaS,Fund IV
+882,A10429,Relevant Mobile,http://relevantmobile.com/new/,US - Non CA,US,Marketing / Customer Success,2011-10-06,CRM / Customer success,O2O,Fund I
+883,A11253,Relevvant,http://relevvant.com,US - CA,US,Marketing / Customer Success,2010-12-08,Market intel,SaaS,Fund I
+884,A11336,Remark,http://remarkhq.com,US - Non CA,US,Media / Collaboration,2014-01-27,Media production,SaaS,Fund III
+885,A11304,Remind,https://www.remind.com/,US - CA,US,HR / Education,2012-05-04,K-12,Mobile,Fund II
+886,A11306,Remix,http://getremix.com,US - CA,US,Smart Cities / Industrial,2015-03-30,Government & Smart Cities,SaaS,Fund III
+887,A11057,Remoov,http://remoovit.com,US - CA,US,Retail / eCommerce,2014-08-14,Consumer eCom,Marketplace,Fund III
+888,A12274,Renaissance,https://renaissance.app,US - CA,US,Media / Collaboration,2019-07-11,Media production,SaaS,Fund V
+889,A12383,Renetec,https://www.renetec.io/,US - CA,US,IT / Security,2019-12-18,Developer Tools,SaaS,Fund V
+890,A11312,RepublicProject,http://republicproject.com,US - Non CA,US,Marketing / Customer Success,2012-08-09,Adtech / Martech,SaaS,Fund II
+891,A12271,Resonado,http://www.resonado.com,US - Non CA,US,Media / Collaboration,2019-07-16,Entertainment,AudioTech,"Fund V,Fund IV"
+892,A12116,Resource,https://www.resource.io/,US - CA,US,HR / Education,2016-03-25,Recruiting,SaaS,Fund IV
+893,A11315,Retailigence,http://retailigence.com,US - CA,US,Marketing / Customer Success,2010-08-05,Market intel,SaaS,Fund I
+895,A11446,Rever Moto,http://rever.co,US - Non CA,US,Media / Collaboration,2017-11-16,Social,Cloud / Content,Fund IV
+896,A11316,Revivn,https://www.revivn.com/,US - Non CA,US,Fintech,2014-08-21,Grants & Donations,Marketplace,Fund III
+897,A11317,Revnetics,http://revnetics.com,US - CA,US,Real Estate / Transportation,2010-08-04,Logistics,Mobile,Fund I
+898,A10838,Rex Animal Health,http://www.rexanimalhealth.com/,US - Non CA,US,Smart Cities / Industrial,2016-07-15,Agtech,SaaS,Fund IV
+899,A11320,RidePal,http://ridepal.com,US - CA,US,Real Estate / Transportation,2012-05-12,Ridesharing / Vehicle rental,On-demand / Delivery,Fund II
+900,A12117,Riide,http://riide.com,US - Non CA,US,Real Estate / Transportation,2016-03-31,Vehicle dealer,Direct sale,Fund IV
+901,A12118,Rize,http://rizeup.io,US - Non CA,US,Fintech,2016-02-26,Lending / Investments,Mobile,Fund IV
+902,A10442,RocketBolt,http://rocketbolt.com,US - CA,US,Marketing / Customer Success,2016-11-21,Market intel,SaaS,Fund IV
+903,A10382,Roho,http://roho.io,US - Non CA,US,Media / Collaboration,2016-09-09,Journalism / Blogs,Cloud / Content,Fund IV
+904,A11330,Roost,http://roost.com,US - Non CA,US,Real Estate / Transportation,2015-02-11,Realty / Rentals,O2O,Fund III
+905,A10782,Runnable,http://runnable.com,US - CA,US,HR / Education,2012-06-23,K-12,Direct service,Fund II
+908,A10452,Sabr.io,http://sabr.io,US - Non CA,US,Smart Cities / Industrial,2015-06-23,Govtech,SaaS,Fund III
+909,A10989,SafeShepherd,http://safeshepherd.com,US - Non CA,US,IT / Security,2011-10-27,Security,SaaS,Fund I
+910,A11347,Saint Harridan,http://saintharridan.com,US - CA,US,Retail / eCommerce,2015-10-14,Fashion,On-demand / Delivery,Fund III
+911,A11349,Sales Beach,http://salesbeach.com,US - CA,US,Marketing / Customer Success,2013-10-23,Market intel,SaaS,Fund III
+912,A11350,Salido,http://salido.com,US - Non CA,US,IT / Security,2014-08-13,ERP,SaaS,Fund III
+913,A11352,Sandstorm Labs,http://sandstorm.fm,US - CA,US,Retail / eCommerce,2014-09-02,Events,SaaS,Fund III
+914,A10145,Saucey,http://sauceyapp.com,US - CA,US,Retail / eCommerce,2016-04-27,Home & Personal,On-demand / Delivery,Fund IV
+916,A11357,Saygent,http://saygent.com,US - CA,US,Marketing / Customer Success,2010-08-03,Market intel,SaaS,Fund I
+917,A10474,SayMore,http://saymore.io,US - Non CA,US,Media / Collaboration,2015-08-11,Social media,Mobile,Fund III
+918,A11358,ScentBird,http://scentbird.com,US - Non CA,US,Retail / eCommerce,2015-04-29,Beauty,On-demand / Delivery,Fund III
+919,A10469,Scopio,http://scop.io,US - Non CA,US,Retail / eCommerce,2016-11-22,Media Content,Marketplace,Fund IV
+920,A10464,ScoreData,http://scoredata.com,US - CA,US,Fintech,2016-11-28,Financial infrastructure,SaaS,Fund IV
+921,A11360,Scoutzie,http://scoutzie.com,US - CA,US,IT / Security,2012-05-03,IT tools,Marketplace,Fund II
+922,A10096,SearchMan,http://searchman.com,US - Non CA,US,Marketing / Customer Success,2011-06-28,Market intel,Mobile,Fund I
+923,A11922,Seed CX,http://seedcx.com,US - Non CA,US,Fintech,2015-10-09,Lending / Investments,SaaS,Fund III
+924,A10213,Seeloz,http://www.seeloz.com/,US - Non CA,US,Real Estate / Transportation,2018-03-19,Logistics,SaaS,Falcons
+925,A11371,SendGrid,http://sendgrid.com,US - Non CA,US,IT / Security,2010-04-20,IT tools,SaaS,Fund I
+926,A10779,SendHub,http://sendhub.com,US - CA,US,IT / Security,2012-04-02,Developer Tools,Mobile,Fund II
+928,A11172,Sentieo,https://sentieo.com/,US - CA,US,Fintech,2017-06-02,Financial research,SaaS,Fintech
+929,A11374,Sentry,https://sentry.io/,US - CA,US,IT / Security,2015-06-25,Developer Tools,SaaS,Fund III
+930,A11375,Senzari,http://senzari.com,US - Non CA,US,IT / Security,2012-05-09,Developer tools,SaaS,Fund II
+931,A10453,SericaPay,http://sericapay.com,US - CA,US,Fintech,2015-09-01,Payments,Token,Fund III
+932,A12353,ShardSecure,https://www.shardsecure.com/,US - Non CA,US,IT / Security,2019-11-22,Security & Storage,Cloud / Content,Fund V
+933,A11382,Shareaholic,http://shareaholic.com,US - Non CA,US,Marketing / Customer Success,2011-09-15,Adtech / Martech,SaaS,Fund I
+934,A11691,Sharebloc,http://sharebloc.com,US - CA,US,Media / Collaboration,2013-03-29,Social media,Cloud / Content,Fund II
+935,A11383,ShareRoot,http://shareroot.co,US - CA,US,Marketing / Customer Success,2014-02-07,Adtech / Martech,SaaS,Fund III
+936,A11217,She's Well,https://sheswell.app/,US - CA,US,Health / Biotech,2017-08-22,Health monitoring,Mobile,Fund IV
+937,A10173,ShearShare,http://shearshare.com,US - Non CA,US,Retail / eCommerce,2016-11-17,Beauty,O2O,Fund IV
+938,A12542,Shiplyst,https://www.shiplyst.com/,US - CA,US,Real Estate / Transportation,2020-10-22,Supply Chain & Logistics,On-demand / Delivery,Fund V
+939,A11213,Shippo,http://goshippo.com,US - CA,US,Real Estate / Transportation,2014-01-27,Supply Chain & Logistics,SaaS,Fund III
+940,A12085,Shopintoit,http://shopinterest.co,US - CA,US,Marketing / Customer Success,2013-01-13,Market intel,SaaS,Lucha I
+941,A10839,ShopLook,https://www.shoplook.io/,US - CA,US,Retail / eCommerce,2018-05-15,Fashion,Marketplace,Falcons
+942,A10025,Shoppable,http://shoppable.com,US - Non CA,US,Fintech,2011-10-01,Payments,SaaS,Fund I
+943,A11393,Shopseen,http://shopseen.com,US - CA,US,IT / Security,2013-09-25,IT tools,SaaS,Fund III
+944,A11394,ShopTouch,http://shoptouch.com,US - CA,US,IT / Security,2012-07-12,IT tools,Mobile,Fund II
+945,A11397,"Shots Mobile, Shots Studios",http://shots.com,US - CA,US,Media / Collaboration,2014-08-12,Social media,SaaS,Fund III
+946,A10390,Sickweather,http://sickweather.com,US - Non CA,US,Health / Biotech,2016-11-01,Medical advice,Mobile,Fund IV
+947,A11398,Sidelines,http://sidelinesapp.com,US - CA,US,Marketing / Customer Success,2013-10-29,Adtech / Martech,SaaS,Fund III
+948,A10286,SidelineSwap,http://sidelineswap.com,US - Non CA,US,Retail / eCommerce,2016-10-25,Fashion,Marketplace,Fund IV
+949,A10293,Siftery,https://siftery.com/,US - CA,US,Retail / eCommerce,2013-04-30,Procurement,SaaS,Fund II
+950,A11404,Sightly,http://sightly.com,US - CA,US,Marketing / Customer Success,2013-10-17,Adtech / Martech,Mobile,Fund II
+952,A12058,Silk Labs,http://silklabs.com,US - CA,US,Retail / eCommerce,2015-11-03,Consumer eCom,Direct sale,Mobile
+953,A11406,Silver Living,http://silverliving.com,US - Non CA,US,Retail / eCommerce,2012-06-12,Consumer services,Cloud / Content,Fund II
+954,A10383,Silvernest,http://silvernest.com,US - Non CA,US,Real Estate / Transportation,2016-09-02,Housing & Real Estate,Marketplace,Fund IV
+955,A10287,Simless,http://simless.com,US - CA,US,IT / Security,2016-04-27,IT tools,Mobile,Fund IV
+956,A11412,Simmr,http://simmr.co,US - CA,US,Retail / eCommerce,2014-01-27,Food,O2O,Fund III
+957,A11413,Simple,http://simple.com,US - Non CA,US,Fintech,2010-08-26,Lending / Investments,SaaS,Fund I
+958,A11418,SimpleHoney,http://iwanthoney.com,US - CA,US,Retail / eCommerce,2011-09-30,Consumer services,SaaS,Fund I
+959,A11511,SimplePrints,https://getsimpleprints.com/,US - CA,US,Media / Collaboration,2011-05-16,Media Content,On-demand / Delivery,"Annex,Fund I"
+960,A10384,SimplifiMed,http://simplifimed.com,US - CA,US,Health / Biotech,2016-08-27,Healthcare ERP,Mobile,Fund IV
+961,A12385,Sira Medical,https://www.siramedical.com/,US - CA,US,Health / Biotech,2019-12-18,Medical Device & Monitoring,SaaS,Fund V
+962,A10641,SiteJabber,http://sitejabber.com,US - CA,US,Retail / eCommerce,2010-09-30,Consumer services,Cloud / Content,Fund I
+963,A11613,Sixa,https://sixa.io/,US - CA,US,IT / Security,2017-10-18,Developer tools,SaaS,Istanbul
+964,A11426,Skipola,http://skipola.com,US - Non CA,US,Fintech,2011-06-28,Payments,Mobile,Fund I
+965,A10355,Skry,http://www.skry.tech/,US - CA,US,IT / Security,2014-05-09,Developer tools,SaaS,Fund III
+966,A12381,Skyhawk,https://www.flypilota.com/,US - Non CA,US,Real Estate / Transportation,2019-12-19,"""Travel, Leisure & Tourism""",SaaS,Fund V
+967,A10288,Slang,http://slangthis.com,US - Non CA,US,Retail / eCommerce,2016-05-19,Fashion,Marketplace,Fund IV
+969,A11428,Slidebean,http://slidebean.com,US - Non CA,US,Media / Collaboration,2014-11-26,Media production,SaaS,Fund III
+970,A10742,Smile Identity,http://smileidentity.com,"US - CA, ME & Africa",US,IT / Security,2017-03-03,Security,SaaS,"Fund IV, Fintech"
+971,A10618,Smith,http://gosmith.com,US - CA,US,Real Estate / Transportation,2014-01-13,Property management,On-demand / Delivery,Fund III
+972,A11432,Smule,https://www.smule.com/,US - Non CA,US,Media / Collaboration,2011-12-01,Media production,Mobile,Fund I
+973,A11434,Snapette,http://snapette.com,US - Non CA,US,Retail / eCommerce,2011-06-08,Fashion,Mobile,Fund I
+974,A10205,Snapsheet,http://www.snapsheetapp.com/,US - Non CA,US,Fintech,2012-07-31,Insurance,Mobile,Fund II
+975,A12151,SnapShyft,https://www.snapshyft.com/,US - Non CA,US,HR / Education,2019-01-22,Recruiting,Marketplace,Fund V
+976,A10086,SnapStays,http://www.snapstays.com/,US - Non CA,US,Real Estate / Transportation,2016-09-06,Coworking,O2O,Fund IV
+977,A11475,SnapUp,http://www.snapup.com/,US - CA,US,Retail / eCommerce,2013-11-26,Consumer services,Mobile,Fund III
+978,A10397,Snout,http://getpawprint.com,US - CA,US,Health / Biotech,2016-10-26,Healthcare IT & Operations,SaaS,Fund IV
+979,A11439,Snowshoe,https://www.snowshoestamp.com/,US - Non CA,US,Fintech,2014-08-15,Payments,Mobile,Fund III
+980,A11447,Socialight Analytics,http://www.socialight.io/,US - Non CA,US,Marketing / Customer Success,2014-11-17,Market intel,Direct service,Fund III
+981,A11448,SocialTables,http://socialtables.com,US - Non CA,US,Retail / eCommerce,2012-09-28,Events,SaaS,Fund II
+982,A11451,SocMetrics,http://socmetrics.com/,US - Non CA,US,Marketing / Customer Success,2012-05-25,CRM / Customer success,SaaS,Fund II
+983,A11744,SOFY,http://sofy.ai,US - Non CA,US,IT / Security,2019-08-16,Developer tools,Mobile,Fund IV
+984,A11323,Solactron,http://www.solactron.com/,US - CA,US,Smart Cities / Industrial,2017-06-09,Energy,Direct sale,Falcons
+985,A11623,Solana,http://solana.io/,US - CA,US,Fintech,2018-03-30,Cryptocurrency,Token,Mobile
+986,A11015,Sonar,http://sendsonar.com,US - CA,US,Marketing / Customer Success,2014-09-23,Adtech / Martech,Mobile,Fund III
+987,A10584,Souktel,http://www.souktel.org/,US - Non CA,US,IT / Security,2016-12-12,Developer Tools,Mobile,Fund IV
+988,A11458,SoundBetter,http://soundbetter.com,US - Non CA,US,Media / Collaboration,2014-01-23,Media production,Marketplace,Fund III
+989,A10170,Sparrow Mobile,http://sparrowmobile.com,US - CA,US,IT / Security,2015-07-07,IT tools,Mobile,Fund III
+990,A11464,Speakergram,http://speakergram.com,US - Non CA,US,Retail / eCommerce,2011-03-16,Events,Marketplace,Fund I
+991,A11467,Speakertext,http://speakertext.com,US - Non CA,US,IT / Security,2010-12-08,Developer tools,SaaS,Fund I
+992,A11471,Speek,http://speek.com,US - Non CA,US,IT / Security,2012-06-01,IT tools,SaaS,Fund II
+993,A10651,Spinnakr,http://spinnakr.com,US - Non CA,US,Marketing / Customer Success,2011-10-01,Adtech / Martech,SaaS,Fund I
+994,A11479,Spoondate,http://spoondate.com,US - CA,US,Media / Collaboration,2011-03-04,Social media,O2O,Fund I
+995,A11483,SpotHero,http://spothero.com,US - Non CA,US,Real Estate / Transportation,2012-08-16,Logistics,O2O,Fund II
+996,A11485,Sprig,http://sprig.com,US - CA,US,Retail / eCommerce,2014-01-07,Food,On-demand / Delivery,Fund III
+997,A11156,Spring Labs,https://www.springlabs.com/,US - CA,US,Fintech,2018-04-09,Banking & Exchange,"TMT, FinTech, Cybersecurity, Cryptocurrency/Blockchain",Fintech
+999,A11486,Sproutkin,http://sproutkin.com,US - CA,US,Retail / eCommerce,2013-02-21,Children / Toys,On-demand / Delivery,Fund II
+1000,A11871,Sqoop,http://sqoop.com,US - Non CA,US,Media / Collaboration,2015-10-21,Journalism / Blogs,SaaS,Fund III
+1001,A11400,Sqoot,http://sqoot.com,US - Non CA,US,IT / Security,2012-05-18,Developer tools,SaaS,Fund II
+1002,A10386,Squadle,http://squadle.com,US - Non CA,US,IT / Security,2016-08-05,Productivity,SaaS,Fund IV
+1003,A11817,Stackin,https://www.startstackin.com/,US - CA,US,Fintech,2018-06-29,Financial research,Mobile,Fintech
+1004,A11490,StackShare,http://stackshare.io,US - CA,US,IT / Security,2015-08-20,Developer tools,SaaS,Fund III
+1005,A11491,StackSocial,http://stacksocial.com,US - CA,US,Retail / eCommerce,2012-05-04,Marketing & Sales,Marketplace,Fund II
+1006,A11776,Starship,https://www.starshiphsa.com/,US - Non CA,US,Fintech,2018-06-05,Insurance,SaaS,Fintech
+1007,A12172,Startup Angels,http://startupangels.co/,US - Non CA,US,Fund,2014-12-02,External fund,Fund investment,Fund III
+1008,A11495,StartupDigest,http://startupdigest.com,US - Non CA,US,Retail / eCommerce,2011-04-22,Events,Cloud / Content,Fund I
+1009,A11497,StartupHouse,http://startuphouse.com,US - CA,US,Real Estate / Transportation,2014-02-07,Coworking,Direct service,Fund III
+1010,A11498,Startups.co,http://startups.co,US - Non CA,US,HR / Education,2014-04-07,Professional services,Cloud / Content,"Fund III, Fund I"
+1011,A11500,Stickery,http://stickeryapp.com,US - CA,US,Media / Collaboration,2011-07-07,Gaming / eSports,Mobile,Fund I
+1013,A11502,Storefront,http://thestorefront.com,US - CA,US,Real Estate / Transportation,2013-02-04,Realty / Rentals,O2O,Fund II
+1014,A11503,StormPulse,http://stormpulse.com,US - Non CA,US,Smart Cities / Industrial,2012-11-15,Envirotech,SaaS,Fund II
+1015,A11506,Storyhunter,https://storyhunter.com/,US - Non CA,US,Media / Collaboration,2014-09-18,Journalism / Blogs,Mobile,"Durians I, Fund III"
+1016,A11905,Stowaway Cosmetics,http://stowawaycosmetics.com,US - Non CA,US,Retail / eCommerce,2015-10-29,Fashion,Direct sale,Fund III
+1017,A10209,Strapping,http://bohoclo.com,US - CA,US,Retail / eCommerce,2014-11-07,Fashion,On-demand / Delivery,Fund III
+1018,A10638,Streamlabs,https://streamlabs.com/,US - CA,US,Media / Collaboration,2011-06-21,Gaming & eSports,SaaS,Fund I
+1019,A10388,StreamLoan,http://streamloan.io,US - CA,US,Fintech,2016-08-31,Lending / Investments,Mobile,"Fund IV, Fintech"
+1020,A11513,Streem,http://streem.com,US - CA,US,IT / Security,2013-04-08,IT tools,Cloud / Content,Fund II
+1021,A12286,Stremium,https://www.fitzytv.com,US - CA,US,Media / Collaboration,2019-06-21,Entertainment,On-demand / Delivery,Fund V
+1022,A11514,Stripe,http://stripe.com,US - CA,US,Fintech,2014-01-23,Payments,SaaS,Fund III
+1023,A11784,StructionSite,https://www.structionsite.com/,US - CA,US,Real Estate / Transportation,2018-05-10,Construction,SaaS,Istanbul
+1024,A11515,StudyEdge,http://studyedge.com,US - Non CA,US,HR / Education,2012-12-31,College / Continuing education,Cloud / Content,Fund II
+1025,A11517,StudyPool,http://studypool.com,US - CA,US,HR / Education,2014-11-24,College / Continuing education,On-demand / Delivery,Fund III
+1026,A11518,StudySoup,http://studysoup.com,US - CA,US,HR / Education,2014-08-07,College / Continuing education,Marketplace,Fund III
+1027,A10478,Stuff Savvy,http://www.allinorder.com/,US - Non CA,US,Real Estate / Transportation,2016-10-20,Property management,SaaS,Fund IV
+1028,A11521,Styleseat,http://styleseat.com,US - CA,US,Retail / eCommerce,2010-10-14,Beauty,O2O,"Annex, Fund I"
+1030,A11523,Sunrise Atelier,http://sunrise.am,US - Non CA,US,IT / Security,2013-05-23,Productivity,SaaS,Fund II
+1031,A10004,Super Lucky Casino,http://superluckycasino.com/,US - CA,US,Media / Collaboration,2011-10-15,Gaming & eSports,Mobile,Fund I
+1033,A10291,Supergleu,http://supergleu.com,US - Non CA,US,HR / Education,2016-05-17,College / Continuing education,SaaS,Fund IV
+1034,A11528,Superhuman,https://superhuman.com/,US - CA,US,IT / Security,2015-04-07,Productivity,SaaS,Fund III
+1035,A12072,Supply.ai,https://www.supply.ai/,US - CA,US,Real Estate / Transportation,2015-11-13,Logistics,SaaS,Fund III
+1036,A11529,SupplyHog,http://supplyhog.com,US - Non CA,US,Real Estate / Transportation,2012-09-26,Construction,On-demand / Delivery,Fund II
+1037,A10098,Surefield,http://surefield.com,US - Non CA,US,Real Estate / Transportation,2014-04-07,Realty / Rentals,O2O,Fund III
+1038,A11532,Survmetrics,http://survmetrics.com,US - Non CA,US,Marketing / Customer Success,2013-11-27,Market intel,SaaS,"Fund III, Lucha I"
+1039,A10941,SVAcademy,https://www.sv.academy/,US - CA,US,HR / Education,2017-04-04,Professional training,Cloud / Content,Fund IV
+1040,A11533,Sverve,http://sverve.com,US - Non CA,US,Marketing / Customer Success,2013-04-09,Adtech / Martech,SaaS,Fund II
+1041,A10182,Swing Education,http://www.swingeducation.com/,US - CA,US,HR / Education,2016-08-09,Education ERP,Marketplace,Fund IV
+1042,A12055,Switch,http://switchapp.com,US - Non CA,US,HR / Education,2015-06-29,Recruiting,SaaS,Mobile
+1043,A11536,Switchcam,http://switchcam.com,US - CA,US,Media / Collaboration,2011-12-27,Media production,On-demand / Delivery,Fund I
+1044,A11541,Synapp.io,http://synapp.io,US - Non CA,US,Marketing / Customer Success,2013-10-03,Adtech / Martech,SaaS,Fund II
+1046,A11872,SynapseMX,http://synapsemx.com,US - Non CA,US,Real Estate / Transportation,2015-11-19,Logistics,SaaS,Fund III
+1047,A10292,T + J Designs,http://tandjdesigns.com,US - Non CA,US,Retail / eCommerce,2016-05-10,Fashion,Direct sale,Fund IV
+1048,A12134,Tackl,http://tackl.co,US - CA,US,HR / Education,2016-08-30,Recruiting,Marketplace,Fund IV
+1049,A12120,tagMonkey,http://tagmonkey.co,US - Non CA,US,IT / Security,2016-03-25,Developer tools,SaaS,Fund IV
+1050,A10420,Talkable,http://talkable.com,US - CA,US,Marketing / Customer Success,2011-04-07,Adtech / Martech,SaaS,"Fund I, Fund III"
+1051,A10295,Tallyfy,http://tallyfy.com,US - Non CA,US,IT / Security,2016-06-15,Productivity,SaaS,Fund IV
+1052,A11548,TapCanvas,http://tapcanvas.com,US - CA,US,IT / Security,2011-11-30,Developer Tools,Mobile,Fund I
+1053,A11558,TaskRabbit,http://taskrabbit.com,US - CA,US,Retail / eCommerce,2011-04-26,Consumer services,On-demand / Delivery,Fund I
+1054,A11561,TeachStreet,http://teachstreet.com,US - Non CA,US,HR / Education,2011-11-18,College / Continuing education,Cloud / Content,Fund I
+1055,A11563,Tealet,http://tealet.com,US - Non CA,US,Retail / eCommerce,2012-10-09,Food,Marketplace,Fund II
+1056,A11758,Team Machine,http://teammachine.ai/,US - CA,US,HR / Education,2016-08-25,Personnel / Benefits,SaaS,Fund IV
+1058,A11564,Teaman & Company,http://teamanco.com,US - CA,US,Retail / eCommerce,2014-04-17,Fashion,Direct sale,Fund III
+1059,A10439,Techmate,https://www.techmate.com/,US - Non CA,US,IT / Security,2016-09-28,IT tools,On-demand / Delivery,Fund IV
+1060,A11569,Teleborder,http://teleborder.com,US - CA,US,HR / Education,2015-02-11,Recruiting,SaaS,Fund III
+1061,A11572,Tello,http://tello.com,US - CA,US,IT / Security,2010-07-30,IT tools,Mobile,Fund I
+1062,A11574,TenderTree,http://tendertree.com,US - CA,US,Health / Biotech,2012-05-02,Patient services,Marketplace,Fund II
+1063,A11222,Territory Foods,https://www.territoryfoods.com/,US - Non CA,US,Retail / eCommerce,2014-04-07,Food,On-demand / Delivery,Fund III
+1064,A11576,Textaurant,http://textaurant.com,US - Non CA,US,Marketing / Customer Success,2011-01-03,Adtech / Martech,Mobile,Fund I
+1065,A12544,The Ambition App,https://theambitionapp.com/,US - CA,US,HR / Education,2020-10-24,College / Continuing education,Mobile,Fund V
+1066,A12355,The Atlas Marketplace,https://the-atlas.com/,US - CA,US,Smart Cities / Industrial,2019-12-05,Government & Smart Cities,Marketplace,Fund V
+1067,A10054,The Beard Club,https://thebeardclub.com/,US - CA,US,Retail / eCommerce,2016-03-07,Beauty,On-demand / Delivery,Fund IV
+1068,A10301,The Pill Club,http://thepillclub.com,US - CA,US,Health / Biotech,2016-06-14,Drug Discovery & Delivery,Direct sale,Fund IV
+1069,A11169,TheIceBreak,http://theicebreak.com,US - CA,US,Media / Collaboration,2011-10-07,Social media,Cloud / Content,Fund I
+1070,A12382,Thematic,http://hellothematic.com/,US - CA,US,Media / Collaboration,2019-12-19,Media Content,Marketplace,Fund V
+1071,A11587,TheRealReal,http://therealreal.com,US - CA,US,Retail / eCommerce,2011-11-08,Fashion,On-demand / Delivery,Fund I
+1072,A11589,Thinknum,http://thinknum.com,US - Non CA,US,Fintech,2014-04-16,Data & Analytics,Cloud / Content,Fund III
+1073,A11591,ThinkUp,http://thinkup.com,US - Non CA,US,Media / Collaboration,2013-08-05,Social media,SaaS,Fund II
+1074,A11908,This Is L.,http://thisisl.com,US - CA,US,Health / Biotech,2015-10-20,OTC Medications,Direct sale,Fund III
+1076,A11751,Tie Society,http://tiesociety.com,US - Non CA,US,Retail / eCommerce,2012-05-01,Fashion,On-demand / Delivery,Fund II
+1077,A11596,Timbuktu,http://timbuktu.me,US - CA,US,HR / Education,2012-05-15,Early childhood,Direct service,Fund II
+1078,A11598,Tinfoil Security,http://tinfoilsecurity.com,US - CA,US,IT / Security,2011-06-30,Security,SaaS,Fund I
+1079,A11899,Tinkergarten,http://tinkergarten.com,US - Non CA,US,HR / Education,2015-12-11,K-12,O2O,Fund III
+1080,A10446,Tioki,http://tioki.com,US - CA,US,HR / Education,2012-05-02,Recruiting,SaaS,Fund II
+1081,A11445,Tip Or Skip,http://tiporskip.com,US - Non CA,US,Media / Collaboration,2011-07-15,Social media,SaaS,Fund I
+1082,A10668,Tonight,https://www.thetonightapp.com/,US - CA,US,Media / Collaboration,2014-07-30,Social media,SaaS,Fund III
+1083,A11606,TopHatch,http://tophatch.com,US - CA,US,Media / Collaboration,2015-08-10,Media production,SaaS,Fund III
+1084,A11607,Torbit,http://torbit.com,US - CA,US,IT / Security,2011-08-12,IT tools,SaaS,Fund I
+1085,A11610,TotSpot,http://totspot.me,US - CA,US,Retail / eCommerce,2014-04-16,Children / Toys,Marketplace,Fund III
+1086,A11614,ToutApp,http://toutapp.com,US - CA,US,Marketing / Customer Success,2011-05-16,CRM / Customer success,SaaS,"Annex, Fund I"
+1088,A10306,TraceAir,http://traceair.net,US - CA,US,Real Estate / Transportation,2016-06-16,Construction,Mobile,Fund IV
+1089,A10562,Traction Labs,http://www.tractionlabsmedia.com/,US - CA,US,Marketing / Customer Success,2013-10-23,Market intel,Marketplace,Fund III
+1090,A11621,Tradehill,http://tradehill.com,US - CA,US,Fintech,2012-06-24,Cryptocurrency,SaaS,Fund II
+1091,A12273,Tradespace,www.tradespace.io,US - CA,US,IT / Security,2019-07-16,IT tools,Direct service,Fund V
+1092,A11622,Tradesy,http://tradesy.com,US - CA,US,Retail / eCommerce,2012-07-11,Fashion,Marketplace,Fund II
+1093,A11626,Trance,http://tranceapp.com,US - CA,US,Media / Collaboration,2015-02-09,Social media,Mobile,Fund III
+1094,A12357,Trash Warrior,https://www.trashwarrior.com/,US - CA,US,Smart Cities / Industrial,2019-12-05,Climate,SaaS,Fund V
+1095,A11385,Traveljoy,http://www.traveljoy.com/,US - Non CA,US,Retail / eCommerce,2014-01-17,Consumer eCom,On-demand / Delivery,Fund III
+1096,A10394,Treat.co,http://treat.co,US - CA,US,Retail / eCommerce,2016-08-05,Pets,On-demand / Delivery,Fund IV
+1097,A10538,Tribal credit,http://aingel.ai/,US - Non CA,US,Fintech,2016-10-25,Financial research,SaaS,"Fund IV, Falcons"
+1098,A11636,Trimian,http://trimian.com,US - CA,US,Marketing / Customer Success,2015-06-04,CRM / Customer success,SaaS,Fund III
+1099,A12175,TripScout,https://tripscout.co/,US - CA,US,Real Estate / Transportation,2018-10-29,Travel / Hospitality,Mobile,Falcons
+1100,A11637,truBrain,http://www.trubrain.com/,US - CA,US,Health / Biotech,2015-07-02,Fitness,On-demand / Delivery,Fund III
+1101,A11801,Truck Fortune,http://www.truckfortune.com/,US - CA,US,Real Estate / Transportation,2018-05-15,Logistics,SaaS,Vietnam
+1102,A11801,Truck Fortune,http://www.truckfortune.com/,US - CA,US,Real Estate / Transportation,2018-05-15,Logistics,SaaS,Vietnam
+1103,A10869,TrueCare24,http://truecare24.com,US - CA,US,Health / Biotech,2017-03-07,Patient services,On-demand / Delivery,Fund IV
+1104,A11735,TrueFace,http://trueface.ai,US - CA,US,IT / Security,2017-12-13,Developer Tools,SaaS,Fund IV
+1105,A11642,TrustCloud,http://trustcloud.com,US - Non CA,US,Fintech,2014-08-06,Financial infrastructure,SaaS,Fund III
+1106,A11643,Trusted Insight,http://thetrustedinsight.com,US - Non CA,US,Fintech,2011-08-10,Lending / Investments,SaaS,"Annex, Fund I"
+1107,A11900,Trustify,http://trustify.info,US - Non CA,US,IT / Security,2015-10-09,Security,Marketplace,Fund III
+1108,A10536,Trym,http://trym.co,US - Non CA,US,Fintech,2016-10-18,Insurance,SaaS,"Fund IV, Fintech"
+1109,A11647,TuckerNuck,http://tnuck.com,US - Non CA,US,Retail / eCommerce,2012-05-11,Fashion,On-demand / Delivery,Fund II
+1110,A12015,Turing,https://turing.com/,US - CA,US,HR / Education,2018-10-05,Recruiting,HR Tech,Vietnam
+1111,A11652,Twilio,http://twilio.com,US - CA,US,IT / Security,2009-11-02,IT tools,SaaS,Fund I
+1112,A11067,Tynker,http://tynker.com,US - CA,US,HR / Education,2012-10-26,K-12,Cloud / Content,Fund II
+1113,A11656,uBiome,http://ubiome.com,US - CA,US,Health / Biotech,2013-12-11,Biotech,SaaS,Fund III
+1114,A11657,Ubooly,http://ubooly.com,US - Non CA,US,Retail / eCommerce,2012-09-13,Children / Toys,Direct sale,Fund II
+1115,A11659,Udemy,http://udemy.com,US - CA,US,HR / Education,2010-08-13,College / Continuing education,On-demand / Delivery,Fund I
+1116,A11660,Uguru,http://uguru.me,US - CA,US,HR / Education,2014-08-18,College / Continuing education,On-demand / Delivery,Fund III
+1117,A11661,UmbaBox,http://umba.com,US - Non CA,US,Retail / eCommerce,2012-04-10,Consumer eCom,Marketplace,Fund II
+1118,A11669,Unikrn,http://unikrn.com,US - Non CA,US,Media / Collaboration,2014-12-08,Gaming / eSports,SaaS,Fund III
+1119,A11673,uNow,http://unow.com,US - CA,US,HR / Education,2011-03-02,Education ERP,SaaS,Fund I
+1120,A11676,Unwind Me,http://unwind.me,US - CA,US,Health / Biotech,2014-01-10,Fitness,On-demand / Delivery,Fund III
+1121,A10379,Up All Night,http://upallnight.us,US - CA,US,Retail / eCommerce,2016-08-29,Events,On-demand / Delivery,Fund IV
+1122,A10593,Upbeat,https://www.upbeatpr.com/,US - CA,US,Marketing / Customer Success,2016-12-15,Adtech / Martech,Direct service,Fund IV
+1124,A12124,Upcraft Club,http://upcraftclub.com,US - Non CA,US,Retail / eCommerce,2016-03-31,Fashion,Cloud / Content,Fund IV
+1125,A11361,Upguard,http://upguard.com,US - Non CA,US,IT / Security,2012-06-05,Security & Storage,SaaS,Fund II
+1126,A11680,UserFox,http://userfox.com,US - CA,US,Marketing / Customer Success,2012-06-12,CRM / Customer success,SaaS,Fund II
+1127,A11013,Vacayo,http://vacayo.com,US - CA,US,Real Estate / Transportation,2017-06-13,Housing & Real Estate,Direct service,Fund IV
+1128,A11685,Valor Water Analytics,http://valorwater.com,US - CA,US,Smart Cities / Industrial,2015-04-02,Envirotech,SaaS,Fund III
+1129,A10122,Vango,http://vangoart.co,US - CA,US,Retail / eCommerce,2015-02-10,Consumer eCom,On-demand / Delivery,Fund III
+1130,A11687,Vantage Sports,http://vantagesports.com,US - Non CA,US,Media / Collaboration,2014-07-30,Sports,SaaS,Fund III
+1131,A11688,Vayable,http://vayable.com,US - CA,US,Real Estate / Transportation,2011-05-18,Travel / Hospitality,O2O,Fund I
+1132,A12161,Vbout,http://www.vbout.com/,US - Non CA,US,Marketing / Customer Success,2018-07-01,Adtech / Martech,SaaS,Falcons
+1133,A11895,Vela Labs,https://welcome.getvela.com/,US - Non CA,US,HR / Education,2015-10-15,Professional services,Direct service,Fund III
+1134,A11830,Verifi Media,http://dotblockchainmedia.com/,US - Non CA,US,IT / Security,2017-05-02,Developer tools,Token,Canada
+1135,A11696,Versly,http://versly.com,US - CA,US,IT / Security,2010-09-23,Productivity,SaaS,Fund I
+1137,A11838,Vessel,http://vessel.io,US - CA,US,IT / Security,2014-04-16,Developer tools,Mobile,Fund III
+1138,A10894,Via Global Health,http://viaglobalhealth.com,US - Non CA,US,Retail / eCommerce,2017-02-24,Procurement,On-demand / Delivery,Fund IV
+1140,A11705,Vidcaster,http://www.vidcaster.com/,US - CA,US,Media / Collaboration,2011-05-16,Media production,Mobile,Fund I
+1141,A11644,Video Pixie,http://videopixie.com,US - CA,US,Media / Collaboration,2014-04-14,Media production,Marketplace,Fund III
+1142,A11554,Videokits,http://videokits.com,US - CA,US,Media / Collaboration,2012-11-02,Media production,Mobile,Fund II
+1143,A11713,Village Defense,http://villagedefense.com,US - Non CA,US,Smart Cities / Industrial,2015-08-06,Civictech,SaaS,Fund III
+1144,A11714,ViralGains,http://viralgains.com,US - Non CA,US,Marketing / Customer Success,2013-10-05,Data & Analytics,SaaS,Fund III
+1145,A11716,Virool,http://virool.com,US - CA,US,Marketing / Customer Success,2012-05-07,Market intel,SaaS,Fund II
+1146,A10942,Visabot,http://visabot.co,US - CA,US,Real Estate / Transportation,2017-04-05,Travel / Hospitality,SaaS,Fund IV
+1147,A12281,Visionful,https://www.visionful.ai/,US - CA,US,Real Estate / Transportation,2019-06-21,Vehicle dealer,SaaS,Fund V
+1148,A11717,Visual.ly,http://visual.ly,US - CA,US,Media / Collaboration,2011-02-28,Media production,Marketplace,"Annex, Fund I"
+1149,A11617,Vivoo,https://www.vivoo.io/,US - CA,US,Health / Biotech,2017-10-23,Health monitoring,Direct sale,Istanbul
+1150,A11721,Vizalytics,http://vizalytics.com,US - Non CA,US,IT / Security,2014-07-17,Productivity,SaaS,Fund III
+1151,A12347,VlogEasy,https://vlogeasy.com/,US - CA,US,Media / Collaboration,2019-11-13,Social media,Mobile ,Durians II
+1152,A11723,Voicendo,http://voicendo.com,US - CA,US,IT / Security,2011-01-11,IT tools,SaaS,Fund I
+1153,A11725,Volio,http://volio.me,US - CA,US,Media / Collaboration,2012-08-07,Entertainment,SaaS,Fund II
+1154,A11726,Volta Industries,http://www.voltacharging.com/,US - CA,US,Real Estate / Transportation,2013-12-16,Automotive,O2O,Fund III
+1155,A11728,Vonjour,http://vonjour.com,US - CA,US,IT / Security,2014-11-04,IT tools,SaaS,Fund III
+1156,A11730,Votizen,http://www.votizen.com/,US - CA,US,Smart Cities / Industrial,2010-07-12,Civictech,Cloud / Content,Fund I
+1157,A10487,Voxeet,http://voxeet.com,US - CA,US,IT / Security,2016-09-26,IT tools,SaaS,Fund IV
+1158,A11901,Voyajoy,http://voyajoy.com,US - CA,US,Real Estate / Transportation,2015-12-01,Property management,SaaS,Fund III
+1159,A11005,VR Motion,http://vrmotioncorp.com,US - Non CA,US,Real Estate / Transportation,2017-06-06,Autotech,Mobile,Fund IV
+1160,A11707,VTS,http://vts.com,US - Non CA,US,Real Estate / Transportation,2013-04-26,Property management,SaaS,Fund II
+1161,A11736,Vungle,http://vungle.com,US - CA,US,Marketing / Customer Success,2011-12-22,Adtech / Martech,Mobile,"Annex, Fund I"
+1162,A11739,Waffle,www.wafflechat.com,US - CA,US,Media / Collaboration,2014-04-15,Media production,SaaS,Fund III
+1163,A11743,WakeMate,http://wakemate.com,US - Non CA,US,Health / Biotech,2010-08-06,Health monitoring,Direct sale,Fund I
+1164,A11745,WalkerCo,http://walkerandcompany.com,US - CA,US,Retail / eCommerce,2013-08-06,Beauty,On-demand / Delivery,Fund II
+1165,A11749,Wanderable,http://wanderable.com,US - CA,US,Real Estate / Transportation,2012-05-15,Travel / Hospitality,SaaS,Fund II
+1166,A11750,Wanderu,http://wanderu.com,US - Non CA,US,Real Estate / Transportation,2014-11-20,Travel / Hospitality,On-demand / Delivery,Fund III
+1167,A11630,Waygo,http://waygoapp.com,US - Non CA,US,Media / Collaboration,2012-09-27,Language and Translation services,Mobile,Fund II
+1168,A10124,We Are Onyx,http://weareonyx.com,US - CA,US,Retail / eCommerce,2016-11-15,Beauty,On-demand / Delivery,Fund IV
+1169,A11756,WeddingLovely,http://weddinglovely.com,US - CA,US,Retail / eCommerce,2011-10-01,Events,Marketplace,Fund I
+1170,A11757,Wedgies,http://wedgies.com,US - Non CA,US,Media / Collaboration,2013-03-06,Collaboration,SaaS,Fund II
+1171,A11759,WeDidIt,http://wedid.it,US - Non CA,US,Fintech,2014-08-11,Grants / Donations,SaaS,Fund III
+1172,A11760,Wednesdays,http://wednesdays.com/,US - CA,US,Media / Collaboration,2011-03-01,Social media,SaaS,Fund I
+1173,A11762,WeFinance,http://wefinance.co,US - CA,US,Fintech,2015-08-27,Lending / Investments,Marketplace,Fund III
+1174,A11765,WePay,http://wepay.com,US - CA,US,Fintech,2009-12-10,Payments,SaaS,Fund I
+1175,A12065,WeTravel,http://wetravel.com,US - CA,US,Fintech,2016-01-27,Lending / Investments,SaaS,Mobile
+1176,A11767,Wevorce,http://wevorce.com,US - Non CA,US,HR / Education,2013-08-19,Legal services,Marketplace,Fund II
+1177,A10944,Whale,https://askwhale.com/,US - CA,US,Media / Collaboration,2017-04-10,Social media,SaaS,Fund IV
+1178,A11768,Whale Path,http://whalepath.com,US - CA,US,Marketing / Customer Success,2014-01-02,Market intel,SaaS,Fund III
+1180,A10542,Whereto,http://wherefor.com,US - Non CA,US,Real Estate / Transportation,2016-10-31,Travel / Hospitality,SaaS,Fund IV
+1181,A11913,Whiplash Merchandising,http://whiplashmerch.com,US - Non CA,US,Real Estate / Transportation,2015-12-07,Logistics,On-demand / Delivery,Fund III
+1182,A11773,WholeShare,http://wholeshare.com,US - CA,US,Retail / eCommerce,2011-12-20,Food,O2O,Fund I
+1183,A11775,Wideo,http://wideo.co,US - CA,US,Media / Collaboration,2013-02-08,Media production,SaaS,Fund II
+1184,A11778,Wildfire,http://wildfireapp.com,US - CA,US,Marketing / Customer Success,2010-07-31,Market intel,SaaS,Fund I
+1185,A11780,WillCall,http://www.getwillcall.com/,US - CA,US,Retail / eCommerce,2011-05-18,Events,O2O,Fund I
+1186,A10163,Willing,http://willing.com,US - Non CA,US,Retail / eCommerce,2015-04-27,Consumer services,On-demand / Delivery,Fund III
+1187,A10872,Win-Win,http://trywinwin.com,US - CA,US,Media / Collaboration,2017-02-27,Sports,Marketplace,Fund IV
+1188,A10346,Winc,https://www.winc.com/,US - CA,US,Retail / eCommerce,2012-10-07,Home & Personal,On-demand / Delivery,Fund II
+1189,A10274,Wiselike,http://wiselike.com,US - CA,US,Media / Collaboration,2015-01-28,Social media,SaaS,Fund III
+1190,A11783,Wiser,http://wiser.com,US - CA,US,Marketing / Customer Success,2013-05-13,Market intel,SaaS,Fund II
+1191,A11639,Wist,http://www.getwist.com/,US - CA,US,Media / Collaboration,2012-03-05,Social media,Mobile,Fund II
+1192,A11785,Wittlebee,http://wittlebee.com/,US - CA,US,Retail / eCommerce,2013-02-12,Children / Toys,On-demand / Delivery,Fund II
+1193,A10316,Wivity,http://wivity.com,US - CA,US,IT / Security,2016-05-16,Security,Mobile,Fund IV
+1194,A11788,Womply,http://womply.com,US - Non CA,US,Marketing / Customer Success,2011-06-21,Market intel,SaaS,"Annex, Fund I"
+1195,A11453,WonderSchool,https://www.wonderschool.com/,US - CA,US,Media / Collaboration,2011-10-27,Social media,SaaS,Fund I
+1196,A12135,WorkAmerica,http://workamerica.co,US - Non CA,US,HR / Education,2016-04-01,Recruiting,Marketplace,Fund IV
+1197,A12125,WorkGenius,http://workgeni.us,US - CA,US,HR / Education,2016-03-31,Personnel / Benefits,SaaS,Fund IV
+1198,A10318,Worklete,http://worklete.com,US - CA,US,Health / Biotech,2016-06-15,Medical advice,SaaS,Fund IV
+1199,A10729,WorkLife,http://worklife.com,US - CA,US,IT / Security,2015-04-07,Productivity,Mobile,Fund III
+1200,A11916,WorldCover,http://worldcovr.com,US - Non CA,US,Fintech,2015-10-07,Insurance,Marketplace,Fund III
+1201,A11795,WorldShop,http://worldshop.com,US - Non CA,US,Real Estate / Transportation,2014-04-01,Logistics,On-demand / Delivery,Fund III
+1202,A12126,Worthix,http://worthix.com,US - CA,US,Marketing / Customer Success,2016-04-08,Market intel,SaaS,Fund IV
+1203,A11551,Wove,https://wove.com/,US - CA,US,Marketing / Customer Success,2014-08-15,Adtech / Martech,Mobile,Fund III
+1204,A11798,YaSabe,http://yasabe.com,US - Non CA,US,HR / Education,2013-01-15,Professional services,Marketplace,Fund II
+1205,A10746,YayPay,http://yaypay.com,US - Non CA,US,Fintech,2017-03-02,Finance & Accounting,SaaS,"Fund IV,Fintech"
+1206,A11422,YellowDig,http://yellowdig.com,US - Non CA,US,HR / Education,2015-02-09,College / Continuing education,SaaS,Fund III
+1207,A11807,YesGraph,http://yesgraph.com,US - CA,US,Marketing / Customer Success,2015-04-03,Adtech / Martech,SaaS,Fund III
+1208,A11810,Yongopal,http://wanderwith.us,US - Non CA,US,Media / Collaboration,2010-12-06,Social media,Cloud / Content,Fund I
+1209,A12128,YouStake,http://youstake.com,US - CA,US,Fintech,2016-02-26,Gambling,Marketplace,Fund IV
+1210,A10042,Yumi,https://helloyumi.com/,US - CA,US,Retail / eCommerce,2016-04-30,Food,Direct sale,Fund IV
+1211,A11812,Zappli,http://www.zappli.com/,US - CA,US,Retail / eCommerce,2010-09-17,Consumer services,SaaS,Fund I
+1212,A10801,ZBoard,http://zboardshop.com,US - CA,US,Real Estate / Transportation,2013-11-07,Vehicle dealer,Direct sale,Fund III
+1213,A11816,Zencoder,http://zencoder.com,US - CA,US,Media / Collaboration,2010-08-03,Media production,SaaS,Fund I
+1214,A11818,Zendy Place,http://zendyhealth.com,US - CA,US,Health / Biotech,2015-09-08,Patient services,SaaS,Fund III
+1215,A10510,Zentist,http://zentist.io,US - CA,US,Health / Biotech,2016-10-05,Patient services,O2O,Fund IV
+1216,A11993,Zenysis,http://zenysis.com,US - CA,US,Smart Cities / Industrial,2016-02-03,Govtech,SaaS,"Durians I, Fund IV"
+1217,A11821,Zesty,http://zesty.com,US - CA,US,Retail / eCommerce,2014-04-17,Food,On-demand / Delivery,Fund III
+1218,A11283,Zeuss,http://www.zeuss.tech/,US - CA,US,Fintech,2018-09-19,Financial infrastructure,"SaaS, FinTech, Cryptocurrency/Blockchain",Vietnam
+1219,A11823,Ziippi,http://ziippi.com,US - CA,US,Marketing / Customer Success,2012-11-13,Adtech / Martech,SaaS,Fund II
+1220,A11824,Zillabyte,http://zillabyte.com,US - CA,US,IT / Security,2013-04-17,Productivity,SaaS,Fund II
+1221,A11834,Zoomforth,http://zoomforth.com,US - CA,US,Marketing / Customer Success,2014-07-30,Adtech / Martech,SaaS,Fund III
+1222,A11835,Zootrock,http://zootrock.com,US - CA,US,Media / Collaboration,2014-04-16,Social media,SaaS,Fund III
+1223,A11259,Zowdow,http://www.quickly.co/,US - CA,US,Marketing / Customer Success,2015-04-24,Adtech / Martech,Mobile,"Fund III, Mobile"
+1224,A10141,Zya,http://zyamusic.com/,US - CA,US,Media / Collaboration,2016-04-29,Media production,SaaS,Mobile
+1225,A10749,Zyudly Labs,http://zyudlylabs.com,US - CA,US,IT / Security,2017-03-01,Security,SaaS,"Fund IV, Fintech"
